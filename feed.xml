@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://no-arbitrage.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://no-arbitrage.github.io/" rel="alternate" type="text/html" /><updated>2024-10-23T21:34:50+00:00</updated><id>https://no-arbitrage.github.io/feed.xml</id><title type="html">No Arbitrage</title><subtitle>No Arbitrate is a personal blog created to share practical financial knowledge,  ranging from basics to advanced concepts, and from theory to hands-on spreadsheet techniques.  A space for exchanging ideas, making connections, and inspiring each others.</subtitle><author><name>Joseph Cai</name></author><entry><title type="html">Welcome to No Arbitrage!</title><link href="https://no-arbitrage.github.io/planning/2024/10/14/welcome-to-my-first-blog.html" rel="alternate" type="text/html" title="Welcome to No Arbitrage!" /><published>2024-10-14T00:00:00+00:00</published><updated>2024-10-14T00:00:00+00:00</updated><id>https://no-arbitrage.github.io/planning/2024/10/14/welcome-to-my-first-blog</id><content type="html" xml:base="https://no-arbitrage.github.io/planning/2024/10/14/welcome-to-my-first-blog.html"><![CDATA[<h2 id="welcome">Welcome</h2>
+
+<p>Hello! I am thrilled that you are here! This is my first and latest blog where I will share my thoughts on financial market and financial fundamental knowledge and occassionally practical example files (models and slides). You can find more about me in the ABOUT page.</p>
+
+<p>To add new posts, simply add a file in the <code class="language-plaintext highlighter-rouge">_posts</code> directory that follows the convention <code class="language-plaintext highlighter-rouge">YYYY-MM-DD-name-of-post.ext</code> and includes the necessary front matter. Take a look at the I</p>
+
+<h2 id="topic-schedule">Topic Schedule</h2>
+<p>There is a list of topics that I already have in mind that I would lilke to share and hopefully gather your thoughts.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Topic</th>
+      <th>Descriptions</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Corporate Finance 101</td>
+      <td>Fundamental framework of classic topics in Corporate Finance.</td>
+    </tr>
+    <tr>
+      <td>Business Model 101</td>
+      <td>A easy to apply framework for any types of business</td>
+    </tr>
+    <tr>
+      <td>Often Mistakes in Valuation</td>
+      <td>Maybe opinionated</td>
+    </tr>
+    <tr>
+      <td>Automate model updates with Power Query</td>
+      <td>One click updates all</td>
+    </tr>
+    <tr>
+      <td>Sales Dashboard End to End showcase</td>
+      <td>Power BI and standard dataset</td>
+    </tr>
+    <tr>
+      <td>Book recommendation</td>
+      <td>Building a StoryBrand by Donald Miller</td>
+    </tr>
+    <tr>
+      <td>Book recommendation</td>
+      <td>The Synergy Solution by Mark Sirower, Jeff Weirens</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="what-youd-be-interested-in">What you’d be interested in</h2>
+<p>Please feel free to reach out to me on LinkedIn to let me know your thoughts and make any recommendations if you have.</p>
+
+<!-- Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]: https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/ -->]]></content><author><name>Joseph</name></author><category term="Planning" /><category term="topics" /><category term="summary" /><summary type="html"><![CDATA[Welcome]]></summary></entry></feed>
