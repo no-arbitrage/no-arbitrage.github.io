@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lorem on No Arbitrage</title>
+    <link>http://localhost:1313/tags/lorem/</link>
+    <description>Recent content in Lorem on No Arbitrage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>cai-joseph@outlook.com (Joseph Cai)</managingEditor>
+    <webMaster>cai-joseph@outlook.com (Joseph Cai)</webMaster>
+    <copyright>&amp;copy; 2025 No Arbitrage. All rights reserved.</copyright>
+    <lastBuildDate>Mon, 25 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/lorem/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Calculating Returns</title>
+      <link>http://localhost:1313/posts/2024-11-about-return-concept/</link>
+      <pubDate>Mon, 25 Nov 2024 00:00:00 +0000</pubDate>
+      <author>cai-joseph@outlook.com (Joseph Cai)</author>
+      <guid>http://localhost:1313/posts/2024-11-about-return-concept/</guid>
+      <description>Do you know what does APR on your credit mean?</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/2024-11-about-return-concept/cover.jpg" />
+    </item>
+    
+    <item>
+      <title>Unlocking cross sales opportunities with pre-made Basket Analysis template</title>
+      <link>http://localhost:1313/posts/2024-11-basket-analysis-for-sales-managers/</link>
+      <pubDate>Sun, 10 Nov 2024 00:00:00 +0000</pubDate>
+      <author>cai-joseph@outlook.com (Joseph Cai)</author>
+      <guid>http://localhost:1313/posts/2024-11-basket-analysis-for-sales-managers/</guid>
+      <description>Basket Analysis for Sales Managers</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/2024-11-basket-analysis-for-sales-managers/cover.jpg" />
+    </item>
+    
+    <item>
+      <title>Causation between ESG and Profitability.</title>
+      <link>http://localhost:1313/posts/2024-10-causation-between-esg-and-profitability/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      <author>cai-joseph@outlook.com (Joseph Cai)</author>
+      <guid>http://localhost:1313/posts/2024-10-causation-between-esg-and-profitability/</guid>
+      <description>LFocus on causation might limit the perspective needed to see the bigger picture.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/2024-10-causation-between-esg-and-profitability/cover.jpg" />
+    </item>
+    
+    <item>
+      <title>Comparing Default Solvers in Excel</title>
+      <link>http://localhost:1313/posts/2024-11-comparing-solvers-in-excel/</link>
+      <pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate>
+      <author>cai-joseph@outlook.com (Joseph Cai)</author>
+      <guid>http://localhost:1313/posts/2024-11-comparing-solvers-in-excel/</guid>
+      <description>Simplex is more likely to be the best option.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/2024-11-comparing-solvers-in-excel/cover.jpg" />
+    </item>
+    
+    <item>
+      <title>Welcome to No Arbitrage!</title>
+      <link>http://localhost:1313/posts/2024-10-welcome-to-my-first-blog/</link>
+      <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
+      <author>cai-joseph@outlook.com (Joseph Cai)</author>
+      <guid>http://localhost:1313/posts/2024-10-welcome-to-my-first-blog/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;Welcome 
+    &lt;div id=&#34;welcome&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#welcome&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;Hello! I am thrilled that you are here! This is my first and latest blog where I will share my thoughts on financial market and financial fundamental knowledge and occassionally practical example files (models and slides). You can find more about me in the ABOUT page.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/2024-10-welcome-to-my-first-blog/cover.jpg" />
+    </item>
+    
+    <item>
+      <title>You Don’t Have an ESG Strategy</title>
+      <link>http://localhost:1313/posts/2024-10-you-don-t-have-a-esg-strategy/</link>
+      <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
+      <author>cai-joseph@outlook.com (Joseph Cai)</author>
+      <guid>http://localhost:1313/posts/2024-10-you-don-t-have-a-esg-strategy/</guid>
+      <description>You Don’t Have an ESG Strategy—What You’ve Been Sold Is ESG Planning.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/2024-10-you-don-t-have-a-esg-strategy/cover.jpg" />
+    </item>
+    
+  </channel>
+</rss>

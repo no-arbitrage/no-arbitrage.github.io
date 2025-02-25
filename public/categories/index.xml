@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on No Arbitrage</title>
+    <link>http://localhost:1313/categories/</link>
+    <description>Recent content in Categories on No Arbitrage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>cai-joseph@outlook.com (Joseph Cai)</managingEditor>
+    <webMaster>cai-joseph@outlook.com (Joseph Cai)</webMaster>
+    <copyright>&amp;copy; 2025 No Arbitrage. All rights reserved.</copyright>
+    <lastBuildDate>Mon, 24 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Goldman Sachs</title>
+      <link>http://localhost:1313/categories/goldman-sachs/</link>
+      <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
+      <author>cai-joseph@outlook.com (Joseph Cai)</author>
+      <guid>http://localhost:1313/categories/goldman-sachs/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>List</title>
+      <link>http://localhost:1313/categories/list/</link>
+      <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
+      <author>cai-joseph@outlook.com (Joseph Cai)</author>
+      <guid>http://localhost:1313/categories/list/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Reading</title>
+      <link>http://localhost:1313/categories/reading/</link>
+      <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
+      <author>cai-joseph@outlook.com (Joseph Cai)</author>
+      <guid>http://localhost:1313/categories/reading/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Blog</title>
+      <link>http://localhost:1313/categories/blog/</link>
+      <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
+      <author>cai-joseph@outlook.com (Joseph Cai)</author>
+      <guid>http://localhost:1313/categories/blog/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Post</title>
+      <link>http://localhost:1313/categories/post/</link>
+      <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
+      <author>cai-joseph@outlook.com (Joseph Cai)</author>
+      <guid>http://localhost:1313/categories/post/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
