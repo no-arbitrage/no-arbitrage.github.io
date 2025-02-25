@@ -1,0 +1,128 @@
+colorScheme = "Slate"
+defaultAppearance = "light"
+autoSwitchAppearance = true
+enableSearch = true
+enableCodeCopy = true
+replyByEmail = false
+disableImageOptimization = false
+disableTextInHeader = false
+giteaDefaultServer = "https://git.fsfe.org"
+forgejoDefaultServer = "https://v8.next.forgejo.org"
+highlightCurrentMenuArea = true
+# smartTOC = true
+# smartTOCHideUnfocusedChildren = true
+mainSections = [ "posts" ]
+backgroundImageWidth = 1200
+defaultBackgroundImage = "/img/background.svg"
+
+[header]
+layout = "fixed-gradient"
+
+[footer]
+showMenu = true
+showCopyright = true
+showThemeAttribution = true
+showAppearanceSwitcher = true
+showScrollToTop = true
+
+[homepage]
+layout = "profile"
+showRecent = true
+showRecentItems = 6
+showMoreLink = true
+showMoreLinkDest = "/posts/"
+cardView = true
+cardViewScreenWidth = false
+layoutBackgroundBlur = true
+defaultFeaturedImage = "/img/lavalamp.svg"
+defaultBackgroundImage = "/img/background.svg"
+homepageImage = "/img/background.svg"
+
+[article]
+  showDate = true
+  #showViews = true
+  #showLikes = true
+  showDateUpdated = false
+  showComments = true
+  showAuthor = true
+  showHero = true
+  heroStyle = "basic" # valid options: basic, big, background
+  showBreadcrumbs = true
+  showDraftLabel = true
+  showEdit = false
+  # editURL = "https://github.com/username/repo/"
+  showAuthorBottom = true
+  editAppendPath = true
+  seriesOpened = false
+  showHeadingAnchors = true
+  showPagination = true
+  invertPagination = false
+  showReadingTime = true
+  showTableOfContents = true
+  showTaxonomies = false 
+  showAuthorsBadges = false 
+  showWordCount = true
+  showSummary = true
+  sharingLinks = [ "linkedin", "twitter", "whatsapp", "pinterest", "reddit", "facebook", "email"]
+
+[list]
+showHero = true
+heroStyle = "background"
+defaultBackgroundImage = "/img/background.svg"
+# valid options: basic, big, background, thumbAndBackground
+layoutBackgroundBlur = true
+# only used when heroStyle equals background
+layoutBackgroundHeaderSpace = true
+showBreadcrumbs = true
+showSummary = false
+showViews = false
+showLikes = false
+showTableOfContents = true
+showCards = true
+orderByWeight = false
+groupByYear = true
+cardView = true
+cardViewScreenWidth = false
+constrainItemsWidth = false
+
+[sitemap]
+excludedKinds = [ "taxonomy", "term" ]
+
+[taxonomy]
+showTermCount = true
+showHero = false
+heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+defaultBackgroundImage = "/img/lavalamp.svg"
+# valid options: basic, big, background, thumbAndBackground
+layoutBackgroundBlur = true
+# only used when heroStyle equals background
+layoutBackgroundHeaderSpace = true
+showBreadcrumbs = true
+showViews = false
+showLikes = false
+showTableOfContents = true
+cardView = false
+
+[term]
+showHero = false
+showBreadcrumbs = true
+showViews = false
+showLikes = false
+showTableOfContents = true
+groupByYear = true
+cardView = false
+cardViewScreenWidth = false
+
+[firebase]
+
+[fathomAnalytics]
+
+[umamiAnalytics]
+
+[selineAnalytics]
+
+[buymeacoffee]
+
+[verification]
+
+[rssnext]

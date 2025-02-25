@@ -1,0 +1,29 @@
+@font-face {
+    font-family: 'Roboto';
+    /* src: url('/fonts/Libre-Baskerville-Regular.ttf'); */
+    src: url('/fonts/Roboto-Regular.ttf');
+}
+@font-face {
+  font-family: 'Baskerville';
+  /* src: url('/fonts/Libre-Baskerville-Regular.ttf'); */
+  src: url('/fonts/BASKVILL.ttf');
+}
+
+@font-face {
+  font-family: 'Libre-Baskerville';
+  /* src: url('/fonts/Libre-Baskerville-Regular.ttf'); */
+  src: url('/fonts/Libre-Baskerville-Regular.ttf');
+}
+
+html {
+    font-family: 'Roboto';
+}
+html {
+  font-size: '11';
+}
+
+
+/* Increase the default font size */
+/* title {
+  font-size: '14';
+} */
