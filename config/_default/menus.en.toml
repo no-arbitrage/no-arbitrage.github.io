@@ -121,7 +121,7 @@ weight = 7
 
 [[main]]
 pre = "github"
-pageRef = "https://github.com/no-arbitrage"
+pageRef = "https://github.com/no-arbitrage/no-arbitrage.github.io/"
 identifier = "cpbxL6BzBj"
 weight = 10
 
