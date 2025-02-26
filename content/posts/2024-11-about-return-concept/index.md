@@ -8,11 +8,8 @@ tags: ["post","lorem","ipsum"]
 date: 2024-11-25
 draft: false
 ---
-![banner](/assets/images/posts/kenny-eliason-maJDOJSmMoo-unsplash.jpg)
 
-Images: kenny-eliason (unsplash.com)
-
-# Motivation
+## Motivation
 
 This post is mainly about a few return concepts common in Fixed Income.  This post is driven by a LinkedIn post that I saw the other day, people are debating about return, yield and bond prices. I think it maybe an interesting topic to discuss in my blog. The target audience could be 
 
@@ -21,11 +18,11 @@ This post is mainly about a few return concepts common in Fixed Income.  This po
 
 I hope you enjoy this post.
 
-# Measuring Return
+## Measuring Return
 
-## Holding Period Return  (HPR)
+### Holding Period Return  (HPR)
 
-### Zero coupon bonds, held to maturity
+#### Zero coupon bonds, held to maturity
 
 There is a fixed income (bond) product, If we paid X today, and we will receive 100 by end of the period (6 months), when the bond matures, Then we say. 
 
@@ -35,7 +32,7 @@ There is a fixed income (bond) product, If we paid X today, and we will receive 
 
 Right, if the holding period is now 18 months, the formula doesn’t change, because in holding period return, as long as the bond doesn’t pay interests during the term, you can ignore the compounding behaviour. 
 
-### Interest bearing bonds, held to maturity
+#### Interest bearing bonds, held to maturity
 
 There is a bond, The face value of the bond is 100, the maturity of the bond is 12 months. there will be interest payment every 6 months. the coupon rate is 4%. the bond is trading at 101. what is the holding period return if we hold the bond to its maturity. 
 
@@ -55,11 +52,11 @@ However, by its maturity, the bond price will converge to its face value. Becaus
 
 You might hear people use the term duration. for zero coupon bond the duration = its maturity.  for interest bearing, if people use it interchangeably, correct them. The duration will be shorter than its maturity. 
 
-## Effective Annual Rate (EAR or CAGR)
+### Effective Annual Rate (EAR or CAGR)
 
 Effective Annual Rate is the most frequent used return concept in investment world. When people mention CAGR, it also refers to this concept.  .The concept is defined as  **percentage increase in funds per year.**
 
-### Concept about compounding
+#### Concept about compounding
 
 When the product is within one year (we call this money market),  the convention is to not calculate the compounding effects, therefore not to use the Effective Annual Return, instead we use a new concept Annual Percentage return, which will come shortly. For now, just assume the compounding effect also exit for products within one year.
 
@@ -79,7 +76,7 @@ f the product is 10 years long, no coupon payment before maturity, it explicitly
 
 Principle *  e ^ (5% * 10)
 
-### Zero coupon bond, held to maturity
+#### Zero coupon bond, held to maturity
 
 There is a zero coupon bond with a 10 years maturity (or duration). the face value is 100, the bond is currently trading at 75. what is the Effective Annual Rate? 
 
@@ -89,7 +86,7 @@ There is a zero coupon bond with a 10 years maturity (or duration). the face val
 
 We don’t talk about the case for interest bearing bonds in Effective Annual Rate, because once you have intermediary cash flow, it becomes a different concept IRR. internal rate of return. 
 
-## Annual Percentage Rate (APR)
+### Annual Percentage Rate (APR)
 
 Effective annual rates explicitly account for compound interest. In contrast, rates on short
 term investments (by convention, with holding periods less than a year), are in practice
@@ -102,7 +99,7 @@ A **credit card’s APR** (annual percentage rate) is the total cost of its in
 
 To make it simple, let’s assume you don’t pay the card fee. Suppose you must pay 1.5% interest per month on your outstanding credit card balance. The APR would be reported as 1.5% × 12 = 18%, but the effective annual rate is higher, 19.56%, because 1.015^12 − 1 = 0.1956. Until you pay off your outstanding balance, it will increase each month by the multiple 1.015, so after 12 months, the balance will increase by 1.01512. This is why we call the EAR an effective rate. However the banks are only required to market APR. 
 
-# Closing thoughts
+## Closing thoughts
 
 Return calculation is one of the basic building block of skillsets for people who choose finance as their major or career. It is confusing at first, but after a few repetitions, it will become clearer. 
 
