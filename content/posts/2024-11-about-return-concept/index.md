@@ -60,7 +60,7 @@ Effective Annual Rate is the most frequent used return concept in investment wor
 
 When the product is within one year (we call this money market),  the convention is to not calculate the compounding effects, therefore not to use the Effective Annual Return, instead we use a new concept Annual Percentage return, which will come shortly. For now, just assume the compounding effect also exit for products within one year.
 
- A 12 month coupon bond calculates coupon every six month, however it doesn’t pay until maturity, that means it will roll the first interest payment in to the sum and use that to calculate my second interest income.  
+A 12 month coupon bond calculates coupon every six month, however it doesn’t pay until maturity, that means it will roll the first interest payment in to the sum and use that to calculate my second interest income.  
 
 Principle * ( 1 + (5%/2)) ^ 2
 
@@ -72,7 +72,7 @@ But if the product is 10 years long, no coupon payment before maturity, it expli
 
 Principle * ( 1 + 5% / 4) ^ ( 10 * 4)  
 
-f the product is 10 years long, no coupon payment before maturity, it explicitly says interest compounding is calculated continously, then your return is 
+If the product is 10 years long, no coupon payment before maturity, it explicitly says interest compounding is calculated continously, then your return is 
 
 Principle *  e ^ (5% * 10)
 
