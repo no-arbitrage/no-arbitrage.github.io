@@ -8,8 +8,6 @@ tags: ["post","lorem","ipsum"]
 date: 2024-11-10
 draft: false
 ---
-![banner](/assets/images/posts/jacek-dylag-jo8C9bt3uo8-unsplash.jpg)
-Images: Jacek Dylag (unsplash.com)
 
 ## Goal
 
@@ -39,9 +37,7 @@ So, because the purpose of this article is to give sales manager a tool that the
 
 There are detailed instructions in the file. I’ve tested with some of proprietary data I have access to, it worked. but in case yours throw errors, feel free to pin me an email with screenshot and I shall come back as soon as i can.
 
-File Attachment: [Basket analysis - Basic.xlsx][1]
 
-
-
-
-[1]:{{ site.url }}/assets/xlsx/Basket-analysis-Basic.xlsx
+{{< button href="#button" target="Basket-analysis-Basic.xlsx" >}}
+Download Excel Workbook
+{{< /button >}}

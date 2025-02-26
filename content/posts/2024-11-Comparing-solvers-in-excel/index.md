@@ -8,7 +8,6 @@ tags: ["post","lorem","ipsum"]
 date: 2024-10-04
 draft: false
 ---
-![banner](/assets/images/solver.png)
 
 ## **Simplex Method**
 

@@ -14,11 +14,11 @@ draft: false
 ### Newspapers
 They deliver news services, markets reports and price quotations to customer screens in most financial institutions. They provide constant real-time datafeeds on currencies, stocks, bonds, futures,
  options and other instruments across a range of countries and markets.
-- Reuters, Bloomberg and Bridge (Global information product suppliers)
-- *Wall Street Journal* (US): available in European and Asian editions, though their international coverage
-- The New York Times
-- Investor’s Business Daily.
-- *Financial Times* (UK)
+- [Reuters](https://www.reuters.com/), [Bloomberg](https://www.bloomberg.com/uk) and [Capital IQ](https://www.spglobal.com/market-intelligence/en/) (Global information product suppliers)
+- *[Wall Street Journal](https://www.wsj.com/)* (US): available in European and Asian editions, though their international coverage
+- [The New York Times](https://www.nytimes.com/international/)
+- [Investor’s Business Daily](https://www.investors.com/)
+- *[Financial Times](https://www.ft.com/)* (UK)
 
 ### Online Sources
 Information Sources on Individual Companies
@@ -83,7 +83,11 @@ They can supplement the real-time information available electronically
 - the Handbook of Market Leaders, which includes data on contract details, share prices, up to five years of financial information, activity analysis and graphic share-price analysis.
 
 ### TV / Radios (mostly in the UK)
+<<<<<<< HEAD
 - the weekly Radio 4 programme *Money Box* with its wide-ranging discussions of personal finance,
+=======
+- Radio 4 programme *Money Box* with its wide-ranging discussions of personal finance (weekly)
+>>>>>>> 74f50c9 (update url)
 - the BBC2’s business forum, The Money Programme.
 - the television data services, CEEFAX and Teletext, provide share and option prices updated four times daily plus financial market headlines;
 - the FT Cityline and Teleshare offer telephone services with real-time share prices, updated constantly. T

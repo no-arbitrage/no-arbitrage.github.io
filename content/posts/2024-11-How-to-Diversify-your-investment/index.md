@@ -26,8 +26,10 @@ Here are some results from my sample analysis.
 
 Here’s your toolkit: a downloadable spreadsheet and some step-by-step instructions. Screenshots included to guide you through the process. It’s like having a financial coach on your screen, minus the judgmental glances.
 
-Attachment:[Portfolio_diversification.xlsx][1]
 
+{{< button href="#button" target="Portfolio_diversification.xlsx" >}}
+Download Excel Workbook
+{{< /button >}}
 ---
 
 **To outline the post**
@@ -294,5 +296,3 @@ This post is meant to be a practical one. A lot of ideas came up while editing t
 - Optimisation - Basic Operational Research
 
 
-
-[1]:{{ site.url }}/assets/xlsx/Portfolio_diversification.xlsx
