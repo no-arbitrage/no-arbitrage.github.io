@@ -17,6 +17,7 @@ Create a lambda function as below.
 
 
 ## Syntax
+```JavaScript
 DebtSchedule(
   [OpenBalance] = Debt Open Balance,\
   [CashBalance] = Cash Open Balance,\
@@ -26,6 +27,8 @@ DebtSchedule(
   [PIKInterest] = PIK Interest, applied to the opening balance instead of the average balance,\
   [CashInterest] = Cash interest applied to the average balance,\
 ) 
+```
+
 
 # Activate Advanced Formula Environment
 Insert the following in your advanced formula environment. 
