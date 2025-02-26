@@ -23,11 +23,8 @@ I couldn't post my work that's done for my last employer because privacy reasons
 ## Screenshots
 
 Here are some screenshots. 
+{{< carousel images="{241104_powerbi_Slide3.jpeg, 241104_powerbi_Slide4.jpeg,241104_powerbi_Slide5.jpeg, 241104_powerbi_Slide6.jpeg}" >}}
 
-![Overview](/assets/images/screenshot/241104_powerbi_Slide3.jpeg)
-![Disclaimer](/assets/images/screenshot/241104_powerbi_Slide4.jpeg)
-![OneReportToRuleThemAll](/assets/images/screenshot/241104_powerbi_Slide5.jpeg)
-![BasketAnalysis](/assets/images/screenshot/241104_powerbi_Slide6.jpeg)
 
 ## File Download
 
