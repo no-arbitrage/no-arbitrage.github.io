@@ -16,7 +16,7 @@ How to use one single formula to hack Debt schedule with CashSweep
 Create a lambda function as below. 
 
 
-## Syntax
+## Syntax/Arguments
 ```JavaScript
 DebtSchedule(
   [OpenBalance] = Debt Open Balance,\
