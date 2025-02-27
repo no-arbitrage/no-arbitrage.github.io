@@ -9,13 +9,10 @@ date: 2024-09-28
 draft: false
 ---
 
-![banner](/assets/images/posts/heidi-fin-2TLREZi7BUg-unsplash.jpg)
 
-Images: Heidi Fin (unsplash.com)
+## Power BI (DAX) Implementation
 
-# Power BI (DAX) Implementation
-
-## Goal
+### Goal
 
 This post is share my experience of implementing basket analysis in Power BI and sql. At the end of this post, I will attach links for my Power BI file. Please note this power BI is receiving updates as I write new posts. 
 
@@ -24,7 +21,7 @@ You can find the Power BI file here, some screeshots are provided in this post
 Attachment: [241103_AdventureWorks_na.pbix][1]
 
 
-## Key Idea
+### Key Idea
 
 Basket analysis using Association Rule, involves understanding purchase patterns over time to see how products relate to each other within a customer’s buying journey. In this approach, each customer is viewed as a "basket," meaning we analyze product relationships based on all items they’ve bought, across different orders. The purpose is to find patterns in what customers purchase together, over time, rather than in a single transaction.
 
@@ -333,4 +330,7 @@ If all this is too complex for you and you are only interested in using this tec
 
 [Basket Analysis for Sales Managers]({% post_url 2024-11-04-basket-analysis-for-sales-managers %})
 
-[1]:{{ site.url }}/assets/pbix/241103_AdventureWorks_na.pbix
+
+{{< button href="#button" target="_self" >}}
+D
+{{< /button >}}
