@@ -26,14 +26,10 @@ Here are some results from my sample analysis.
 
 Here’s your toolkit: a downloadable spreadsheet and some step-by-step instructions. Screenshots included to guide you through the process. It’s like having a financial coach on your screen, minus the judgmental glances.
 
-<<<<<<< HEAD
-
-{{< button href="#button" target="Portfolio_diversification.xlsx" >}}
-=======
 {{< button href="#button" target="/Portfolio_diversification.xlsx" >}}
->>>>>>> 47a9b09 (123)
 Download Excel Workbook
 {{< /button >}}
+
 ---
 
 **To outline the post**
