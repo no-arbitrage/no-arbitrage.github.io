@@ -22,14 +22,16 @@
 }
 html {
     font-family: 'SFProDisplay';
-    font-size: '14';
+   
 }
 h1 {
   font-family: 'Libre-Baskerville';
   /*font-size: '20'*/
 }
 
-
+p {
+    font-size: '16';
+}
 /* Increase the default font size */
 /* title {
   font-size: '14';
