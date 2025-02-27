@@ -2,7 +2,7 @@
 title: "How to Practically Diversify Your Investment for Non-financial Analysts (Free Calculator Workbook)"
 summary: "Taking advantage of Portfolio Diversification, the only free lunch in our financial world."
 categories: ["Post","Blog",]
-tags: ["post","finance"]
+tags: ["post","finance", "diversification"]
 #externalUrl: ""
 #showSummary: true
 date: 2024-11-04
@@ -41,10 +41,8 @@ Part 3: How to optimise it
 ## Part 1: How to use the calculator
 
 I believe the following screenshot should explain how it works probably better than me.
-
-![diversification-Screenshot-1](/assets/images/screenshot/diversification-Screenshot-1.jpeg)
-
-![diversification-Screenshot-2](/assets/images/screenshot/diversification-Screenshot-2.jpeg)
+{{< figure src="diversification-Screenshot-1.jpeg" title="diversification-Screenshot-1" >}}
+{{< figure src="diversification-Screenshot-2.jpeg" title="diversification-Screenshot-2" >}}
 
 ### Step #0: List your assets.
 
@@ -65,8 +63,8 @@ In order collect the adjusted price data, you will need to either manually downl
 `tickers = ["^GSPC", "^NDX", "AAPL", "MSFT", "VT", "GLD", "TSLA"]`
 
 in the square brackets, replace these tickers with your own and make sure each is wrapped in either double or single quotation. And then throw this code into runtime, 
+{{< figure src="diversification-Screenshot-3.jpeg" title="diversification-Screenshot-3" >}}
 
-![diversification-Screenshot-3](/assets/images/screenshot/diversification-Screenshot-3.jpeg)
 
 python code is here
 
@@ -97,8 +95,8 @@ df.to_csv(filepath)
 ```
 
 ### Step #2: Compute daily return
+{{< figure src="diversification-Screenshot-4.jpeg" title="diversification-Screenshot-4" >}}
 
-![diversification-Screenshot-4](/assets/images/screenshot/diversification-Screenshot-4.jpeg)
 
 It is worth to mention that when I downloaded the data into the csv file, the data somehow was formatted as text therefore causing problems in subsequent calculation, it may not happen to you. But to show you how I work around it. I save the data from the download csv directly to the worksheet ‘yfinance-downloads’, and I used power query to help me reformat the data. 
 
@@ -125,8 +123,7 @@ in
 ```
 
 ### Step #3 : Using Solver to get the allocation.
-
-![diversification-Screenshot-6](/assets/images/screenshot/diversification-Screenshot-6.jpeg)
+{{< figure src="diversification-Screenshot-6.jpeg" title="diversification-Screenshot-6" >}}
 
 Please find instructions in Part 3.
 
@@ -269,18 +266,17 @@ Next, we can leverage the Excel Solver tool to do the leg work and compute an op
 This is very simple, 
 
 *1. Switching on Solver feature in Excel if it is not on yet.*
+{{< figure src="solver-screenshot-1.jpeg" title="solver-screenshot-1" >}}
 
-![image.png](/assets/images/screenshot/solver-screenshot-1.jpeg)
 
 *2. Once enabled, you can find them here*
-
-![image.png](/assets/images/screenshot/solver-screenshot-2.jpeg)
+{{< figure src="solver-screenshot-2.jpeg" title="solver-screenshot-2" >}}
 
 Then, go straight to the point!
 
 *3. Configurations Guide*
+{{< figure src="solver-screenshot-3.jpeg" title="solver-screenshot-3" >}}
 
-![image.png](/assets/images/screenshot/solver-screenshot-3.jpeg)
 
 - Objective: Set this to be the shape ratio, set max as a goal.
 - Changing variables: Select the portfolio weighting array
