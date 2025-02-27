@@ -1,13 +1,14 @@
+
+/*
 @font-face {
-    font-family: 'Roboto';
-    /* src: url('/fonts/Libre-Baskerville-Regular.ttf'); */
-    src: url('/fonts/Roboto-Regular.ttf');
+  font-family: 'Roboto';
+  src: url('/fonts/Roboto-Regular.ttf');
 }
 @font-face {
   font-family: 'Baskerville';
-  /* src: url('/fonts/Libre-Baskerville-Regular.ttf'); */
   src: url('/fonts/BASKVILL.ttf');
 }
+*/
 
 @font-face {
   font-family: 'Libre-Baskerville';
@@ -24,7 +25,7 @@ html {
     font-size: '13';
 }
 h1 {
-  font-family: 'Baskerville';
+  font-family: 'Libre-Baskerville';
   /*font-size: '20'*/
 }
 
