@@ -121,7 +121,7 @@ weight = 7
 
 [[main]]
 pre = "github"
-pageRef = "https://github.com/no-arbitrage/no-arbitrage.github.io/"
+url = "https://github.com/no-arbitrage/no-arbitrage.github.io/"
 identifier = "cpbxL6BzBj"
 weight = 10
 
@@ -141,3 +141,11 @@ weight = 12
    name = "Tags"
    pageRef = "tags"
    weight = 13
+[[footer]]
+   name = "⇱Connect"
+   url = "https://connect.no-arbitrage.com"
+   weight = 14
+[[footer]]
+   name = "⇱Interview Guide"
+   url = "https://interview.no-arbitrage.com"
+   weight = 15
