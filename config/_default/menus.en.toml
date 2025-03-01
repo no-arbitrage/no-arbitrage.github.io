@@ -102,12 +102,6 @@ weight = 2
 # weight = 4
 
 [[main]]
-name = "Tags"
-pageRef = "tags"
-identifier = "tags"
-weight = 5
-
-[[main]]
 name = "Lexicon"
 pageRef = "resource"
 identifier = "lexicon"
