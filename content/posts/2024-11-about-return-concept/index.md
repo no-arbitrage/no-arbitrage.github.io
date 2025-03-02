@@ -1,8 +1,8 @@
 ---
 title: "Calculating Returns"
 summary: "Do you know what does APR on your credit mean?"
-categories: ["Post","Blog",]
-tags: ["post","lorem","ipsum"]
+categories: ["Finance"]
+tags: ["post","credit", "APR"]
 #externalUrl: ""
 #showSummary: true
 date: 2024-11-25

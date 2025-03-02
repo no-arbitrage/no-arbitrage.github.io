@@ -1,7 +1,7 @@
 ---
 title: "You Don’t Have an ESG Strategy"
 summary: "You Don’t Have an ESG Strategy—What You’ve Been Sold Is ESG Planning."
-categories: ["Post","Blog",]
+categories: ["ESG","Critique"]
 tags: ["post","lorem","ipsum"]
 #externalUrl: ""
 #showSummary: true

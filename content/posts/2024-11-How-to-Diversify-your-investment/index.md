@@ -1,7 +1,7 @@
 ---
 title: "How to Practically Diversify Your Investment for Non-financial Analysts (Free Calculator Workbook)"
 summary: "Taking advantage of Portfolio Diversification, the only free lunch in our financial world."
-categories: ["Post","Blog",]
+categories: ["Finance",]
 tags: ["post","finance", "diversification"]
 #externalUrl: ""
 #showSummary: true

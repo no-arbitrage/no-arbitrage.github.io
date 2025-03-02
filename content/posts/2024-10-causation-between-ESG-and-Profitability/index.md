@@ -1,8 +1,8 @@
 ---
 title: "Causation between ESG and Profitability."
 summary: "LFocus on causation might limit the perspective needed to see the bigger picture."
-categories: ["Post","Blog",]
-tags: ["post","lorem","ipsum"]
+categories: ["ESG"]
+tags: ["post", "esg"]
 #externalUrl: ""
 #showSummary: true
 date: 2024-11-01

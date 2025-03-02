@@ -90,29 +90,29 @@ defaultBackgroundImage = "/img/background.svg"
 excludedKinds = [ "taxonomy", "term" ]
 
 [taxonomy]
-showTermCount = true
-showHero = false
-heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
-defaultBackgroundImage = "/img/lavalamp.svg"
-# valid options: basic, big, background, thumbAndBackground
-layoutBackgroundBlur = true
-# only used when heroStyle equals background
-layoutBackgroundHeaderSpace = true
-showBreadcrumbs = true
-showViews = false
-showLikes = false
-showTableOfContents = true
-cardView = false
+  showTermCount = true
+  showHero = false
+  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+  defaultBackgroundImage = "/img/lavalamp.svg"
+  # valid options: basic, big, background, thumbAndBackground
+  layoutBackgroundBlur = true
+  # only used when heroStyle equals background
+  layoutBackgroundHeaderSpace = true
+  showBreadcrumbs = true
+  showViews = false
+  showLikes = false
+  showTableOfContents = true
+  cardView = false
 
 [term]
-showHero = false
-showBreadcrumbs = true
-showViews = false
-showLikes = false
-showTableOfContents = true
-groupByYear = true
-cardView = false
-cardViewScreenWidth = false
+  showHero = false
+  showBreadcrumbs = true
+  showViews = false
+  showLikes = false
+  showTableOfContents = true
+  groupByYear = true
+  cardView = false
+  cardViewScreenWidth = false
 
 [firebase]
 

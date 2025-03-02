@@ -1,8 +1,10 @@
 ---
 title: "Unlocking cross sales opportunities with pre-made Basket Analysis template"
 summary: "Basket Analysis for Sales Managers"
-categories: ["Post","Blog",]
-tags: ["post","lorem","ipsum"]
+categories: ["Data",]
+series: ["Basket Analysis"]
+series_order: 1
+tags: ["business-intelligence]
 #externalUrl: ""
 #showSummary: true
 date: 2024-11-10

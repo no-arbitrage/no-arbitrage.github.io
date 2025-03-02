@@ -1,8 +1,10 @@
 ---
 title: "Implementing Basket Analysis in Power BI and SQL - Association rule"
 summary: "Basket Analysis for Data analyst"
-categories: ["Post","Blog",]
-tags: ["post"]
+categories: ["Data",]
+series: ["Basket Analysis"]
+series_order: 2
+tags: ["post", "business-intelligence"]
 #externalUrl: ""
 #showSummary: true
 date: 2024-09-28

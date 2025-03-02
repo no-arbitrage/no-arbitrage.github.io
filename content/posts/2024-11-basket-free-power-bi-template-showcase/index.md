@@ -1,7 +1,9 @@
 ---
 title: "Free Power Bi template - a showcase of dashboard development"
 summary: ""
-categories: ["Post","Blog",]
+categories: ["Data",]
+series: ["Basket Analysis"]
+series_order: 3
 tags: ["post","finance", "power-bi"]
 #externalUrl: ""
 #showSummary: true

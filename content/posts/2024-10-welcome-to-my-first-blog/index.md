@@ -1,8 +1,8 @@
 ---
 title: "Welcome to No Arbitrage!"
 summary: ""
-categories: ["Post","Blog"]
-tags: ["post","lorem"]
+categories: ["General"]
+tags: ["post", "intro"]
 #externalUrl: ""
 #showSummary: true
 date: 2024-09-04
