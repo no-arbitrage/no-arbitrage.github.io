@@ -43,7 +43,7 @@ defaultBackgroundImage = "/img/background.svg"
   showViews = true
   showLikes = true
   showDateUpdated = false
-  seriesOpened = false
+  
   showComments = true
   showAuthor = true
   showHero = true
