@@ -6,8 +6,7 @@ series: ["Basket Analysis"]
 series_order: 1
 space: ["Develop"]
 tags: ["business-intelligence]
-#externalUrl: ""
-#showSummary: true
+showSummary: true
 date: 2024-11-10
 draft: false
 ---
