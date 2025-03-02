@@ -5,7 +5,7 @@ categories: ["Data",]
 series: ["Basket Analysis"]
 series_order: 1
 space: ["Develop"]
-tags: ["business-intelligence]
+tags: ["business-intelligence"]
 showSummary: true
 date: 2024-11-10
 draft: false
