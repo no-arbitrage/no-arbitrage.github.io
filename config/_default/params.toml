@@ -40,7 +40,7 @@ defaultBackgroundImage = "/img/background.svg"
 
 [article]
   showDate = true
-  showViews = true
+  # showViews = true
   showLikes = true
   showDateUpdated = false
   
