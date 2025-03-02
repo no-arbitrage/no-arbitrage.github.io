@@ -3,6 +3,7 @@ title: "Comparing Default Solvers in Excel"
 summary: "Simplex is more likely to be the best option."
 categories: ["Post","Blog",]
 tags: ["post","excel", "optimisation"]
+space: ["Learn"]
 #externalUrl: ""
 #showSummary: true
 date: 2024-10-04

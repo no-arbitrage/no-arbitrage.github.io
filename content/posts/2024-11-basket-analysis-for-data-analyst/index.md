@@ -4,6 +4,7 @@ summary: "Basket Analysis for Data analyst"
 categories: ["Data",]
 series: ["Basket Analysis"]
 series_order: 2
+space: ["Develop"]
 tags: ["post", "business-intelligence"]
 #externalUrl: ""
 #showSummary: true

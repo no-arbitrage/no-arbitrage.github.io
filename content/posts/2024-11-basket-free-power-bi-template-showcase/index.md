@@ -7,6 +7,7 @@ series_order: 3
 tags: ["post","finance", "power-bi"]
 #externalUrl: ""
 #showSummary: true
+space: ["Develop"]
 date: 2024-09-30
 draft: false
 ---

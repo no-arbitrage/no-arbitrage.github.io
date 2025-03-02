@@ -4,6 +4,7 @@ summary: "Basket Analysis for Sales Managers"
 categories: ["Data",]
 series: ["Basket Analysis"]
 series_order: 1
+space: ["Develop"]
 tags: ["business-intelligence]
 #externalUrl: ""
 #showSummary: true

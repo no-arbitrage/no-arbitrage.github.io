@@ -9,8 +9,8 @@ disableTextInHeader = false
 giteaDefaultServer = "https://git.fsfe.org"
 forgejoDefaultServer = "https://v8.next.forgejo.org"
 highlightCurrentMenuArea = true
-# smartTOC = true
-# smartTOCHideUnfocusedChildren = true
+ 
+ 
 mainSections = [ "posts" ]
 backgroundImageWidth = 1200
 defaultBackgroundImage = "/img/background.svg"
@@ -47,11 +47,12 @@ defaultBackgroundImage = "/img/background.svg"
   showComments = true
   showAuthor = true
   showHero = true
-  heroStyle = "basic" # valid options: basic, big, background
+  layoutBackgroundHeaderSpace = true
+  heroStyle = "basic"  
   showBreadcrumbs = true
   showDraftLabel = true
   showEdit = false
-  # editURL = "https://github.com/username/repo/"
+   
   showAuthorBottom = true
   editAppendPath = true
   seriesOpened = false
@@ -60,19 +61,20 @@ defaultBackgroundImage = "/img/background.svg"
   invertPagination = false
   showReadingTime = true
   showTableOfContents = true
-  showTaxonomies = false 
+  showTaxonomies = true 
   showAuthorsBadges = false 
   showWordCount = true
   showSummary = true
+  showZenMode = true
   sharingLinks = [ "linkedin", "twitter", "whatsapp", "pinterest", "reddit", "facebook", "email"]
 
 [list]
   showHero = true
   heroStyle = "background"
   defaultBackgroundImage = "/img/background.svg"
-  # valid options: basic, big, background, thumbAndBackground
+   
   layoutBackgroundBlur = true
-  # only used when heroStyle equals background
+   
   layoutBackgroundHeaderSpace = true
   showBreadcrumbs = true
   showSummary = false
@@ -87,16 +89,16 @@ defaultBackgroundImage = "/img/background.svg"
   constrainItemsWidth = false
 
 [sitemap]
-excludedKinds = [ "taxonomy", "term" ]
+  excludedKinds = [ "taxonomy", "term" ]
 
 [taxonomy]
   showTermCount = true
   showHero = false
-  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+  heroStyle = "background"  
   defaultBackgroundImage = "/img/lavalamp.svg"
-  # valid options: basic, big, background, thumbAndBackground
+   
   layoutBackgroundBlur = true
-  # only used when heroStyle equals background
+   
   layoutBackgroundHeaderSpace = true
   showBreadcrumbs = true
   showViews = false
@@ -115,7 +117,15 @@ excludedKinds = [ "taxonomy", "term" ]
   cardViewScreenWidth = false
 
 [firebase]
-
+  apiKey	= "AIzaSyC1NmU4Xj1S6QS7YNOfKNaQch-bSlub6qA"                 
+  authDomain	= "no-arbitrage.firebaseapp.com"             
+  projectId	 = "no-arbitrage"                              
+  storageBucket	 ="no-arbitrage.firebasestorage.app"      
+  messagingSenderId= "566087795243"  
+  appId	  =  "1:566087795243:web:191196a79d31b80dba606e"               
+  measurementId	   = "G-P0D0SQXP9F"  
+  
+       
 [fathomAnalytics]
 
 [umamiAnalytics]
@@ -127,3 +137,28 @@ excludedKinds = [ "taxonomy", "term" ]
 [verification]
 
 [rssnext]
+
+
+
+# // Import the functions you need from the SDKs you need
+# import { initializeApp } from "firebase/app";
+# import { getAnalytics } from "firebase/analytics";
+# // TODO: Add SDKs for Firebase products that you want to use
+# // https://firebase.google.com/docs/web/setup#available-libraries
+# 
+# // Your web app's Firebase configuration
+# // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+# const firebaseConfig = {
+#   apiKey: "AIzaSyC1NmU4Xj1S6QS7YNOfKNaQch-bSlub6qA",
+#   authDomain: "no-arbitrage.firebaseapp.com",
+#   projectId: "no-arbitrage",
+#   storageBucket: "no-arbitrage.firebasestorage.app",
+#   messagingSenderId: "566087795243",
+#   appId: "1:566087795243:web:191196a79d31b80dba606e",
+#   measurementId: "G-P0D0SQXP9F"
+# };
+# 
+# // Initialize Firebase
+# const app = initializeApp(firebaseConfig);
+# const analytics = getAnalytics(app);
+
