@@ -10,14 +10,15 @@ date: 2024-12-04
 draft: false
 ---
 
-How to use one single formula to hack Debt schedule with CashSweep
+## Introduction
+How to use one single formula to hack Debt schedule with CashSwept. This technique utilises the latest Excel dynamic array features to achieve low errors and resilience, however, this approach has a very steep learning curve that might defeat the excel's principle, visual calculation. 
+
+The person who was promoting this called this approach 5G modelling. You can find more [here](https://sites.google.com/site/beyondexcel/home/5g-modeling?authuser=0). 
 
 
-
+## Getting Started
 Create a lambda function as below. 
 
-
-## Syntax/Arguments
 ```JavaScript
 DebtSchedule(
   [OpenBalance] = Debt Open Balance,\
