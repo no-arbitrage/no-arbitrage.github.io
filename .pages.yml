@@ -13,4 +13,4 @@ content:
       - { name: menu, label: Menu, type: boolean }
       - { name: featureimage, label: Featureimage, type: boolean }
       - { name: showHero, label: showHero, type: boolean }
-     - { name: body, label: body, type: rich-text }
+      - { name: body, label: body, type: rich-text }
