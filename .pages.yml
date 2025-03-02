@@ -9,7 +9,8 @@ content:
       - { name: title, label: TItle, type: string }
       - { name: description, label: Description, type: string }
       - { name: groupByYear, label: GroupByYear, type: boolean }
+      - { name: date, label: Date, type: date }
       - { name: menu, label: Menu, type: boolean }
       - { name: featureimage, label: Featureimage, type: boolean }
       - { name: showHero, label: showHero, type: boolean }
- 
+     - { name: body, label: body, type: rich-text }
