@@ -32,7 +32,7 @@ DebtSchedule(
 ```
 
 
-# Activate Advanced Formula Environment
+## Activate Advanced Formula Environment
 Insert the following in your advanced formula environment. 
 ```typescript
 
