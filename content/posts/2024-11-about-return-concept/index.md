@@ -1,5 +1,5 @@
 ---
-title: "Calculating Returns"
+title: "Fixed Income Returns (Credit Cards)"
 summary: "Do you know what does APR on your credit mean?"
 categories: ["Finance"]
 tags: ["post","credit", "APR"]
