@@ -1,5 +1,5 @@
 ---
-title: "Enterprise Value, Firm Value and Equity Value: What's the Difference?
+title: "Enterprise Value, Firm Value and Equity Value: What's the Difference?"
 summary: "About value concepts"
 categories: ["Finance",]
 series: ["Value Fundamentals"]
