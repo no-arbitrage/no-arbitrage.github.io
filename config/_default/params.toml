@@ -96,16 +96,13 @@ defaultBackgroundImage = "/img/background.svg"
   showHero = false
   heroStyle = "background"  
   defaultBackgroundImage = "/img/lavalamp.svg"
-   
   layoutBackgroundBlur = true
-   
   layoutBackgroundHeaderSpace = true
   showBreadcrumbs = true
   showViews = false
   showLikes = false
   showTableOfContents = true
   cardView = false
->>>>>>> 163c90261aff6a1597d8a8107a7783a2abd26a03
 
 [term]
   showHero = false
