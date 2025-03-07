@@ -23,7 +23,7 @@ This is a series of posts about fundamental concepts of value driving corproate 
 ### Introduction
 Let's take a look at this question below. 
 
-![Question about EV Calculation](EV-flashcard-front.png "EV Question Flashcards (front)"")
+![Question about EV Calculation](EV-flashcard-front.png)
 
 
 So often, people use enterprise value, firm value, and market capitalisation (or market cap) interchangeably. However, these terms represent distinct financial concepts, and understanding their differences is crucial for accurate valuation analysis.
@@ -32,7 +32,7 @@ So often, people use enterprise value, firm value, and market capitalisation (or
 
 So the answer is here. 
 
-![Question about EV Calculation](EV-flashcard-back.png "EV Question Flashcards (back)"")
+![Question about EV Calculation](EV-flashcard-back.png)
 
 In economic terms, value is often defined as utility or pleasure. Yet, human nature leans towards immediate gratification over future benefits, struggling to reconcile present desires with long-term goals. To bridge this gap, we assign meaning to waiting—we call it the intrinsic time value of money. At that moment, finance was born.
 
