@@ -2,37 +2,97 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Valuation on No Arbitrage</title>
-    <link>http://localhost:54574/tags/valuation/</link>
+    <link>http://localhost:1313/tags/valuation/</link>
     <description>Recent content in Valuation on No Arbitrage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>cai-joseph@outlook.com (Joseph Cai)</managingEditor>
     <webMaster>cai-joseph@outlook.com (Joseph Cai)</webMaster>
     <copyright>&amp;copy; 2025 No Arbitrage. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 07 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:54574/tags/valuation/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 07 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/valuation/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Enterprise Value, Firm Value and Equity Value: What&#39;s the Difference?</title>
-      <link>http://localhost:54574/posts/2025-03-value-measures/</link>
+      <title>Enterprise, Firm and Equity Value: What&#39;s the Difference?</title>
+      <link>http://localhost:1313/posts/2025-03-value-measures/</link>
       <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
       <author>cai-joseph@outlook.com (Joseph Cai)</author>
-      <guid>http://localhost:54574/posts/2025-03-value-measures/</guid>
+      <guid>http://localhost:1313/posts/2025-03-value-measures/</guid>
       <description>About value concepts</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:54574/posts/2025-03-value-measures/cover.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/2025-03-value-measures/cover.jpg" />
     </item>
     
     <item>
-      <title>Valuation Frameworks in Coporate Finance</title>
-      <link>http://localhost:54574/posts/2025-03-valuation-frameworks/</link>
+      <title>How Does ESG Create Value?</title>
+      <link>http://localhost:1313/posts/2025-03-value-esg-value/</link>
       <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
       <author>cai-joseph@outlook.com (Joseph Cai)</author>
-      <guid>http://localhost:54574/posts/2025-03-valuation-frameworks/</guid>
+      <guid>http://localhost:1313/posts/2025-03-value-esg-value/</guid>
+      <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
+  There are at least five ways ESG can create value.
+&lt;/div&gt;
+
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;What is ESG 
+    &lt;div id=&#34;what-is-esg&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#what-is-esg&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;Environmental criteria include&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/2025-03-value-esg-value/cover.jpg" />
+    </item>
+    
+    <item>
+      <title>market</title>
+      <link>http://localhost:1313/resource/cim/02-market/</link>
+      <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
+      <author>cai-joseph@outlook.com (Joseph Cai)</author>
+      <guid>http://localhost:1313/resource/cim/02-market/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Reorganising Financial Statements</title>
+      <link>http://localhost:1313/posts/2025-03-value-reorganising-fs/</link>
+      <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
+      <author>cai-joseph@outlook.com (Joseph Cai)</author>
+      <guid>http://localhost:1313/posts/2025-03-value-reorganising-fs/</guid>
       <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
   How many valuation methods do you know?
 &lt;/div&gt;
 
-&lt;p&gt;This is a series of posts about fundamental concepts of value driving corproate finance. I will be taking you to go through a series of fundamental basic however important concepts in finance, through small pieces of posts.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:54574/posts/2025-03-valuation-frameworks/cover.jpg" />
+&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;EV-flashcard-front.png&#34; alt=&#34;Question about EV Calculation&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/2025-03-value-reorganising-fs/cover.jpg" />
+    </item>
+    
+    <item>
+      <title>Valuation Frameworks in Coporate Finance</title>
+      <link>http://localhost:1313/posts/2025-03-value-frameworks/</link>
+      <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
+      <author>cai-joseph@outlook.com (Joseph Cai)</author>
+      <guid>http://localhost:1313/posts/2025-03-value-frameworks/</guid>
+      <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
+  How many valuation methods do you know?
+&lt;/div&gt;
+
+&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;EV-flashcard-front.png&#34; alt=&#34;Question about EV Calculation&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/2025-03-value-frameworks/cover.jpg" />
     </item>
     
   </channel>

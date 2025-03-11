@@ -65,5 +65,37 @@ Equity Market Cap
 Non-Operating Liabilities e.g.under funded pension liabilities.
 </br> By understanding these distinctions, investors and analysts can make more informed decisions, ensuring that they evaluate businesses based on the right financial lens.
 
+### Relationship with Cash Flows
+
+#### Free Cash Flow to Firm
+
+FCFF = EBIT (1- ETR) + Deferred Tax  + Non-cash Items  – △NWC – Net CapEx
+
+Where:
+
+* EBIT (1- ETR) = Net Income + Interest x (1-ETR)
+* ETR = Effective Tax Rate; EBIT (1-ETR) = EBIT - Corporate Tax
+* Net CapEx = CapEx -  D&A
+* △NWC = Incrase in Working Capital
+* Deferred Tax = + DTL - DTA (we can discuss this in another post.)
+
+FCFE = FCFF + CF from net debt
+
+Where:
+
+CF from Net Debt =  - Debt replay + Debt Issuance - Interest Payment
+
+### Negative Equity Value
+
+Under the following scenarios, a negative equity value is possible:
+
+| Scenario | Explaination |
+| --------| ---------|
+| Accumulated Losses | If a company consistently incurs losses, its retained earnings will become negative, reducing shareholders' equity. Over time, if losses exceed the initial capital invested, equity can turn negative.|
+| High Debt Levels | If a company takes on excessive debt, its liabilities can grow faster than its assets, leading to negative equity. |
+| Share Buybacks|  If a company repurchases its own shares (treasury stock) at a high price, it reduces shareholders' equity. If this reduction is large enough, equity can become negative.|
+| Asset Write-Downs | If a company writes down the value of its assets (e.g., due to impairment), total assets decrease, which can lead to negative equity.|
+| Startups or Early-Stage Companies | New companies may have negative equity if they have not yet generated profits and rely heavily on debt or external funding. |
+
 ### Reference
 1. A Tangled Web We Weave: Enterprise, Firm & Equity Values by Aswath Damodaran [🔗](https://pages.stern.nyu.edu/~adamodar/pdfiles/eqnotes/webcasts/multiplecalc/multiplecalc.pdf)

@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr" class="scroll-smooth" data-default-appearance="light"
-  data-auto-appearance="true"><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=54574&amp;path=livereload" data-no-instant defer></script>
+  data-auto-appearance="true"><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
   <meta charset="utf-8" />
   
   <meta http-equiv="content-language" content="en" />
@@ -15,7 +15,7 @@
   <meta name="keywords" content="post, finance, diversification, " />
   
   
-  <link rel="canonical" href="http://localhost:54574/posts/2024-11-how-to-diversify-your-investment/" />
+  <link rel="canonical" href="http://localhost:1313/posts/2024-11-how-to-diversify-your-investment/" />
   
   
   
@@ -28,8 +28,8 @@
   
   
   
-  <link type="text/css" rel="stylesheet" href="/css/main.bundle.min.db8cb7692788381e28922be22b0c50db78605713ac9de9a78c824e5b7a4fdbab7a2e38d3a4ad5b59a8237edc93c0a62c9b7995834fb4b7f65cc432a92cf39014.css"
-    integrity="sha512-24y3aSeIOB4okiviKwxQ23hgVxOsnemnjIJOW3pP26t6LjjTpK1bWagjftyTwKYsm3mVg0&#43;0t/ZcxDKpLPOQFA==" />
+  <link type="text/css" rel="stylesheet" href="/css/main.bundle.min.af2a166d5d8533812e8bdb8122e147f3f1da5e1ade2083093bb7a22a1f8f9ae25705957389cfa1e040a3851f37a1356bbad2ef3e2066751af487bb844d9fe4c5.css"
+    integrity="sha512-ryoWbV2FM4Eui9uBIuFH8/HaXhreIIMJO7eiKh&#43;PmuJXBZVzic&#43;h4ECjhR83oTVrutLvPiBmdRr0h7uETZ/kxQ==" />
   
   
   <script type="text/javascript" src="/js/appearance.min.516a16745bea5a9bd011138d254cc0fd3973cd55ce6e15f3dec763e7c7c2c7448f8fe7b54cca811cb821b0c7e12cd161caace1dd794ac3d34d40937cbcc9ee12.js"
@@ -69,7 +69,7 @@
   
   
   
-  <meta property="og:url" content="http://localhost:54574/posts/2024-11-how-to-diversify-your-investment/">
+  <meta property="og:url" content="http://localhost:1313/posts/2024-11-how-to-diversify-your-investment/">
   <meta property="og:site_name" content="No Arbitrage">
   <meta property="og:title" content="How to Practically Diversify Your Investment for Non-financial Analysts (Free Calculator Workbook)">
   <meta property="og:description" content="Taking advantage of Portfolio Diversification, the only free lunch in our financial world.">
@@ -81,11 +81,11 @@
     <meta property="article:tag" content="Post">
     <meta property="article:tag" content="Finance">
     <meta property="article:tag" content="Diversification">
-    <meta property="og:image" content="http://localhost:54574/posts/2024-11-how-to-diversify-your-investment/cover.jpg">
+    <meta property="og:image" content="http://localhost:1313/posts/2024-11-how-to-diversify-your-investment/cover.jpg">
 
   
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:image" content="http://localhost:54574/posts/2024-11-how-to-diversify-your-investment/cover.jpg">
+  <meta name="twitter:image" content="http://localhost:1313/posts/2024-11-how-to-diversify-your-investment/cover.jpg">
   <meta name="twitter:title" content="How to Practically Diversify Your Investment for Non-financial Analysts (Free Calculator Workbook)">
   <meta name="twitter:description" content="Taking advantage of Portfolio Diversification, the only free lunch in our financial world.">
 
@@ -100,7 +100,7 @@
     
     "abstract": "Taking advantage of Portfolio Diversification, the only free lunch in our financial world.",
     "inLanguage": "en",
-    "url" : "http:\/\/localhost:54574\/posts\/2024-11-how-to-diversify-your-investment\/",
+    "url" : "http:\/\/localhost:1313\/posts\/2024-11-how-to-diversify-your-investment\/",
     "author" : {
       "@type": "Person",
       "name": "Joseph Cai"
@@ -601,10 +601,34 @@
   
   
   
-        
-            <div class="w-full h-36 md:h-56 lg:h-72 single_hero_basic nozoom" style="background-image:url(/posts/2024-11-how-to-diversify-your-investment/cover_hu_ab126ecfab9eb2db.jpg);"></div>
-        
+
+
+<div id="hero" class="h-[150px] md:h-[200px]"></div>
+
+
+
     
+    <div class="fixed inset-x-0 top-0 h-[800px] single_hero_background nozoom"
+    style="background-image:url(/posts/2024-11-how-to-diversify-your-investment/cover_hu_ab126ecfab9eb2db.jpg);">
+    
+
+
+    <div class="absolute inset-0 bg-gradient-to-t from-neutral dark:from-neutral-800 to-transparent mix-blend-normal">
+    </div>
+    <div
+        class="absolute inset-0 opacity-60 bg-gradient-to-t from-neutral dark:from-neutral-800 to-neutral-100 dark:to-neutral-800 mix-blend-normal">
+    </div>
+</div>
+
+<div id="background-blur" class="fixed opacity-0 inset-x-0 top-0 h-full single_hero_background nozoom backdrop-blur-2xl"></div>
+<script>
+    window.addEventListener('scroll', function (e) {
+        var scroll = window.pageYOffset || document.documentElement.scrollTop || document.body.scrollTop || 0;
+        var background_blur = document.getElementById('background-blur');
+        background_blur.style.opacity = (scroll / 300)
+    });
+</script>
+
   
   
 
@@ -1603,7 +1627,7 @@ Covariance between two random variables x and y (or columns of a matrix) is defi
       <a
       target="_blank"
       class="m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-      href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http://localhost:54574/posts/2024-11-how-to-diversify-your-investment/&amp;title=How%20to%20Practically%20Diversify%20Your%20Investment%20for%20Non-financial%20Analysts%20%28Free%20Calculator%20Workbook%29"
+      href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http://localhost:1313/posts/2024-11-how-to-diversify-your-investment/&amp;title=How%20to%20Practically%20Diversify%20Your%20Investment%20for%20Non-financial%20Analysts%20%28Free%20Calculator%20Workbook%29"
       title="Share on LinkedIn"
       aria-label="Share on LinkedIn"
       >
@@ -1622,7 +1646,7 @@ Covariance between two random variables x and y (or columns of a matrix) is defi
       <a
       target="_blank"
       class="m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-      href="https://twitter.com/intent/tweet/?url=http://localhost:54574/posts/2024-11-how-to-diversify-your-investment/&amp;text=How%20to%20Practically%20Diversify%20Your%20Investment%20for%20Non-financial%20Analysts%20%28Free%20Calculator%20Workbook%29"
+      href="https://twitter.com/intent/tweet/?url=http://localhost:1313/posts/2024-11-how-to-diversify-your-investment/&amp;text=How%20to%20Practically%20Diversify%20Your%20Investment%20for%20Non-financial%20Analysts%20%28Free%20Calculator%20Workbook%29"
       title="Tweet on Twitter"
       aria-label="Tweet on Twitter"
       >
@@ -1640,7 +1664,7 @@ Covariance between two random variables x and y (or columns of a matrix) is defi
       <a
       target="_blank"
       class="m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-      href="https://api.whatsapp.com/send?text=http://localhost:54574/posts/2024-11-how-to-diversify-your-investment/&amp;resubmit=true&amp;title=How%20to%20Practically%20Diversify%20Your%20Investment%20for%20Non-financial%20Analysts%20%28Free%20Calculator%20Workbook%29"
+      href="https://api.whatsapp.com/send?text=http://localhost:1313/posts/2024-11-how-to-diversify-your-investment/&amp;resubmit=true&amp;title=How%20to%20Practically%20Diversify%20Your%20Investment%20for%20Non-financial%20Analysts%20%28Free%20Calculator%20Workbook%29"
       title="Share via WhatsApp"
       aria-label="Share via WhatsApp"
       >
@@ -1659,7 +1683,7 @@ Covariance between two random variables x and y (or columns of a matrix) is defi
       <a
       target="_blank"
       class="m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-      href="https://pinterest.com/pin/create/bookmarklet/?url=http://localhost:54574/posts/2024-11-how-to-diversify-your-investment/&amp;description=How%20to%20Practically%20Diversify%20Your%20Investment%20for%20Non-financial%20Analysts%20%28Free%20Calculator%20Workbook%29"
+      href="https://pinterest.com/pin/create/bookmarklet/?url=http://localhost:1313/posts/2024-11-how-to-diversify-your-investment/&amp;description=How%20to%20Practically%20Diversify%20Your%20Investment%20for%20Non-financial%20Analysts%20%28Free%20Calculator%20Workbook%29"
       title="Pin on Pinterest"
       aria-label="Pin on Pinterest"
       >
@@ -1678,7 +1702,7 @@ Covariance between two random variables x and y (or columns of a matrix) is defi
       <a
       target="_blank"
       class="m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-      href="https://reddit.com/submit/?url=http://localhost:54574/posts/2024-11-how-to-diversify-your-investment/&amp;resubmit=true&amp;title=How%20to%20Practically%20Diversify%20Your%20Investment%20for%20Non-financial%20Analysts%20%28Free%20Calculator%20Workbook%29"
+      href="https://reddit.com/submit/?url=http://localhost:1313/posts/2024-11-how-to-diversify-your-investment/&amp;resubmit=true&amp;title=How%20to%20Practically%20Diversify%20Your%20Investment%20for%20Non-financial%20Analysts%20%28Free%20Calculator%20Workbook%29"
       title="Submit to Reddit"
       aria-label="Submit to Reddit"
       >
@@ -1697,7 +1721,7 @@ Covariance between two random variables x and y (or columns of a matrix) is defi
       <a
       target="_blank"
       class="m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-      href="https://www.facebook.com/sharer/sharer.php?u=http://localhost:54574/posts/2024-11-how-to-diversify-your-investment/&amp;quote=How%20to%20Practically%20Diversify%20Your%20Investment%20for%20Non-financial%20Analysts%20%28Free%20Calculator%20Workbook%29"
+      href="https://www.facebook.com/sharer/sharer.php?u=http://localhost:1313/posts/2024-11-how-to-diversify-your-investment/&amp;quote=How%20to%20Practically%20Diversify%20Your%20Investment%20for%20Non-financial%20Analysts%20%28Free%20Calculator%20Workbook%29"
       title="Share on Facebook"
       aria-label="Share on Facebook"
       >
@@ -1716,7 +1740,7 @@ Covariance between two random variables x and y (or columns of a matrix) is defi
       <a
       target="_blank"
       class="m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-      href="mailto:?body=http://localhost:54574/posts/2024-11-how-to-diversify-your-investment/&amp;subject=How%20to%20Practically%20Diversify%20Your%20Investment%20for%20Non-financial%20Analysts%20%28Free%20Calculator%20Workbook%29"
+      href="mailto:?body=http://localhost:1313/posts/2024-11-how-to-diversify-your-investment/&amp;subject=How%20to%20Practically%20Diversify%20Your%20Investment%20for%20Non-financial%20Analysts%20%28Free%20Calculator%20Workbook%29"
       title="Send via email"
       aria-label="Send via email"
       >
@@ -1754,6 +1778,27 @@ Covariance between two random variables x and y (or columns of a matrix) is defi
       
   
     </section>
+
+    <head>
+      ...
+      
+        <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
+<script>
+  MathJax = {
+    tex: {
+      displayMath: [['\\[', '\\]'], ['$$', '$$']],  
+      inlineMath: [['\\(', '\\)']]                  
+    },
+    loader:{
+      load: ['ui/safe']
+    },
+  };
+</script>
+      
+      ...
+    </head>
+
+
   <footer class="pt-8 max-w-prose print:hidden">
 
     
@@ -1766,7 +1811,7 @@ Covariance between two random variables x and y (or columns of a matrix) is defi
       <div class="flex justify-between pt-3">
         <span>
           
-            <a class="flex group mr-3" href="/posts/2024-10-causation-between-esg-and-profitability/">
+            <a class="flex group mr-3" href="/posts/2024-11-comparing-solvers-in-excel/">
               <span
                 class="mr-3 text-neutral-700 group-hover:text-primary-600 ltr:inline rtl:hidden dark:text-neutral dark:group-hover:text-primary-400"
                 >&larr;</span
@@ -1778,11 +1823,11 @@ Covariance between two random variables x and y (or columns of a matrix) is defi
               <span class="flex flex-col">
                 <span
                   class="mt-[0.1rem] leading-6 group-hover:underline group-hover:decoration-primary-500"
-                  >Causation between ESG and Profitability.</span
+                  >Comparing Default Solvers in Excel</span
                 >
                 <span class="mt-[0.1rem] text-xs text-neutral-500 dark:text-neutral-400">
                   
-                    <time datetime="2024-11-01T00:00:00&#43;00:00">1 November 2024</time>
+                    <time datetime="2024-10-04T00:00:00&#43;00:00">4 October 2024</time>
                   
                 </span>
               </span>
@@ -1932,7 +1977,7 @@ Covariance between two random variables x and y (or columns of a matrix) is defi
 <div
   id="search-wrapper"
   class="invisible fixed inset-0 flex h-screen w-screen cursor-default flex-col bg-neutral-500/50 p-4 backdrop-blur-sm dark:bg-neutral-900/50 sm:p-6 md:p-[10vh] lg:p-[12vh]"
-  data-url="http://localhost:54574/"
+  data-url="http://localhost:1313/"
   style="z-index:500"
 >
   <div

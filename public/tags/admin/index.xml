@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Admin on No Arbitrage</title>
-    <link>http://localhost:54574/tags/admin/</link>
+    <link>http://localhost:1313/tags/admin/</link>
     <description>Recent content in Admin on No Arbitrage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>cai-joseph@outlook.com (Joseph Cai)</managingEditor>
     <webMaster>cai-joseph@outlook.com (Joseph Cai)</webMaster>
     <copyright>&amp;copy; 2025 No Arbitrage. All rights reserved.</copyright>
-    <atom:link href="http://localhost:54574/tags/admin/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/admin/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Welcome to No Arbitrage</title>
-      <link>http://localhost:54574/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>cai-joseph@outlook.com (Joseph Cai)</author>
-      <guid>http://localhost:54574/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
   &amp;ldquo;In an efficient market, prices &amp;lsquo;fully reflect&amp;rsquo; all available information.&amp;rdquo; by Eugene F. Fama.
 &lt;/div&gt;

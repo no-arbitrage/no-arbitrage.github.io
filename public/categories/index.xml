@@ -2,131 +2,111 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on No Arbitrage</title>
-    <link>http://localhost:54574/categories/</link>
+    <link>http://localhost:1313/categories/</link>
     <description>Recent content in Categories on No Arbitrage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>cai-joseph@outlook.com (Joseph Cai)</managingEditor>
     <webMaster>cai-joseph@outlook.com (Joseph Cai)</webMaster>
     <copyright>&amp;copy; 2025 No Arbitrage. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 10 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:54574/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 07 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>App</title>
-      <link>http://localhost:54574/categories/app/</link>
-      <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
+      <title>Finance</title>
+      <link>http://localhost:1313/categories/finance/</link>
+      <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
       <author>cai-joseph@outlook.com (Joseph Cai)</author>
-      <guid>http://localhost:54574/categories/app/</guid>
+      <guid>http://localhost:1313/categories/finance/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>List</title>
-      <link>http://localhost:54574/categories/list/</link>
-      <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
+      <link>http://localhost:1313/categories/list/</link>
+      <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
       <author>cai-joseph@outlook.com (Joseph Cai)</author>
-      <guid>http://localhost:54574/categories/list/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Opensource</title>
-      <link>http://localhost:54574/categories/opensource/</link>
-      <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
-      <author>cai-joseph@outlook.com (Joseph Cai)</author>
-      <guid>http://localhost:54574/categories/opensource/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Finance</title>
-      <link>http://localhost:54574/categories/finance/</link>
-      <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
-      <author>cai-joseph@outlook.com (Joseph Cai)</author>
-      <guid>http://localhost:54574/categories/finance/</guid>
+      <guid>http://localhost:1313/categories/list/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Newspaper</title>
-      <link>http://localhost:54574/categories/newspaper/</link>
+      <link>http://localhost:1313/categories/newspaper/</link>
       <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
       <author>cai-joseph@outlook.com (Joseph Cai)</author>
-      <guid>http://localhost:54574/categories/newspaper/</guid>
+      <guid>http://localhost:1313/categories/newspaper/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Reading</title>
-      <link>http://localhost:54574/categories/reading/</link>
+      <link>http://localhost:1313/categories/reading/</link>
       <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
       <author>cai-joseph@outlook.com (Joseph Cai)</author>
-      <guid>http://localhost:54574/categories/reading/</guid>
+      <guid>http://localhost:1313/categories/reading/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Goldman Sachs</title>
-      <link>http://localhost:54574/categories/goldman-sachs/</link>
+      <link>http://localhost:1313/categories/goldman-sachs/</link>
       <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
       <author>cai-joseph@outlook.com (Joseph Cai)</author>
-      <guid>http://localhost:54574/categories/goldman-sachs/</guid>
+      <guid>http://localhost:1313/categories/goldman-sachs/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Data</title>
-      <link>http://localhost:54574/categories/data/</link>
+      <link>http://localhost:1313/categories/data/</link>
       <pubDate>Sun, 10 Nov 2024 00:00:00 +0000</pubDate>
       <author>cai-joseph@outlook.com (Joseph Cai)</author>
-      <guid>http://localhost:54574/categories/data/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>ESG</title>
-      <link>http://localhost:54574/categories/esg/</link>
-      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
-      <author>cai-joseph@outlook.com (Joseph Cai)</author>
-      <guid>http://localhost:54574/categories/esg/</guid>
+      <guid>http://localhost:1313/categories/data/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Blog</title>
-      <link>http://localhost:54574/categories/blog/</link>
+      <link>http://localhost:1313/categories/blog/</link>
       <pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate>
       <author>cai-joseph@outlook.com (Joseph Cai)</author>
-      <guid>http://localhost:54574/categories/blog/</guid>
+      <guid>http://localhost:1313/categories/blog/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Post</title>
-      <link>http://localhost:54574/categories/post/</link>
+      <link>http://localhost:1313/categories/post/</link>
       <pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate>
       <author>cai-joseph@outlook.com (Joseph Cai)</author>
-      <guid>http://localhost:54574/categories/post/</guid>
+      <guid>http://localhost:1313/categories/post/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>ESG</title>
+      <link>http://localhost:1313/categories/esg/</link>
+      <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
+      <author>cai-joseph@outlook.com (Joseph Cai)</author>
+      <guid>http://localhost:1313/categories/esg/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>General</title>
-      <link>http://localhost:54574/categories/general/</link>
+      <link>http://localhost:1313/categories/general/</link>
       <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
       <author>cai-joseph@outlook.com (Joseph Cai)</author>
-      <guid>http://localhost:54574/categories/general/</guid>
+      <guid>http://localhost:1313/categories/general/</guid>
       <description></description>
       
     </item>

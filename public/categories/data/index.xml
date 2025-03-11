@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Data on No Arbitrage</title>
-    <link>http://localhost:54574/categories/data/</link>
+    <link>http://localhost:1313/categories/data/</link>
     <description>Recent content in Data on No Arbitrage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>cai-joseph@outlook.com (Joseph Cai)</managingEditor>
     <webMaster>cai-joseph@outlook.com (Joseph Cai)</webMaster>
     <copyright>&amp;copy; 2025 No Arbitrage. All rights reserved.</copyright>
-    <lastBuildDate>Sun, 10 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:54574/categories/data/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/data/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Unlocking cross sales opportunities with pre-made Basket Analysis template</title>
-      <link>http://localhost:54574/posts/2024-11-basket-analysis-for-sales-managers/</link>
+      <link>http://localhost:1313/posts/2024-11-basket-analysis-for-sales-managers/</link>
       <pubDate>Sun, 10 Nov 2024 00:00:00 +0000</pubDate>
       <author>cai-joseph@outlook.com (Joseph Cai)</author>
-      <guid>http://localhost:54574/posts/2024-11-basket-analysis-for-sales-managers/</guid>
+      <guid>http://localhost:1313/posts/2024-11-basket-analysis-for-sales-managers/</guid>
       <description>Basket Analysis for Sales Managers</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:54574/posts/2024-11-basket-analysis-for-sales-managers/cover.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/2024-11-basket-analysis-for-sales-managers/cover.jpg" />
     </item>
     
     <item>
       <title>Free Power Bi template - a showcase of dashboard development</title>
-      <link>http://localhost:54574/posts/2024-11-basket-free-power-bi-template-showcase/</link>
+      <link>http://localhost:1313/posts/2024-11-basket-free-power-bi-template-showcase/</link>
       <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
       <author>cai-joseph@outlook.com (Joseph Cai)</author>
-      <guid>http://localhost:54574/posts/2024-11-basket-free-power-bi-template-showcase/</guid>
+      <guid>http://localhost:1313/posts/2024-11-basket-free-power-bi-template-showcase/</guid>
       <description>&lt;h1 class=&#34;relative group&#34;&gt;Power BI (DAX) Implementation 
     &lt;div id=&#34;power-bi-dax-implementation&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -52,17 +52,17 @@
 &lt;p&gt;This post is share my experience of developing power bi dashboard. I will find another time to discuss the internal working, data model and other bits around power bi development with you. In this post, I will just share the file with you. You can do whatever you want with this file.
 I taught myself the skills around this work in the last three years, if anything I did in the posts I shared is considered less optimal, I am more than happy to learn from you. Please don&amp;rsquo;t hestate to point out for me! I appreciate that kind guesture.
 I couldn&amp;rsquo;t post my work that&amp;rsquo;s done for my last employer because privacy reasons. All the information I shared in this post is purely sourced from internet and you don&amp;rsquo;t need to worry about the patent issues.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:54574/posts/2024-11-basket-free-power-bi-template-showcase/cover.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/2024-11-basket-free-power-bi-template-showcase/cover.jpg" />
     </item>
     
     <item>
       <title>Implementing Basket Analysis in Power BI and SQL - Association rule</title>
-      <link>http://localhost:54574/posts/2024-11-basket-analysis-for-data-analyst/</link>
+      <link>http://localhost:1313/posts/2024-11-basket-analysis-for-data-analyst/</link>
       <pubDate>Sat, 28 Sep 2024 00:00:00 +0000</pubDate>
       <author>cai-joseph@outlook.com (Joseph Cai)</author>
-      <guid>http://localhost:54574/posts/2024-11-basket-analysis-for-data-analyst/</guid>
+      <guid>http://localhost:1313/posts/2024-11-basket-analysis-for-data-analyst/</guid>
       <description>Basket Analysis for Data analyst</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:54574/posts/2024-11-basket-analysis-for-data-analyst/cover.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/2024-11-basket-analysis-for-data-analyst/cover.jpg" />
     </item>
     
   </channel>

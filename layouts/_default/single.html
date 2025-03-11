@@ -141,6 +141,16 @@
       {{ end }}
   
     </section>
+
+    <head>
+      ...
+      {{ if .Param "math" }}
+        {{ partialCached "math.html" . }}
+      {{ end }}
+      ...
+    </head>
+
+
   <footer class="pt-8 max-w-prose print:hidden">
 
     {{ partial "article-pagination.html" . }}

@@ -2,110 +2,369 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on No Arbitrage</title>
-    <link>http://localhost:54574/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on No Arbitrage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>cai-joseph@outlook.com (Joseph Cai)</managingEditor>
     <webMaster>cai-joseph@outlook.com (Joseph Cai)</webMaster>
     <copyright>&amp;copy; 2025 No Arbitrage. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 13 Jun 2022 20:55:37 +0100</lastBuildDate><atom:link href="http://localhost:54574/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 13 Jun 2022 20:55:37 +0100</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Enterprise, Firm and Equity Value: What&#39;s the Difference?</title>
-      <link>http://localhost:54574/posts/2025-03-value-measures/</link>
-      <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
+      <title>Reorganising Financial Statements for Valuation Analysis</title>
+      <link>http://localhost:1313/posts/2025-03-value-reorganising-fs/</link>
+      <pubDate>Tue, 11 Mar 2025 00:00:00 +0000</pubDate>
       <author>cai-joseph@outlook.com (Joseph Cai)</author>
-      <guid>http://localhost:54574/posts/2025-03-value-measures/</guid>
-      <description>About value concepts</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:54574/posts/2025-03-value-measures/cover.jpg" />
-    </item>
-    
-    <item>
-      <title>Valuation Frameworks in Coporate Finance</title>
-      <link>http://localhost:54574/posts/2025-03-valuation-frameworks/</link>
-      <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
-      <author>cai-joseph@outlook.com (Joseph Cai)</author>
-      <guid>http://localhost:54574/posts/2025-03-valuation-frameworks/</guid>
+      <guid>http://localhost:1313/posts/2025-03-value-reorganising-fs/</guid>
       <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
   How many valuation methods do you know?
 &lt;/div&gt;
 
-&lt;p&gt;
-    &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;EV-flashcard-front.png&#34; alt=&#34;Question about EV Calculation&#34; /&gt;
-      
-    &lt;/figure&gt;
-&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:54574/posts/2025-03-valuation-frameworks/cover.jpg" />
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Introduction 
+    &lt;div id=&#34;introduction&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#introduction&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;By analysing these concepts, we will go through a process - adjusting/ reorganising the balance sheet to arrive at a &lt;strong&gt;Economic Balance Sheet&lt;/strong&gt; in corporate finance perspectives.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/2025-03-value-reorganising-fs/cover.jpg" />
+    </item>
+    
+    <item>
+      <title>Forms of Acquistiion</title>
+      <link>http://localhost:1313/posts/2025-03-ma-compare-acquire-type/</link>
+      <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
+      <author>cai-joseph@outlook.com (Joseph Cai)</author>
+      <guid>http://localhost:1313/posts/2025-03-ma-compare-acquire-type/</guid>
+      <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
+  Typically, buyer prefers acquiring assets but sellers prefers to sell stock (shares). However the market is mostly influenced by sellers&amp;rsquo; objectives when it comes determining forms of acquistiions.
+&lt;/div&gt;
+
+
+
+&lt;h3 class=&#34;relative group&#34;&gt;In the United States 
+    &lt;div id=&#34;in-the-united-states&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#in-the-united-states&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;No&lt;/th&gt;
+          &lt;th&gt;Perspective&lt;/th&gt;
+          &lt;th&gt;Stock Purchase&lt;/th&gt;
+          &lt;th&gt;Asset Purchase&lt;/th&gt;
+          &lt;th&gt;338(h)(10) Election&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;1&lt;/td&gt;
+          &lt;td&gt;Sellers&lt;/td&gt;
+          &lt;td&gt;Shareholders&lt;/td&gt;
+          &lt;td&gt;Corporate entity&lt;/td&gt;
+          &lt;td&gt;Shareholders&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;2&lt;/td&gt;
+          &lt;td&gt;Assets and Liabilities&lt;/td&gt;
+          &lt;td&gt;Buyer gets everything&lt;/td&gt;
+          &lt;td&gt;Buyer picks and chooses&lt;/td&gt;
+          &lt;td&gt;Buyer gets everything&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;3&lt;/td&gt;
+          &lt;td&gt;Valuation of Assets and Liabilities&lt;/td&gt;
+          &lt;td&gt;Book values used, but modified for any step-ups or step-downs&lt;/td&gt;
+          &lt;td&gt;Every single asset/liability must be valued separately&lt;/td&gt;
+          &lt;td&gt;Book values used, but modified for any step-ups or step-downs&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;4&lt;/td&gt;
+          &lt;td&gt;Seller Taxes&lt;/td&gt;
+          &lt;td&gt;Single taxation—shareholders pay capital gains tax&lt;/td&gt;
+          &lt;td&gt;Double taxation—taxes on purchase price minus fair market value as well as on shareholder proceeds&lt;/td&gt;
+          &lt;td&gt;Double taxation—taxes on purchase price minus fair market value as well as on shareholder proceeds&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;5&lt;/td&gt;
+          &lt;td&gt;Book Basis&lt;/td&gt;
+          &lt;td&gt;Assets/liabilities stepped up or down for accounting purposes&lt;/td&gt;
+          &lt;td&gt;Assets/liabilities stepped up or down for accounting purposes&lt;/td&gt;
+          &lt;td&gt;Assets/liabilities stepped up or down for accounting purposes&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;6&lt;/td&gt;
+          &lt;td&gt;Tax Basis&lt;/td&gt;
+          &lt;td&gt;Buyer assumes seller’s tax basis for assets/liabilities&lt;/td&gt;
+          &lt;td&gt;Buyer receives tax step-up for assets/ liabilities&lt;/td&gt;
+          &lt;td&gt;Buyer receives tax step-up for assets/liabilities&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;7&lt;/td&gt;
+          &lt;td&gt;Goodwill and Other Intangibles&lt;/td&gt;
+          &lt;td&gt;Not amortized for tax purposes and not tax-deductible&lt;/td&gt;
+          &lt;td&gt;Amortization is tax-deductible; amortized over 15 years for tax purposes&lt;/td&gt;
+          &lt;td&gt;Amortization is tax-deductible; amortized over 15 years for tax purposes&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;8&lt;/td&gt;
+          &lt;td&gt;Seller Net Operating Losses (NOLs)&lt;/td&gt;
+          &lt;td&gt;Buyer can apply Section 382 after transaction to reduce taxes&lt;/td&gt;
+          &lt;td&gt;Completely lost in transaction&lt;/td&gt;
+          &lt;td&gt;Completely lost in transaction&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;9&lt;/td&gt;
+          &lt;td&gt;Complexity&lt;/td&gt;
+          &lt;td&gt;Inexpensive and quick to execute&lt;/td&gt;
+          &lt;td&gt;Complex and time-consuming—need to value and transfer each asset&lt;/td&gt;
+          &lt;td&gt;Inexpensive and quick to execute&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;10&lt;/td&gt;
+          &lt;td&gt;Used For&lt;/td&gt;
+          &lt;td&gt;Most public/large companies&lt;/td&gt;
+          &lt;td&gt;Divestitures; distressed sales; some private companies&lt;/td&gt;
+          &lt;td&gt;Private companies; compromise between buyer and seller&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;11&lt;/td&gt;
+          &lt;td&gt;Preferred By&lt;/td&gt;
+          &lt;td&gt;Sellers&lt;/td&gt;
+          &lt;td&gt;Buyers&lt;/td&gt;
+          &lt;td&gt;Both&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;12&lt;/td&gt;
+          &lt;td&gt;Combined Balance Sheet&lt;/td&gt;
+          &lt;td&gt;Add all seller’s assets and liabilities (assume shareholders’ equity is wiped out); adjust for write-ups, write-downs, and new items&lt;/td&gt;
+          &lt;td&gt;Add only the seller’s assets and liabilities that the buyer is acquiring; adjust for write-ups, write-downs, and new items created in acquisition&lt;/td&gt;
+          &lt;td&gt;Add all seller’s assets and liabilities (assume shareholders’ equity is wiped out); adjust for write-ups, write-downs, and new item&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;13&lt;/td&gt;
+          &lt;td&gt;Goodwill Created&lt;/td&gt;
+          &lt;td&gt;= Equity Purchase Price - Seller Book Value + Seller Existing Goodwill - PP&amp;amp;E Write-Up - Intangibles Write-Up - Seller Existing Deferred Tax Liability (DTL) + Write-Down of Seller Existing Deferred Tax Asset (DTA) + New DTL Created&lt;/td&gt;
+          &lt;td&gt;= Equity Purchase Price - Seller &lt;br/&gt;Book Value + Seller Existing &lt;br/&gt;Goodwill - PP&amp;amp;E Write-Up - Intangibles Write-Up - Seller &lt;br/&gt;Existing DTL + Write-Down of &lt;br/&gt;Seller Existing DTA&lt;/td&gt;
+          &lt;td&gt;= Equity Purchase Price - Seller &lt;br/&gt;Book Value + Seller Existing &lt;br/&gt;Goodwill - PP&amp;amp;E Write-Up - Intangibles Write-Up - Seller &lt;br/&gt;Existing DTL + Write-Down of &lt;br/&gt;Seller Existing DTA G23&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;14&lt;/td&gt;
+          &lt;td&gt;Goodwill Treatment&lt;/td&gt;
+          &lt;td&gt;Not amortized for accounting purposes; not amortized for tax purposes and not tax-deductible&lt;/td&gt;
+          &lt;td&gt;Not amortized for &lt;br/&gt;accounting purposes; amortized &lt;br/&gt;over 15 years for taxes and tax&lt;br/&gt;deductible&lt;/td&gt;
+          &lt;td&gt;Not amortized for &lt;br/&gt;accounting purposes; amortized &lt;br/&gt;over 15 years for taxes and tax&lt;br/&gt;deductible&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;15&lt;/td&gt;
+          &lt;td&gt;Intangibles Treatment&lt;/td&gt;
+          &lt;td&gt;Amortized for accounting purposes; not tax-deductible&lt;/td&gt;
+          &lt;td&gt;Amortized for accounting purposes; &lt;br/&gt;tax-amortized over 15 years and &lt;br/&gt;tax-deductible&lt;/td&gt;
+          &lt;td&gt;Amortized for accounting &lt;br/&gt;purposes; tax-amortized over  &lt;br/&gt;15 years and tax-deductible&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;16&lt;/td&gt;
+          &lt;td&gt;Depreciation from PP&amp;amp;E  Write-Up&lt;/td&gt;
+          &lt;td&gt;Affects pretax income but not tax-deductible&lt;/td&gt;
+          &lt;td&gt;Affects pretax income and tax&lt;br/&gt;deductible&lt;/td&gt;
+          &lt;td&gt;Affects pretax income and tax&lt;br/&gt;deductible&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;17&lt;/td&gt;
+          &lt;td&gt;New DTL Created&lt;/td&gt;
+          &lt;td&gt;Total Asset Write-Up* Buyer Tax Rate&lt;/td&gt;
+          &lt;td&gt;0&lt;/td&gt;
+          &lt;td&gt;0&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;18&lt;/td&gt;
+          &lt;td&gt;Annual NOL Usage Allowed&lt;/td&gt;
+          &lt;td&gt;Seller’s Equity Purchase Price* &lt;br/&gt;MAX(Previous 3 Month’s &lt;br/&gt;Adjusted Long-Term Rates)&lt;/td&gt;
+          &lt;td&gt;0&lt;/td&gt;
+          &lt;td&gt;0&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;19&lt;/td&gt;
+          &lt;td&gt;DTA Write-Down&lt;/td&gt;
+          &lt;td&gt;Seller’s Equity Purchase Price* &lt;br/&gt;MAX(Previous 3 Month’s &lt;br/&gt;Adjusted Long-Term Rates)&lt;br/&gt; =MAX(0, NOL Balance - &lt;br/&gt;Allowed Annual Usage* &lt;br/&gt;Years until Expiration)&lt;/td&gt;
+          &lt;td&gt;Subtract entire NOL balance from DTA&lt;/td&gt;
+          &lt;td&gt;Subtract entire NOL balance  &lt;br/&gt;from DTA&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+
+&lt;h3 class=&#34;relative group&#34;&gt;In the United Kingdom 
+    &lt;div id=&#34;in-the-united-kingdom&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#in-the-united-kingdom&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;In the United States, a Section 338(h)(10) election allows the buyer and seller of a corporation to treat a stock purchase as an asset acquisition for federal income tax purposes. This provides the buyer with a stepped-up basis in the target&amp;rsquo;s assets, potentially offering tax benefits.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/2025-03-ma-compare-acquire-type/cover.jpg" />
+    </item>
+    
+    <item>
+      <title>How Does ESG Create Value?</title>
+      <link>http://localhost:1313/posts/2025-03-value-esg-value/</link>
+      <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
+      <author>cai-joseph@outlook.com (Joseph Cai)</author>
+      <guid>http://localhost:1313/posts/2025-03-value-esg-value/</guid>
+      <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
+  There are at least five ways ESG can create value.
+&lt;/div&gt;
+
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;What is ESG 
+    &lt;div id=&#34;what-is-esg&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#what-is-esg&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;McKinsey has done an excellent job defining ESG in my view. According to their report referenced at the end,&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/2025-03-value-esg-value/cover.jpg" />
+    </item>
+    
+    <item>
+      <title>Valuation Framework</title>
+      <link>http://localhost:1313/posts/2025-03-value-frameworks/</link>
+      <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
+      <author>cai-joseph@outlook.com (Joseph Cai)</author>
+      <guid>http://localhost:1313/posts/2025-03-value-frameworks/</guid>
+      <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
+  
+&lt;/div&gt;
+
+
+
+&lt;h3 class=&#34;relative group&#34;&gt;Introduction 
+    &lt;div id=&#34;introduction&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#introduction&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;Deal-structuring process begins with addressing a set of key questions that help define initial negotiating positions, potential risks, options for managing risk, levels of tolerance for risk, and conditions under which the buyer or seller will “walk away” from the negotiations.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/2025-03-value-frameworks/cover.jpg" />
+    </item>
+    
+    <item>
+      <title>What Is A Deal Structure</title>
+      <link>http://localhost:1313/posts/2025-03-ma-deal-structure/</link>
+      <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
+      <author>cai-joseph@outlook.com (Joseph Cai)</author>
+      <guid>http://localhost:1313/posts/2025-03-ma-deal-structure/</guid>
+      <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
+  
+&lt;/div&gt;
+
+
+
+&lt;h3 class=&#34;relative group&#34;&gt;Introduction 
+    &lt;div id=&#34;introduction&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#introduction&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;Deal-structuring process begins with addressing a set of key questions that help define initial negotiating positions, potential risks, options for managing risk, levels of tolerance for risk, and conditions under which the buyer or seller will “walk away” from the negotiations.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/2025-03-ma-deal-structure/cover.jpg" />
+    </item>
+    
+    <item>
+      <title>Enterprise, Firm and Equity Value: What&#39;s the Difference?</title>
+      <link>http://localhost:1313/posts/2025-03-value-measures/</link>
+      <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
+      <author>cai-joseph@outlook.com (Joseph Cai)</author>
+      <guid>http://localhost:1313/posts/2025-03-value-measures/</guid>
+      <description>About value concepts</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/2025-03-value-measures/cover.jpg" />
     </item>
     
     <item>
       <title>Hacking Debt Schedule with a Single Lambda Function in Excel</title>
-      <link>http://localhost:54574/posts/2024-11-hacking-debt-schedule-with-lambda-in-excel/</link>
+      <link>http://localhost:1313/posts/2024-11-hacking-debt-schedule-with-lambda-in-excel/</link>
       <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
       <author>cai-joseph@outlook.com (Joseph Cai)</author>
-      <guid>http://localhost:54574/posts/2024-11-hacking-debt-schedule-with-lambda-in-excel/</guid>
+      <guid>http://localhost:1313/posts/2024-11-hacking-debt-schedule-with-lambda-in-excel/</guid>
       <description>One formula to quickly craft debt schedule with multiple features</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:54574/posts/2024-11-hacking-debt-schedule-with-lambda-in-excel/cover.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/2024-11-hacking-debt-schedule-with-lambda-in-excel/cover.jpg" />
     </item>
     
     <item>
       <title>Fixed Income Returns (Credit Cards)</title>
-      <link>http://localhost:54574/posts/2024-11-about-return-concept/</link>
+      <link>http://localhost:1313/posts/2024-11-about-return-concept/</link>
       <pubDate>Mon, 25 Nov 2024 00:00:00 +0000</pubDate>
       <author>cai-joseph@outlook.com (Joseph Cai)</author>
-      <guid>http://localhost:54574/posts/2024-11-about-return-concept/</guid>
+      <guid>http://localhost:1313/posts/2024-11-about-return-concept/</guid>
       <description>Do you know what does APR on your credit mean?</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:54574/posts/2024-11-about-return-concept/cover.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/2024-11-about-return-concept/cover.jpg" />
     </item>
     
     <item>
       <title>Unlocking cross sales opportunities with pre-made Basket Analysis template</title>
-      <link>http://localhost:54574/posts/2024-11-basket-analysis-for-sales-managers/</link>
+      <link>http://localhost:1313/posts/2024-11-basket-analysis-for-sales-managers/</link>
       <pubDate>Sun, 10 Nov 2024 00:00:00 +0000</pubDate>
       <author>cai-joseph@outlook.com (Joseph Cai)</author>
-      <guid>http://localhost:54574/posts/2024-11-basket-analysis-for-sales-managers/</guid>
+      <guid>http://localhost:1313/posts/2024-11-basket-analysis-for-sales-managers/</guid>
       <description>Basket Analysis for Sales Managers</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:54574/posts/2024-11-basket-analysis-for-sales-managers/cover.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/2024-11-basket-analysis-for-sales-managers/cover.jpg" />
     </item>
     
     <item>
       <title>How to Practically Diversify Your Investment for Non-financial Analysts (Free Calculator Workbook)</title>
-      <link>http://localhost:54574/posts/2024-11-how-to-diversify-your-investment/</link>
+      <link>http://localhost:1313/posts/2024-11-how-to-diversify-your-investment/</link>
       <pubDate>Mon, 04 Nov 2024 00:00:00 +0000</pubDate>
       <author>cai-joseph@outlook.com (Joseph Cai)</author>
-      <guid>http://localhost:54574/posts/2024-11-how-to-diversify-your-investment/</guid>
+      <guid>http://localhost:1313/posts/2024-11-how-to-diversify-your-investment/</guid>
       <description>Taking advantage of Portfolio Diversification, the only free lunch in our financial world.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:54574/posts/2024-11-how-to-diversify-your-investment/cover.jpg" />
-    </item>
-    
-    <item>
-      <title>Causation between ESG and Profitability.</title>
-      <link>http://localhost:54574/posts/2024-10-causation-between-esg-and-profitability/</link>
-      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
-      <author>cai-joseph@outlook.com (Joseph Cai)</author>
-      <guid>http://localhost:54574/posts/2024-10-causation-between-esg-and-profitability/</guid>
-      <description>LFocus on causation might limit the perspective needed to see the bigger picture.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:54574/posts/2024-10-causation-between-esg-and-profitability/cover.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/2024-11-how-to-diversify-your-investment/cover.jpg" />
     </item>
     
     <item>
       <title>Comparing Default Solvers in Excel</title>
-      <link>http://localhost:54574/posts/2024-11-comparing-solvers-in-excel/</link>
+      <link>http://localhost:1313/posts/2024-11-comparing-solvers-in-excel/</link>
       <pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate>
       <author>cai-joseph@outlook.com (Joseph Cai)</author>
-      <guid>http://localhost:54574/posts/2024-11-comparing-solvers-in-excel/</guid>
+      <guid>http://localhost:1313/posts/2024-11-comparing-solvers-in-excel/</guid>
       <description>Simplex is more likely to be the best option.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:54574/posts/2024-11-comparing-solvers-in-excel/cover.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/2024-11-comparing-solvers-in-excel/cover.jpg" />
     </item>
     
     <item>
       <title>Free Power Bi template - a showcase of dashboard development</title>
-      <link>http://localhost:54574/posts/2024-11-basket-free-power-bi-template-showcase/</link>
+      <link>http://localhost:1313/posts/2024-11-basket-free-power-bi-template-showcase/</link>
       <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
       <author>cai-joseph@outlook.com (Joseph Cai)</author>
-      <guid>http://localhost:54574/posts/2024-11-basket-free-power-bi-template-showcase/</guid>
+      <guid>http://localhost:1313/posts/2024-11-basket-free-power-bi-template-showcase/</guid>
       <description>&lt;h1 class=&#34;relative group&#34;&gt;Power BI (DAX) Implementation 
     &lt;div id=&#34;power-bi-dax-implementation&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -131,25 +390,25 @@
 &lt;p&gt;This post is share my experience of developing power bi dashboard. I will find another time to discuss the internal working, data model and other bits around power bi development with you. In this post, I will just share the file with you. You can do whatever you want with this file.
 I taught myself the skills around this work in the last three years, if anything I did in the posts I shared is considered less optimal, I am more than happy to learn from you. Please don&amp;rsquo;t hestate to point out for me! I appreciate that kind guesture.
 I couldn&amp;rsquo;t post my work that&amp;rsquo;s done for my last employer because privacy reasons. All the information I shared in this post is purely sourced from internet and you don&amp;rsquo;t need to worry about the patent issues.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:54574/posts/2024-11-basket-free-power-bi-template-showcase/cover.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/2024-11-basket-free-power-bi-template-showcase/cover.jpg" />
     </item>
     
     <item>
       <title>Implementing Basket Analysis in Power BI and SQL - Association rule</title>
-      <link>http://localhost:54574/posts/2024-11-basket-analysis-for-data-analyst/</link>
+      <link>http://localhost:1313/posts/2024-11-basket-analysis-for-data-analyst/</link>
       <pubDate>Sat, 28 Sep 2024 00:00:00 +0000</pubDate>
       <author>cai-joseph@outlook.com (Joseph Cai)</author>
-      <guid>http://localhost:54574/posts/2024-11-basket-analysis-for-data-analyst/</guid>
+      <guid>http://localhost:1313/posts/2024-11-basket-analysis-for-data-analyst/</guid>
       <description>Basket Analysis for Data analyst</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:54574/posts/2024-11-basket-analysis-for-data-analyst/cover.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/2024-11-basket-analysis-for-data-analyst/cover.jpg" />
     </item>
     
     <item>
       <title>Welcome to No Arbitrage!</title>
-      <link>http://localhost:54574/posts/2024-10-welcome-to-my-first-blog/</link>
+      <link>http://localhost:1313/posts/2024-10-welcome-to-my-first-blog/</link>
       <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
       <author>cai-joseph@outlook.com (Joseph Cai)</author>
-      <guid>http://localhost:54574/posts/2024-10-welcome-to-my-first-blog/</guid>
+      <guid>http://localhost:1313/posts/2024-10-welcome-to-my-first-blog/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;Welcome 
     &lt;div id=&#34;welcome&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -161,17 +420,17 @@ I couldn&amp;rsquo;t post my work that&amp;rsquo;s done for my last employer bec
     
 &lt;/h2&gt;
 &lt;p&gt;Hello! I am thrilled that you are here! This is my first and latest blog where I will share my thoughts on financial market and financial fundamental knowledge and occassionally practical example files (models and slides). You can find more about me in the ABOUT page.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:54574/posts/2024-10-welcome-to-my-first-blog/cover.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/2024-10-welcome-to-my-first-blog/cover.jpg" />
     </item>
     
     <item>
       <title>You Don’t Have an ESG Strategy</title>
-      <link>http://localhost:54574/posts/2024-10-you-don-t-have-a-esg-strategy/</link>
+      <link>http://localhost:1313/posts/2024-10-you-don-t-have-a-esg-strategy/</link>
       <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
       <author>cai-joseph@outlook.com (Joseph Cai)</author>
-      <guid>http://localhost:54574/posts/2024-10-you-don-t-have-a-esg-strategy/</guid>
+      <guid>http://localhost:1313/posts/2024-10-you-don-t-have-a-esg-strategy/</guid>
       <description>You Don’t Have an ESG Strategy—What You’ve Been Sold Is ESG Planning.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:54574/posts/2024-10-you-don-t-have-a-esg-strategy/cover.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/2024-10-you-don-t-have-a-esg-strategy/cover.jpg" />
     </item>
     
   </channel>

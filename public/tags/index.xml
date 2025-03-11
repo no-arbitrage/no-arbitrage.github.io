@@ -2,191 +2,171 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on No Arbitrage</title>
-    <link>http://localhost:54574/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on No Arbitrage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>cai-joseph@outlook.com (Joseph Cai)</managingEditor>
     <webMaster>cai-joseph@outlook.com (Joseph Cai)</webMaster>
     <copyright>&amp;copy; 2025 No Arbitrage. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 10 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:54574/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Geeky</title>
-      <link>http://localhost:54574/tags/geeky/</link>
-      <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
-      <author>cai-joseph@outlook.com (Joseph Cai)</author>
-      <guid>http://localhost:54574/tags/geeky/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Learning</title>
-      <link>http://localhost:54574/tags/learning/</link>
-      <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
-      <author>cai-joseph@outlook.com (Joseph Cai)</author>
-      <guid>http://localhost:54574/tags/learning/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Reading</title>
-      <link>http://localhost:54574/tags/reading/</link>
-      <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
-      <author>cai-joseph@outlook.com (Joseph Cai)</author>
-      <guid>http://localhost:54574/tags/reading/</guid>
-      <description></description>
-      
-    </item>
+    <lastBuildDate>Fri, 07 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Finance</title>
-      <link>http://localhost:54574/tags/finance/</link>
+      <link>http://localhost:1313/tags/finance/</link>
       <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
       <author>cai-joseph@outlook.com (Joseph Cai)</author>
-      <guid>http://localhost:54574/tags/finance/</guid>
+      <guid>http://localhost:1313/tags/finance/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Post</title>
-      <link>http://localhost:54574/tags/post/</link>
+      <link>http://localhost:1313/tags/post/</link>
       <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
       <author>cai-joseph@outlook.com (Joseph Cai)</author>
-      <guid>http://localhost:54574/tags/post/</guid>
+      <guid>http://localhost:1313/tags/post/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Valuation</title>
-      <link>http://localhost:54574/tags/valuation/</link>
+      <link>http://localhost:1313/tags/valuation/</link>
       <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
       <author>cai-joseph@outlook.com (Joseph Cai)</author>
-      <guid>http://localhost:54574/tags/valuation/</guid>
+      <guid>http://localhost:1313/tags/valuation/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Financial</title>
-      <link>http://localhost:54574/tags/financial/</link>
+      <link>http://localhost:1313/tags/financial/</link>
       <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
       <author>cai-joseph@outlook.com (Joseph Cai)</author>
-      <guid>http://localhost:54574/tags/financial/</guid>
+      <guid>http://localhost:1313/tags/financial/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Learning</title>
+      <link>http://localhost:1313/tags/learning/</link>
+      <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
+      <author>cai-joseph@outlook.com (Joseph Cai)</author>
+      <guid>http://localhost:1313/tags/learning/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Reading</title>
+      <link>http://localhost:1313/tags/reading/</link>
+      <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
+      <author>cai-joseph@outlook.com (Joseph Cai)</author>
+      <guid>http://localhost:1313/tags/reading/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>APR</title>
-      <link>http://localhost:54574/tags/apr/</link>
+      <link>http://localhost:1313/tags/apr/</link>
       <pubDate>Mon, 25 Nov 2024 00:00:00 +0000</pubDate>
       <author>cai-joseph@outlook.com (Joseph Cai)</author>
-      <guid>http://localhost:54574/tags/apr/</guid>
+      <guid>http://localhost:1313/tags/apr/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Credit</title>
-      <link>http://localhost:54574/tags/credit/</link>
+      <link>http://localhost:1313/tags/credit/</link>
       <pubDate>Mon, 25 Nov 2024 00:00:00 +0000</pubDate>
       <author>cai-joseph@outlook.com (Joseph Cai)</author>
-      <guid>http://localhost:54574/tags/credit/</guid>
+      <guid>http://localhost:1313/tags/credit/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Business-Intelligence</title>
-      <link>http://localhost:54574/tags/business-intelligence/</link>
+      <link>http://localhost:1313/tags/business-intelligence/</link>
       <pubDate>Sun, 10 Nov 2024 00:00:00 +0000</pubDate>
       <author>cai-joseph@outlook.com (Joseph Cai)</author>
-      <guid>http://localhost:54574/tags/business-intelligence/</guid>
+      <guid>http://localhost:1313/tags/business-intelligence/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Diversification</title>
-      <link>http://localhost:54574/tags/diversification/</link>
+      <link>http://localhost:1313/tags/diversification/</link>
       <pubDate>Mon, 04 Nov 2024 00:00:00 +0000</pubDate>
       <author>cai-joseph@outlook.com (Joseph Cai)</author>
-      <guid>http://localhost:54574/tags/diversification/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Esg</title>
-      <link>http://localhost:54574/tags/esg/</link>
-      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
-      <author>cai-joseph@outlook.com (Joseph Cai)</author>
-      <guid>http://localhost:54574/tags/esg/</guid>
+      <guid>http://localhost:1313/tags/diversification/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Excel</title>
-      <link>http://localhost:54574/tags/excel/</link>
+      <link>http://localhost:1313/tags/excel/</link>
       <pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate>
       <author>cai-joseph@outlook.com (Joseph Cai)</author>
-      <guid>http://localhost:54574/tags/excel/</guid>
+      <guid>http://localhost:1313/tags/excel/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Optimisation</title>
-      <link>http://localhost:54574/tags/optimisation/</link>
+      <link>http://localhost:1313/tags/optimisation/</link>
       <pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate>
       <author>cai-joseph@outlook.com (Joseph Cai)</author>
-      <guid>http://localhost:54574/tags/optimisation/</guid>
+      <guid>http://localhost:1313/tags/optimisation/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Power-Bi</title>
-      <link>http://localhost:54574/tags/power-bi/</link>
+      <link>http://localhost:1313/tags/power-bi/</link>
       <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
       <author>cai-joseph@outlook.com (Joseph Cai)</author>
-      <guid>http://localhost:54574/tags/power-bi/</guid>
+      <guid>http://localhost:1313/tags/power-bi/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Intro</title>
-      <link>http://localhost:54574/tags/intro/</link>
+      <link>http://localhost:1313/tags/intro/</link>
       <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
       <author>cai-joseph@outlook.com (Joseph Cai)</author>
-      <guid>http://localhost:54574/tags/intro/</guid>
+      <guid>http://localhost:1313/tags/intro/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Admin</title>
-      <link>http://localhost:54574/tags/admin/</link>
+      <link>http://localhost:1313/tags/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>cai-joseph@outlook.com (Joseph Cai)</author>
-      <guid>http://localhost:54574/tags/admin/</guid>
+      <guid>http://localhost:1313/tags/admin/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Introduction</title>
-      <link>http://localhost:54574/tags/introduction/</link>
+      <link>http://localhost:1313/tags/introduction/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>cai-joseph@outlook.com (Joseph Cai)</author>
-      <guid>http://localhost:54574/tags/introduction/</guid>
+      <guid>http://localhost:1313/tags/introduction/</guid>
       <description></description>
       
     </item>

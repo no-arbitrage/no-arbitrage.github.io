@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr" class="scroll-smooth" data-default-appearance="light"
-  data-auto-appearance="true"><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=54574&amp;path=livereload" data-no-instant defer></script>
+  data-auto-appearance="true"><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
   <meta charset="utf-8" />
   
   <meta http-equiv="content-language" content="en" />
@@ -15,7 +15,7 @@
   <meta name="keywords" content="post, business-intelligence, " />
   
   
-  <link rel="canonical" href="http://localhost:54574/posts/2024-11-basket-analysis-for-data-analyst/" />
+  <link rel="canonical" href="http://localhost:1313/posts/2024-11-basket-analysis-for-data-analyst/" />
   
   
   
@@ -28,8 +28,8 @@
   
   
   
-  <link type="text/css" rel="stylesheet" href="/css/main.bundle.min.db8cb7692788381e28922be22b0c50db78605713ac9de9a78c824e5b7a4fdbab7a2e38d3a4ad5b59a8237edc93c0a62c9b7995834fb4b7f65cc432a92cf39014.css"
-    integrity="sha512-24y3aSeIOB4okiviKwxQ23hgVxOsnemnjIJOW3pP26t6LjjTpK1bWagjftyTwKYsm3mVg0&#43;0t/ZcxDKpLPOQFA==" />
+  <link type="text/css" rel="stylesheet" href="/css/main.bundle.min.af2a166d5d8533812e8bdb8122e147f3f1da5e1ade2083093bb7a22a1f8f9ae25705957389cfa1e040a3851f37a1356bbad2ef3e2066751af487bb844d9fe4c5.css"
+    integrity="sha512-ryoWbV2FM4Eui9uBIuFH8/HaXhreIIMJO7eiKh&#43;PmuJXBZVzic&#43;h4ECjhR83oTVrutLvPiBmdRr0h7uETZ/kxQ==" />
   
   
   <script type="text/javascript" src="/js/appearance.min.516a16745bea5a9bd011138d254cc0fd3973cd55ce6e15f3dec763e7c7c2c7448f8fe7b54cca811cb821b0c7e12cd161caace1dd794ac3d34d40937cbcc9ee12.js"
@@ -69,7 +69,7 @@
   
   
   
-  <meta property="og:url" content="http://localhost:54574/posts/2024-11-basket-analysis-for-data-analyst/">
+  <meta property="og:url" content="http://localhost:1313/posts/2024-11-basket-analysis-for-data-analyst/">
   <meta property="og:site_name" content="No Arbitrage">
   <meta property="og:title" content="Implementing Basket Analysis in Power BI and SQL - Association rule">
   <meta property="og:description" content="Basket Analysis for Data analyst">
@@ -80,13 +80,13 @@
     <meta property="article:modified_time" content="2024-09-28T00:00:00+00:00">
     <meta property="article:tag" content="Post">
     <meta property="article:tag" content="Business-Intelligence">
-    <meta property="og:image" content="http://localhost:54574/posts/2024-11-basket-analysis-for-data-analyst/cover.jpg">
-      <meta property="og:see_also" content="http://localhost:54574/posts/2024-11-basket-analysis-for-sales-managers/">
-      <meta property="og:see_also" content="http://localhost:54574/posts/2024-11-basket-free-power-bi-template-showcase/">
+    <meta property="og:image" content="http://localhost:1313/posts/2024-11-basket-analysis-for-data-analyst/cover.jpg">
+      <meta property="og:see_also" content="http://localhost:1313/posts/2024-11-basket-analysis-for-sales-managers/">
+      <meta property="og:see_also" content="http://localhost:1313/posts/2024-11-basket-free-power-bi-template-showcase/">
 
   
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:image" content="http://localhost:54574/posts/2024-11-basket-analysis-for-data-analyst/cover.jpg">
+  <meta name="twitter:image" content="http://localhost:1313/posts/2024-11-basket-analysis-for-data-analyst/cover.jpg">
   <meta name="twitter:title" content="Implementing Basket Analysis in Power BI and SQL - Association rule">
   <meta name="twitter:description" content="Basket Analysis for Data analyst">
 
@@ -101,7 +101,7 @@
     
     "abstract": "Basket Analysis for Data analyst",
     "inLanguage": "en",
-    "url" : "http:\/\/localhost:54574\/posts\/2024-11-basket-analysis-for-data-analyst\/",
+    "url" : "http:\/\/localhost:1313\/posts\/2024-11-basket-analysis-for-data-analyst\/",
     "author" : {
       "@type": "Person",
       "name": "Joseph Cai"
@@ -602,10 +602,34 @@
   
   
   
-        
-            <div class="w-full h-36 md:h-56 lg:h-72 single_hero_basic nozoom" style="background-image:url(/posts/2024-11-basket-analysis-for-data-analyst/cover_hu_63e51b78cf91eda6.jpg);"></div>
-        
+
+
+<div id="hero" class="h-[150px] md:h-[200px]"></div>
+
+
+
     
+    <div class="fixed inset-x-0 top-0 h-[800px] single_hero_background nozoom"
+    style="background-image:url(/posts/2024-11-basket-analysis-for-data-analyst/cover_hu_63e51b78cf91eda6.jpg);">
+    
+
+
+    <div class="absolute inset-0 bg-gradient-to-t from-neutral dark:from-neutral-800 to-transparent mix-blend-normal">
+    </div>
+    <div
+        class="absolute inset-0 opacity-60 bg-gradient-to-t from-neutral dark:from-neutral-800 to-neutral-100 dark:to-neutral-800 mix-blend-normal">
+    </div>
+</div>
+
+<div id="background-blur" class="fixed opacity-0 inset-x-0 top-0 h-full single_hero_background nozoom backdrop-blur-2xl"></div>
+<script>
+    window.addEventListener('scroll', function (e) {
+        var scroll = window.pageYOffset || document.documentElement.scrollTop || document.body.scrollTop || 0;
+        var background_blur = document.getElementById('background-blur');
+        background_blur.style.opacity = (scroll / 300)
+    });
+</script>
+
   
   
 
@@ -951,7 +975,7 @@
     
     <div
         class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
-        <a href="http://localhost:54574/posts/2024-11-basket-analysis-for-sales-managers/">
+        <a href="http://localhost:1313/posts/2024-11-basket-analysis-for-sales-managers/">
             Part 1: Unlocking cross sales opportunities with pre-made Basket Analysis template
         </a>
     </div>
@@ -967,7 +991,7 @@
     
     <div
         class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
-        <a href="http://localhost:54574/posts/2024-11-basket-free-power-bi-template-showcase/">
+        <a href="http://localhost:1313/posts/2024-11-basket-free-power-bi-template-showcase/">
             Part 3: Free Power Bi template - a showcase of dashboard development
         </a>
     </div>
@@ -1500,7 +1524,7 @@ D
     
     <div
         class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
-        <a href="http://localhost:54574/posts/2024-11-basket-analysis-for-sales-managers/">
+        <a href="http://localhost:1313/posts/2024-11-basket-analysis-for-sales-managers/">
             Part 1: Unlocking cross sales opportunities with pre-made Basket Analysis template
         </a>
     </div>
@@ -1516,7 +1540,7 @@ D
     
     <div
         class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
-        <a href="http://localhost:54574/posts/2024-11-basket-free-power-bi-template-showcase/">
+        <a href="http://localhost:1313/posts/2024-11-basket-free-power-bi-template-showcase/">
             Part 3: Free Power Bi template - a showcase of dashboard development
         </a>
     </div>
@@ -1534,7 +1558,7 @@ D
       <a
       target="_blank"
       class="m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-      href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http://localhost:54574/posts/2024-11-basket-analysis-for-data-analyst/&amp;title=Implementing%20Basket%20Analysis%20in%20Power%20BI%20and%20SQL%20-%20Association%20rule"
+      href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http://localhost:1313/posts/2024-11-basket-analysis-for-data-analyst/&amp;title=Implementing%20Basket%20Analysis%20in%20Power%20BI%20and%20SQL%20-%20Association%20rule"
       title="Share on LinkedIn"
       aria-label="Share on LinkedIn"
       >
@@ -1553,7 +1577,7 @@ D
       <a
       target="_blank"
       class="m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-      href="https://twitter.com/intent/tweet/?url=http://localhost:54574/posts/2024-11-basket-analysis-for-data-analyst/&amp;text=Implementing%20Basket%20Analysis%20in%20Power%20BI%20and%20SQL%20-%20Association%20rule"
+      href="https://twitter.com/intent/tweet/?url=http://localhost:1313/posts/2024-11-basket-analysis-for-data-analyst/&amp;text=Implementing%20Basket%20Analysis%20in%20Power%20BI%20and%20SQL%20-%20Association%20rule"
       title="Tweet on Twitter"
       aria-label="Tweet on Twitter"
       >
@@ -1571,7 +1595,7 @@ D
       <a
       target="_blank"
       class="m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-      href="https://api.whatsapp.com/send?text=http://localhost:54574/posts/2024-11-basket-analysis-for-data-analyst/&amp;resubmit=true&amp;title=Implementing%20Basket%20Analysis%20in%20Power%20BI%20and%20SQL%20-%20Association%20rule"
+      href="https://api.whatsapp.com/send?text=http://localhost:1313/posts/2024-11-basket-analysis-for-data-analyst/&amp;resubmit=true&amp;title=Implementing%20Basket%20Analysis%20in%20Power%20BI%20and%20SQL%20-%20Association%20rule"
       title="Share via WhatsApp"
       aria-label="Share via WhatsApp"
       >
@@ -1590,7 +1614,7 @@ D
       <a
       target="_blank"
       class="m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-      href="https://pinterest.com/pin/create/bookmarklet/?url=http://localhost:54574/posts/2024-11-basket-analysis-for-data-analyst/&amp;description=Implementing%20Basket%20Analysis%20in%20Power%20BI%20and%20SQL%20-%20Association%20rule"
+      href="https://pinterest.com/pin/create/bookmarklet/?url=http://localhost:1313/posts/2024-11-basket-analysis-for-data-analyst/&amp;description=Implementing%20Basket%20Analysis%20in%20Power%20BI%20and%20SQL%20-%20Association%20rule"
       title="Pin on Pinterest"
       aria-label="Pin on Pinterest"
       >
@@ -1609,7 +1633,7 @@ D
       <a
       target="_blank"
       class="m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-      href="https://reddit.com/submit/?url=http://localhost:54574/posts/2024-11-basket-analysis-for-data-analyst/&amp;resubmit=true&amp;title=Implementing%20Basket%20Analysis%20in%20Power%20BI%20and%20SQL%20-%20Association%20rule"
+      href="https://reddit.com/submit/?url=http://localhost:1313/posts/2024-11-basket-analysis-for-data-analyst/&amp;resubmit=true&amp;title=Implementing%20Basket%20Analysis%20in%20Power%20BI%20and%20SQL%20-%20Association%20rule"
       title="Submit to Reddit"
       aria-label="Submit to Reddit"
       >
@@ -1628,7 +1652,7 @@ D
       <a
       target="_blank"
       class="m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-      href="https://www.facebook.com/sharer/sharer.php?u=http://localhost:54574/posts/2024-11-basket-analysis-for-data-analyst/&amp;quote=Implementing%20Basket%20Analysis%20in%20Power%20BI%20and%20SQL%20-%20Association%20rule"
+      href="https://www.facebook.com/sharer/sharer.php?u=http://localhost:1313/posts/2024-11-basket-analysis-for-data-analyst/&amp;quote=Implementing%20Basket%20Analysis%20in%20Power%20BI%20and%20SQL%20-%20Association%20rule"
       title="Share on Facebook"
       aria-label="Share on Facebook"
       >
@@ -1647,7 +1671,7 @@ D
       <a
       target="_blank"
       class="m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-      href="mailto:?body=http://localhost:54574/posts/2024-11-basket-analysis-for-data-analyst/&amp;subject=Implementing%20Basket%20Analysis%20in%20Power%20BI%20and%20SQL%20-%20Association%20rule"
+      href="mailto:?body=http://localhost:1313/posts/2024-11-basket-analysis-for-data-analyst/&amp;subject=Implementing%20Basket%20Analysis%20in%20Power%20BI%20and%20SQL%20-%20Association%20rule"
       title="Send via email"
       aria-label="Send via email"
       >
@@ -1685,6 +1709,27 @@ D
       
   
     </section>
+
+    <head>
+      ...
+      
+        <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
+<script>
+  MathJax = {
+    tex: {
+      displayMath: [['\\[', '\\]'], ['$$', '$$']],  
+      inlineMath: [['\\(', '\\)']]                  
+    },
+    loader:{
+      load: ['ui/safe']
+    },
+  };
+</script>
+      
+      ...
+    </head>
+
+
   <footer class="pt-8 max-w-prose print:hidden">
 
     
@@ -1863,7 +1908,7 @@ D
 <div
   id="search-wrapper"
   class="invisible fixed inset-0 flex h-screen w-screen cursor-default flex-col bg-neutral-500/50 p-4 backdrop-blur-sm dark:bg-neutral-900/50 sm:p-6 md:p-[10vh] lg:p-[12vh]"
-  data-url="http://localhost:54574/"
+  data-url="http://localhost:1313/"
   style="z-index:500"
 >
   <div

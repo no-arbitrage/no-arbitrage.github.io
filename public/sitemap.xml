@@ -3,133 +3,150 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:54574/gallery/</loc>
+    <loc>http://localhost:1313/gallery/</loc>
     <lastmod>2025-03-10T20:53:51+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:54574/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2025-03-10T20:53:51+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:54574/resource/</loc>
+    <loc>http://localhost:1313/resource/</loc>
     <lastmod>2025-03-10T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:54574/resource/opensource-packages/</loc>
-    <lastmod>2025-03-10T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:54574/posts/2025-03-value-measures/</loc>
+    <loc>http://localhost:1313/posts/2025-03-value-measures/</loc>
     <lastmod>2025-03-07T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:54574/posts/2025-03-valuation-frameworks/</loc>
+    <loc>http://localhost:1313/posts/2025-03-value-esg-value/</loc>
     <lastmod>2025-03-07T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:54574/gallery/test-albtm/</loc>
+    <loc>http://localhost:1313/resource/cim/02-market/</loc>
+    <lastmod>2025-03-07T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/2025-03-value-reorganising-fs/</loc>
+    <lastmod>2025-03-07T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/2025-03-value-frameworks/</loc>
+    <lastmod>2025-03-07T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/gallery/test-albtm/</loc>
     <lastmod>2025-03-03T14:52:25+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:54574/resource/information-sources/</loc>
+    <loc>http://localhost:1313/resource/information-sources/</loc>
     <lastmod>2025-02-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:54574/resource/financial-times/</loc>
+    <loc>http://localhost:1313/resource/financial-times/</loc>
     <lastmod>2025-02-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:54574/resource/gs-analyst-reading-list/</loc>
+    <loc>http://localhost:1313/resource/gs-analyst-reading-list/</loc>
     <lastmod>2025-02-24T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:54574/posts/2024-11-hacking-debt-schedule-with-lambda-in-excel/</loc>
+    <loc>http://localhost:1313/posts/2024-11-hacking-debt-schedule-with-lambda-in-excel/</loc>
     <lastmod>2024-12-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:54574/posts/2024-11-about-return-concept/</loc>
+    <loc>http://localhost:1313/posts/2024-11-about-return-concept/</loc>
     <lastmod>2024-11-25T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:54574/posts/2024-11-basket-analysis-for-sales-managers/</loc>
+    <loc>http://localhost:1313/posts/2024-11-basket-analysis-for-sales-managers/</loc>
     <lastmod>2024-11-10T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:54574/posts/2024-11-how-to-diversify-your-investment/</loc>
+    <loc>http://localhost:1313/posts/2024-11-how-to-diversify-your-investment/</loc>
     <lastmod>2024-11-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:54574/posts/2024-10-causation-between-esg-and-profitability/</loc>
-    <lastmod>2024-11-01T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:54574/posts/2024-11-comparing-solvers-in-excel/</loc>
+    <loc>http://localhost:1313/posts/2024-11-comparing-solvers-in-excel/</loc>
     <lastmod>2024-10-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:54574/posts/2024-11-basket-free-power-bi-template-showcase/</loc>
+    <loc>http://localhost:1313/posts/2024-11-basket-free-power-bi-template-showcase/</loc>
     <lastmod>2024-09-30T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:54574/posts/2024-11-basket-analysis-for-data-analyst/</loc>
+    <loc>http://localhost:1313/posts/2024-11-basket-analysis-for-data-analyst/</loc>
     <lastmod>2024-09-28T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:54574/posts/2024-10-welcome-to-my-first-blog/</loc>
+    <loc>http://localhost:1313/posts/2024-10-welcome-to-my-first-blog/</loc>
     <lastmod>2024-09-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:54574/posts/2024-10-you-don-t-have-a-esg-strategy/</loc>
+    <loc>http://localhost:1313/posts/2024-10-you-don-t-have-a-esg-strategy/</loc>
     <lastmod>2024-09-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:54574/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2022-06-13T20:55:37+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:54574/about/</loc>
+    <loc>http://localhost:1313/resource/cim/</loc>
+    <lastmod>2022-06-13T20:55:37+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resource/cim/01-executive-summary/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/about/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

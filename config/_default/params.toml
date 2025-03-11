@@ -9,7 +9,7 @@ disableTextInHeader = false
 giteaDefaultServer = "https://git.fsfe.org"
 forgejoDefaultServer = "https://v8.next.forgejo.org"
 highlightCurrentMenuArea = true
- 
+math = true
  
 mainSections = [ "posts" ]
 backgroundImageWidth = 1200
@@ -43,12 +43,12 @@ defaultBackgroundImage = "/img/background.svg"
   # showViews = true
   showLikes = true
   showDateUpdated = false
-  
+ 
   showComments = true
   showAuthor = true
   showHero = true
   layoutBackgroundHeaderSpace = true
-  heroStyle = "basic"  
+  heroStyle = "background"  
   showBreadcrumbs = true
   showDraftLabel = true
   showEdit = false
