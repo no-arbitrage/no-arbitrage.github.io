@@ -30,3 +30,158 @@ p {
 /*  font-size: '16';*/
 }
 /* Increase the default font size */
+/* img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 0.3em;
+} */
+
+/* 
+
+
+@media all and (min-width: 1800px) {
+  :root {
+    --offset: 380px;
+  }
+  html {
+    font-size: 115%;
+  }
+}
+
+@media all and (min-width: 1530px) {
+  :root {
+    --offset: 280px;
+  }
+  main#site-main {
+    margin-top: 3em;
+    margin-left: 0em;
+  }
+  #home-center, #home-footer {
+    padding-left: 16vw;
+    padding-right: 16vw;
+  }
+  .wrapper {
+    margin-left: var(--offset);
+  }
+  .sidebar {
+    position: sticky;
+    float: left;
+    top: 2em;
+    width: calc(var(--offset) - 2em);
+    padding: 0srem;
+    margin-left: calc(0px - var(--offset));
+    text-align: right;
+  }
+  .album {
+    width: calc(var(--vw) * 100 - var(--offset) - 1em);
+    margin-top: 2em;
+  }
+  .album-title {
+    margin-top: 0;
+    margin-bottom: 0em;
+  }
+  .album-info {
+    display: block;
+    margin: 0;
+    line-height: 1.5;
+    > .separator {
+      display: none;
+    }
+  }
+}
+
+.album {
+  margin-top: 2.5em;
+  margin-bottom: 1em;
+}
+
+.album-title {
+  margin-bottom: 0;
+  font-weight: normal;
+  > a {
+    border: none;
+  }
+}
+
+.album-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .5em;
+  border: none!important;
+}
+.img-tile {
+  width: 249px;
+  height: 166px;
+}
+
+.post-nav {
+  display: flex;
+  justify-content: space-between;
+  gap: 1em;
+  margin-top: 1.5em;
+  margin-bottom: 2em;
+  font-size: 1.2em;
+  padding: .5em;
+  border: 1px dashed var(--c-txt-alt);
+  > a {
+    flex-basis: 50%;
+    flex-grow: 1;
+    border: none;
+  }
+
+  .next-post {text-align: left;}
+  .prev-post {text-align: right;}
+
+  .post-nav-label {
+    font-size: .8em;
+    opacity: .8;
+    text-transform: uppercase;
+    color: var(--c-txt-alt);
+  }
+}
+
+
+//Single 
+//
+main#site-main {
+  flex-grow: 1;
+  margin-top: 1em;
+}
+#home-btn {
+  border: none;
+  position: absolute;
+  &>img{
+    width: 1.5em;
+    height: auto;
+    border-radius: 50%;
+  }
+}
+.title-area {
+  display: flex;
+  align-items: baseline;
+  margin-bottom: 2em;
+  .title-area-l {
+    flex: 1;
+  }
+}
+h1#page-title {
+  margin: 0;
+  font-size: 2rem;
+  font-weight: bold;
+  line-height: normal;
+}
+.feather {
+  display: inline-block;
+  vertical-align: -.125em;
+  width: 1em;
+  height: 1em;
+}
+
+figcaption > p {
+  margin-top: .1rem;
+  margin-bottom: 1rem;
+  font-size: 1em;
+  font-style: italic;
+  color: var(--c-txt-alt);
+} */
