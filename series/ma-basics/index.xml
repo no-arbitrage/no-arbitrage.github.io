@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>M&amp;A Basics on No Arbitrage</title><link>https://www.no-arbitrage.com/series/ma-basics/</link><description>Recent content in M&amp;A Basics on No Arbitrage</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>cai-joseph@outlook.com (Joseph Cai)</managingEditor><webMaster>cai-joseph@outlook.com (Joseph Cai)</webMaster><copyright>&amp;copy; 2025 No Arbitrage. All rights reserved.</copyright><lastBuildDate>Mon, 10 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://www.no-arbitrage.com/series/ma-basics/index.xml" rel="self" type="application/rss+xml"/><item><title>Forms of Acquistiion</title><link>https://www.no-arbitrage.com/posts/2025-03-ma-compare-acquire-type/</link><pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate><author>cai-joseph@outlook.com (Joseph Cai)</author><guid>https://www.no-arbitrage.com/posts/2025-03-ma-compare-acquire-type/</guid><description>&lt;div class="lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl">
+Typically, buyer prefers acquiring assets but sellers prefers to sell stock (shares). However the market is mostly influenced by sellers&amp;rsquo; objectives when it comes determining forms of acquistiions.
+&lt;/div>
+&lt;h3 class="relative group">In the United States
+&lt;div id="in-the-united-states" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#in-the-united-states" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>No&lt;/th>
+&lt;th>Perspective&lt;/th>
+&lt;th>Stock Purchase&lt;/th>
+&lt;th>Asset Purchase&lt;/th>
+&lt;th>338(h)(10) Election&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>1&lt;/td>
+&lt;td>Sellers&lt;/td>
+&lt;td>Shareholders&lt;/td>
+&lt;td>Corporate entity&lt;/td>
+&lt;td>Shareholders&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2&lt;/td>
+&lt;td>Assets and Liabilities&lt;/td>
+&lt;td>Buyer gets everything&lt;/td>
+&lt;td>Buyer picks and chooses&lt;/td>
+&lt;td>Buyer gets everything&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>3&lt;/td>
+&lt;td>Valuation of Assets and Liabilities&lt;/td>
+&lt;td>Book values used, but modified for any step-ups or step-downs&lt;/td>
+&lt;td>Every single asset/liability must be valued separately&lt;/td>
+&lt;td>Book values used, but modified for any step-ups or step-downs&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>4&lt;/td>
+&lt;td>Seller Taxes&lt;/td>
+&lt;td>Single taxation—shareholders pay capital gains tax&lt;/td>
+&lt;td>Double taxation—taxes on purchase price minus fair market value as well as on shareholder proceeds&lt;/td>
+&lt;td>Double taxation—taxes on purchase price minus fair market value as well as on shareholder proceeds&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>5&lt;/td>
+&lt;td>Book Basis&lt;/td>
+&lt;td>Assets/liabilities stepped up or down for accounting purposes&lt;/td>
+&lt;td>Assets/liabilities stepped up or down for accounting purposes&lt;/td>
+&lt;td>Assets/liabilities stepped up or down for accounting purposes&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>6&lt;/td>
+&lt;td>Tax Basis&lt;/td>
+&lt;td>Buyer assumes seller’s tax basis for assets/liabilities&lt;/td>
+&lt;td>Buyer receives tax step-up for assets/ liabilities&lt;/td>
+&lt;td>Buyer receives tax step-up for assets/liabilities&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>7&lt;/td>
+&lt;td>Goodwill and Other Intangibles&lt;/td>
+&lt;td>Not amortized for tax purposes and not tax-deductible&lt;/td>
+&lt;td>Amortization is tax-deductible; amortized over 15 years for tax purposes&lt;/td>
+&lt;td>Amortization is tax-deductible; amortized over 15 years for tax purposes&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>8&lt;/td>
+&lt;td>Seller Net Operating Losses (NOLs)&lt;/td>
+&lt;td>Buyer can apply Section 382 after transaction to reduce taxes&lt;/td>
+&lt;td>Completely lost in transaction&lt;/td>
+&lt;td>Completely lost in transaction&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>9&lt;/td>
+&lt;td>Complexity&lt;/td>
+&lt;td>Inexpensive and quick to execute&lt;/td>
+&lt;td>Complex and time-consuming—need to value and transfer each asset&lt;/td>
+&lt;td>Inexpensive and quick to execute&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>10&lt;/td>
+&lt;td>Used For&lt;/td>
+&lt;td>Most public/large companies&lt;/td>
+&lt;td>Divestitures; distressed sales; some private companies&lt;/td>
+&lt;td>Private companies; compromise between buyer and seller&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>11&lt;/td>
+&lt;td>Preferred By&lt;/td>
+&lt;td>Sellers&lt;/td>
+&lt;td>Buyers&lt;/td>
+&lt;td>Both&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>12&lt;/td>
+&lt;td>Combined Balance Sheet&lt;/td>
+&lt;td>Add all seller’s assets and liabilities (assume shareholders’ equity is wiped out); adjust for write-ups, write-downs, and new items&lt;/td>
+&lt;td>Add only the seller’s assets and liabilities that the buyer is acquiring; adjust for write-ups, write-downs, and new items created in acquisition&lt;/td>
+&lt;td>Add all seller’s assets and liabilities (assume shareholders’ equity is wiped out); adjust for write-ups, write-downs, and new item&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>13&lt;/td>
+&lt;td>Goodwill Created&lt;/td>
+&lt;td>= Equity Purchase Price - Seller Book Value + Seller Existing Goodwill - PP&amp;amp;E Write-Up - Intangibles Write-Up - Seller Existing Deferred Tax Liability (DTL) + Write-Down of Seller Existing Deferred Tax Asset (DTA) + New DTL Created&lt;/td>
+&lt;td>= Equity Purchase Price - Seller &lt;br/>Book Value + Seller Existing &lt;br/>Goodwill - PP&amp;amp;E Write-Up - Intangibles Write-Up - Seller &lt;br/>Existing DTL + Write-Down of &lt;br/>Seller Existing DTA&lt;/td>
+&lt;td>= Equity Purchase Price - Seller &lt;br/>Book Value + Seller Existing &lt;br/>Goodwill - PP&amp;amp;E Write-Up - Intangibles Write-Up - Seller &lt;br/>Existing DTL + Write-Down of &lt;br/>Seller Existing DTA G23&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>14&lt;/td>
+&lt;td>Goodwill Treatment&lt;/td>
+&lt;td>Not amortized for accounting purposes; not amortized for tax purposes and not tax-deductible&lt;/td>
+&lt;td>Not amortized for &lt;br/>accounting purposes; amortized &lt;br/>over 15 years for taxes and tax&lt;br/>deductible&lt;/td>
+&lt;td>Not amortized for &lt;br/>accounting purposes; amortized &lt;br/>over 15 years for taxes and tax&lt;br/>deductible&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>15&lt;/td>
+&lt;td>Intangibles Treatment&lt;/td>
+&lt;td>Amortized for accounting purposes; not tax-deductible&lt;/td>
+&lt;td>Amortized for accounting purposes; &lt;br/>tax-amortized over 15 years and &lt;br/>tax-deductible&lt;/td>
+&lt;td>Amortized for accounting &lt;br/>purposes; tax-amortized over &lt;br/>15 years and tax-deductible&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>16&lt;/td>
+&lt;td>Depreciation from PP&amp;amp;E Write-Up&lt;/td>
+&lt;td>Affects pretax income but not tax-deductible&lt;/td>
+&lt;td>Affects pretax income and tax&lt;br/>deductible&lt;/td>
+&lt;td>Affects pretax income and tax&lt;br/>deductible&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>17&lt;/td>
+&lt;td>New DTL Created&lt;/td>
+&lt;td>Total Asset Write-Up* Buyer Tax Rate&lt;/td>
+&lt;td>0&lt;/td>
+&lt;td>0&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>18&lt;/td>
+&lt;td>Annual NOL Usage Allowed&lt;/td>
+&lt;td>Seller’s Equity Purchase Price* &lt;br/>MAX(Previous 3 Month’s &lt;br/>Adjusted Long-Term Rates)&lt;/td>
+&lt;td>0&lt;/td>
+&lt;td>0&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>19&lt;/td>
+&lt;td>DTA Write-Down&lt;/td>
+&lt;td>Seller’s Equity Purchase Price* &lt;br/>MAX(Previous 3 Month’s &lt;br/>Adjusted Long-Term Rates)&lt;br/> =MAX(0, NOL Balance - &lt;br/>Allowed Annual Usage* &lt;br/>Years until Expiration)&lt;/td>
+&lt;td>Subtract entire NOL balance from DTA&lt;/td>
+&lt;td>Subtract entire NOL balance &lt;br/>from DTA&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h3 class="relative group">In the United Kingdom
+&lt;div id="in-the-united-kingdom" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#in-the-united-kingdom" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;p>In the United States, a Section 338(h)(10) election allows the buyer and seller of a corporation to treat a stock purchase as an asset acquisition for federal income tax purposes. This provides the buyer with a stepped-up basis in the target&amp;rsquo;s assets, potentially offering tax benefits.&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.no-arbitrage.com/posts/2025-03-ma-compare-acquire-type/cover.jpg"/></item><item><title>What Is A Deal Structure</title><link>https://www.no-arbitrage.com/posts/2025-03-ma-deal-structure/</link><pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate><author>cai-joseph@outlook.com (Joseph Cai)</author><guid>https://www.no-arbitrage.com/posts/2025-03-ma-deal-structure/</guid><description>&lt;div class="lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl">
+&lt;/div>
+&lt;h3 class="relative group">Introduction
+&lt;div id="introduction" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;p>Deal-structuring process begins with addressing a set of key questions that help define initial negotiating positions, potential risks, options for managing risk, levels of tolerance for risk, and conditions under which the buyer or seller will “walk away” from the negotiations.&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.no-arbitrage.com/posts/2025-03-ma-deal-structure/cover.jpg"/></item></channel></rss>
