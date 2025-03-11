@@ -2,23 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Reading on No Arbitrage</title>
-    <link>http://localhost:1313/tags/reading/</link>
+    <link>http://localhost:54574/tags/reading/</link>
     <description>Recent content in Reading on No Arbitrage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>cai-joseph@outlook.com (Joseph Cai)</managingEditor>
     <webMaster>cai-joseph@outlook.com (Joseph Cai)</webMaster>
     <copyright>&amp;copy; 2025 No Arbitrage. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 24 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/reading/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 10 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:54574/tags/reading/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Open Source Projects to Checkout</title>
+      <link>http://localhost:54574/resource/opensource-packages/</link>
+      <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
+      <author>cai-joseph@outlook.com (Joseph Cai)</author>
+      <guid>http://localhost:54574/resource/opensource-packages/</guid>
+      <description>Mac/Win/WSL/Linux/iOS</description>
+      
+    </item>
+    
+    <item>
+      <title>Information Sources</title>
+      <link>http://localhost:54574/resource/information-sources/</link>
+      <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
+      <author>cai-joseph@outlook.com (Joseph Cai)</author>
+      <guid>http://localhost:54574/resource/information-sources/</guid>
+      <description>Newspapers, megazines and more&amp;hellip;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:54574/resource/information-sources/cover.jpg" />
+    </item>
+    
+    <item>
+      <title>Reading the Financial Times (UK edition)</title>
+      <link>http://localhost:54574/resource/financial-times/</link>
+      <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
+      <author>cai-joseph@outlook.com (Joseph Cai)</author>
+      <guid>http://localhost:54574/resource/financial-times/</guid>
+      <description>This is a breakdown of contents avilable on the FT.com or the FT app.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:54574/resource/financial-times/cover.jpg" />
+    </item>
     
     <item>
       <title>Reading List for Financial Analyst</title>
-      <link>http://localhost:1313/resource/gs-analyst-reading-list/</link>
+      <link>http://localhost:54574/resource/gs-analyst-reading-list/</link>
       <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
       <author>cai-joseph@outlook.com (Joseph Cai)</author>
-      <guid>http://localhost:1313/resource/gs-analyst-reading-list/</guid>
+      <guid>http://localhost:54574/resource/gs-analyst-reading-list/</guid>
       <description>Written by Current or Former Goldman Sachs Employees. This list provides an extensive reading guide for finance professionals and enthusiasts seeking industry insights, investment strategies, and historical perspectives.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/resource/gs-analyst-reading-list/cover.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:54574/resource/gs-analyst-reading-list/cover.jpg" />
     </item>
     
   </channel>

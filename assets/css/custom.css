@@ -39,7 +39,7 @@ p {
 
 /* 
 
-
+/* 
 @media all and (min-width: 1800px) {
   :root {
     --offset: 380px;
@@ -47,7 +47,7 @@ p {
   html {
     font-size: 115%;
   }
-}
+} */
 
 @media all and (min-width: 1530px) {
   :root {
@@ -142,8 +142,8 @@ p {
 }
 
 
-//Single 
-//
+/* //Single 
+// */
 main#site-main {
   flex-grow: 1;
   margin-top: 1em;
@@ -184,4 +184,4 @@ figcaption > p {
   font-size: 1em;
   font-style: italic;
   color: var(--c-txt-alt);
-} */
+} 

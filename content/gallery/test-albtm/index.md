@@ -8,7 +8,7 @@ shot_with: xxxx
 description: "description line"
 draft: false
 images:
-  - /assets/img/03.jpg
+  - "02.jpg"
 ---
 
-{{< photo src="/assets/img/02.jpg" alt="alternativetext" caption="" >}}
+{{< photo src="02.jpg" alt="alternativetext" caption="" >}}

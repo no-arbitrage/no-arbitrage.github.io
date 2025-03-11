@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Excel on No Arbitrage</title>
+    <link>http://localhost:54574/tags/excel/</link>
+    <description>Recent content in Excel on No Arbitrage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>cai-joseph@outlook.com (Joseph Cai)</managingEditor>
+    <webMaster>cai-joseph@outlook.com (Joseph Cai)</webMaster>
+    <copyright>&amp;copy; 2025 No Arbitrage. All rights reserved.</copyright>
+    <lastBuildDate>Fri, 04 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:54574/tags/excel/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Comparing Default Solvers in Excel</title>
+      <link>http://localhost:54574/posts/2024-11-comparing-solvers-in-excel/</link>
+      <pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate>
+      <author>cai-joseph@outlook.com (Joseph Cai)</author>
+      <guid>http://localhost:54574/posts/2024-11-comparing-solvers-in-excel/</guid>
+      <description>Simplex is more likely to be the best option.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:54574/posts/2024-11-comparing-solvers-in-excel/cover.jpg" />
+    </item>
+    
+  </channel>
+</rss>

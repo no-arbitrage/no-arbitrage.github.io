@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ESG on No Arbitrage</title>
+    <link>http://localhost:54574/categories/esg/</link>
+    <description>Recent content in ESG on No Arbitrage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>cai-joseph@outlook.com (Joseph Cai)</managingEditor>
+    <webMaster>cai-joseph@outlook.com (Joseph Cai)</webMaster>
+    <copyright>&amp;copy; 2025 No Arbitrage. All rights reserved.</copyright>
+    <lastBuildDate>Fri, 01 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:54574/categories/esg/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Causation between ESG and Profitability.</title>
+      <link>http://localhost:54574/posts/2024-10-causation-between-esg-and-profitability/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      <author>cai-joseph@outlook.com (Joseph Cai)</author>
+      <guid>http://localhost:54574/posts/2024-10-causation-between-esg-and-profitability/</guid>
+      <description>LFocus on causation might limit the perspective needed to see the bigger picture.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:54574/posts/2024-10-causation-between-esg-and-profitability/cover.jpg" />
+    </item>
+    
+    <item>
+      <title>You Don’t Have an ESG Strategy</title>
+      <link>http://localhost:54574/posts/2024-10-you-don-t-have-a-esg-strategy/</link>
+      <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
+      <author>cai-joseph@outlook.com (Joseph Cai)</author>
+      <guid>http://localhost:54574/posts/2024-10-you-don-t-have-a-esg-strategy/</guid>
+      <description>You Don’t Have an ESG Strategy—What You’ve Been Sold Is ESG Planning.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:54574/posts/2024-10-you-don-t-have-a-esg-strategy/cover.jpg" />
+    </item>
+    
+  </channel>
+</rss>

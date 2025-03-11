@@ -2,26 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Introduction on No Arbitrage</title>
-    <link>http://localhost:1313/tags/introduction/</link>
+    <link>http://localhost:54574/tags/introduction/</link>
     <description>Recent content in Introduction on No Arbitrage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>cai-joseph@outlook.com (Joseph Cai)</managingEditor>
     <webMaster>cai-joseph@outlook.com (Joseph Cai)</webMaster>
     <copyright>&amp;copy; 2025 No Arbitrage. All rights reserved.</copyright>
-    <atom:link href="http://localhost:1313/tags/introduction/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:54574/tags/introduction/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Welcome to No Arbitrage</title>
-      <link>http://localhost:1313/about/</link>
+      <link>http://localhost:54574/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>cai-joseph@outlook.com (Joseph Cai)</author>
-      <guid>http://localhost:1313/about/</guid>
-      <description>&lt;h3 class=&#34;relative group&#34;&gt;What is No-Arbitrage? 🌍 
+      <guid>http://localhost:54574/about/</guid>
+      <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
+  &amp;ldquo;In an efficient market, prices &amp;lsquo;fully reflect&amp;rsquo; all available information.&amp;rdquo; by Eugene F. Fama.
+&lt;/div&gt;
+
+
+
+&lt;h3 class=&#34;relative group&#34;&gt;What is No-Arbitrage? 🌍 
     &lt;div id=&#34;what-is-no-arbitrage-&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
 &lt;/h3&gt;
-&lt;p&gt;No arbitrage is a core finance principle: no profit without risk. It’s the foundation of portfolio theory and models like Black-Scholes—some even winning Nobel Prizes. But beyond finance, it’s a philosophy for life: No pain, no gain.&lt;/p&gt;</description>
+&lt;p&gt;No arbitrage is a modern finance concept: asset prices fully reflect all available information, rendering it impossible to consistently achieve returns exceeding average market returns on a risk-adjusted basis-—any discrepancy invites arbitrageurs to exploit the difference until equilibrium is restored. A sentinel of equilibrium that ensures capital flows to its most productive uses. Fascinating!&lt;/p&gt;</description>
       
     </item>
     

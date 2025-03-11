@@ -2,14 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on No Arbitrage</title>
-    <link>http://localhost:1313/series/</link>
+    <link>http://localhost:54574/series/</link>
     <description>Recent content in Series on No Arbitrage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>cai-joseph@outlook.com (Joseph Cai)</managingEditor>
     <webMaster>cai-joseph@outlook.com (Joseph Cai)</webMaster>
     <copyright>&amp;copy; 2025 No Arbitrage. All rights reserved.</copyright>
-    <atom:link href="http://localhost:1313/series/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 07 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:54574/series/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Value Fundamentals</title>
+      <link>http://localhost:54574/series/value-fundamentals/</link>
+      <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
+      <author>cai-joseph@outlook.com (Joseph Cai)</author>
+      <guid>http://localhost:54574/series/value-fundamentals/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Basket Analysis</title>
+      <link>http://localhost:54574/series/basket-analysis/</link>
+      <pubDate>Sun, 10 Nov 2024 00:00:00 +0000</pubDate>
+      <author>cai-joseph@outlook.com (Joseph Cai)</author>
+      <guid>http://localhost:54574/series/basket-analysis/</guid>
+      <description></description>
+      
+    </item>
     
   </channel>
 </rss>

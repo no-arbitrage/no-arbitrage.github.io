@@ -14,9 +14,9 @@ cascade:
 ---
 
 {{< lead >}}
-See what's possible with Blowfish.
+Shared knowledge drive progress beyond individual limitations.
 {{< /lead >}}
 
-This section contains links to example templates and pages created using Blowfish to get you inspired.
+
 
 ---
