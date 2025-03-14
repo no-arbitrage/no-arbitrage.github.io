@@ -9,14 +9,24 @@
     <managingEditor>cai-joseph@outlook.com (Joseph Cai)</managingEditor>
     <webMaster>cai-joseph@outlook.com (Joseph Cai)</webMaster>
     <copyright>&amp;copy; 2025 No Arbitrage. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 07 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/series/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 14 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/series/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Value Fundamentals</title>
       <link>http://localhost:1313/series/value-fundamentals/</link>
-      <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 14 Mar 2025 00:00:00 +0000</pubDate>
       <author>cai-joseph@outlook.com (Joseph Cai)</author>
       <guid>http://localhost:1313/series/value-fundamentals/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>M&amp;A Basics</title>
+      <link>http://localhost:1313/series/ma-basics/</link>
+      <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
+      <author>cai-joseph@outlook.com (Joseph Cai)</author>
+      <guid>http://localhost:1313/series/ma-basics/</guid>
       <description></description>
       
     </item>

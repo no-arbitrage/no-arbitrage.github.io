@@ -3,7 +3,7 @@ title: "Enterprise, Firm and Equity Value: What's the Difference?"
 summary: "About value concepts"
 categories: ["Finance",]
 series: ["Value Fundamentals"]
-series_order: 1
+series_order: 2
 tags: ["post","finance", "valuation"]
 #externalUrl: ""
 #showSummary: true

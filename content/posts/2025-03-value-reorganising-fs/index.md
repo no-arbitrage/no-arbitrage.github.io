@@ -3,7 +3,7 @@ title: Reorganising Financial Statements for Valuation Analysis
 summary: 
 categories: ["Finance",]
 series: ["Value Fundamentals"]
-series_order: 4
+series_order: 3
 tags: ["post","finance", "valuation"]
 #externalUrl: ""
 #showSummary: true
