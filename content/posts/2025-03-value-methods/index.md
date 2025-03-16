@@ -12,11 +12,29 @@ draft: false
 ---
 
 {{< lead >}}
-
+The financial term 'No-arbitrage' is also a pricing approach, upon which Black-Scholes-Merton (BSM) model was developed. It assumes that there are no risk-free profit opportunities in the market. 
 {{< /lead >}}
 
+In the realm of asset valuation, several primary approaches and methodologies are employed to determine an asset's fair value. 
+<details>
+<summary>All Corporate Finance Valuation Models that I've come across so far. </summary>
 
-In the realm of asset valuation, several primary approaches and methodologies are employed to determine an asset's fair value. These include
+| **Valuation Approach**                | **Description**                                                                                        | **Best Suited For**                                                                                          | **Key Advantages**                                                             | **Key Limitations**                                                                     | Prominence |
+|---------------------------------------|--------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|-------------|
+| **Discounted Cash Flow (DCF)**        | Fundamental valuation method using projected future cash flows discounted to present value. Including enterprise DCF, and equity DCF.          | Most general-purpose, applicable to various assets, especially stable companies with predictable cash flows. | Theoretically sound, considers time value of money and intrinsic value.        | Highly sensitive to assumptions (growth rates, discount rate, etc.), complex to model.  | ⭐⭐⭐⭐⭐       |
+| **Enterprise DCF (FCFF)**             | Values the entire firm by discounting free cash flows before debt service.                             | Firms with stable operations and available financial projections.                                            | Ignores capital structure, making comparisons across firms easier.             | Requires accurate forecasting and WACC assumptions.                                     | ⭐⭐⭐⭐⭐       |
+| **Equity DCF (FCFE)**                 | Values only the equity portion by discounting cash flows available to shareholders.                    | Firms with stable leverage or companies undergoing significant financial restructuring.                      | Focuses on shareholder value, useful for firms with predictable debt policies. | More sensitive to capital structure assumptions, more complex for leveraged firms.      | ⭐⭐⭐⭐⭐       |
+| **Dividend Discount Model (DDM)**     | Values equity based on expected future dividends discounted to present value.                          | Mature companies with stable and predictable dividend payouts (e.g., utilities, consumer staples).           | Simple and direct for firms with consistent dividends.                         | Not useful for non-dividend-paying firms or companies with irregular dividends.         | ⭐⭐⭐⭐        |
+| **Adjusted Present Value (APV)**      | Separates the value of an unlevered firm from financing effects (debt tax shield, financial distress). | Firms with changing capital structure, LBOs, highly leveraged companies.                                     | Explicitly models financing effects, useful for highly leveraged deals.        | More complex than DCF, requires detailed assumptions on tax shields and distress costs. | ⭐⭐⭐         |
+| **Relative Valuation (Multiples)**    | Values a company based on market comparables (e.g., P/E, EV/EBITDA).                                   | Publicly traded firms, industries with ample comparables (tech, retail, industrials).                        | Quick, widely used by investors and analysts.                                  | Relies on accurate and relevant comparables, ignores firm-specific fundamentals.        | ⭐⭐⭐⭐⭐       |
+| **Sum-Of-The-Parts (SOTP) Valuation** | Values a company by valuing its individual business segments separately.                               | Conglomerates, diversified businesses with distinct operating segments.                                      | Captures hidden value in diversified firms.                                    | Requires strong segment-level data, risk of mispricing synergies.                       | ⭐⭐⭐⭐⭐       |
+| **Option Pricing Models**             | Values assets with embedded optionality (e.g., Black-Scholes, binomial models).                        | Startups, natural resources, R&D-heavy firms, distressed companies.                                          | Captures flexibility and optionality ignored in traditional models.            | Complex, requires strong assumptions about volatility and time to exercise.             | ⭐⭐          |
+| **Leveraged Buyout (LBO) Analysis**   | Models a private equity firm’s acquisition of a target with significant debt financing.                | Private equity deals, highly leveraged transactions.                                                         | Assesses feasibility and return potential of an LBO.                           | Not a true valuation method; depends on deal structure and debt assumptions.            | ⭐⭐⭐         |
+| **Liquidation Valuation**             | Values a company based on its breakup value in case of insolvency or distress.                         | Distressed firms, bankruptcy proceedings.                                                                    | Provides a floor value for assets.                                             | Ignores going-concern value, often undervalues assets.                                  | ⭐⭐          |
+| **Economic Value Added (EVA)**        | Measures a company’s value creation by subtracting cost of capital from operating profits.             | Internal performance assessment, capital allocation decisions.                                               | Focuses on real economic profitability, aligns management incentives.          | Rarely used in investment decisions, complex adjustments required.                      | ⭐           |
+
+</details>
+
 
 ## 1. Discounted Cash Flow (DCF) Analysis
 
@@ -67,7 +85,7 @@ An LBO model assesses the acquisition of a company primarily financed through de
 
 * **Exit Assumptions:** Planning the sale or public offering of the company after a holding period, typically 3-7 years, to realize investment gains.
 
-* ** Sensitive Analysis (e.g. Monte Carlo or Scenario Analysis) **
+* **Sensitive Analysis (e.g. Monte Carlo or Scenario Analysis)**
 
 LBO models are extensively used by private equity firms to evaluate potential investments. However, recent trends indicate challenges in this approach due to rising interest rates and increased default rates among overleveraged companies. For instance, the private equity industry has faced scrutiny for practices that may destabilize acquired companies and broader economic systems.
 

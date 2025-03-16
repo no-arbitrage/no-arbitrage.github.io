@@ -1,10 +1,19 @@
 ---
 title: "Reading the Financial Times (UK edition)"
 summary: "This is a breakdown of contents avilable on the FT.com or the FT app."
-categories: ["Reading", "newspaper", "List"]
-tags: ["Learning", "Reading", "Financial"]
+categories: ["Resource", "Guide"]
 date: 2025-02-26
 draft: false
+
+showDate : true
+showDateUpdated : true
+showHeadingAnchors : true
+showPagination : false
+showReadingTime : false
+showTableOfContents : true
+showTaxonomies : true
+showWordCount : false
+showSummary : false
 ---
 
 # FT Official Guide
@@ -31,60 +40,18 @@ Here is a guide to help readers navigate ft.com.
 ---
 
 # FT's Main Sections
-
-## News, Insight, and Analysis
-
-### World Economy and Politics
-Stay informed on global economic, political, and social trends with comprehensive coverage from FT's network of correspondents.
-
-### Companies and Industries
-Track company news, industry trends, and financial results with detailed sector overviews.
-
-### Special Reports
-Explore in-depth insights on trends and events impacting industries and regions.
-
-### Markets
-Get breaking stories, data, and analysis on global financial markets, including equities, commodities, and currencies.
-
----
-
-## Opinion and Comment
-
-### The Lex Column
-Access agenda-setting independent opinion and analysis on business and finance.
-
-### Instant Insight
-Get rapid analysis on the day's biggest news stories from FT's award-winning columnists.
-
-### The Big Read
-Dive into longform stories exploring key themes in world news, science, and business.
-
-### Columnists
-Read sophisticated commentary from FT's acclaimed columnists, including **Martin Wolf**, **Gillian Tett**, and **Rana Foroohar**.
-
----
-
-## Work & Careers
-
-Explore insights into leadership, personal productivity, and entrepreneurship. Stay updated on business education rankings and the latest trends in workplace technology.
-
----
-
-## Life & Arts
-
-Discover book reviews, travel features, and lifestyle content in the Life & Arts section. Don’t miss **Lunch with the FT**, a weekly interview series featuring prominent figures.
-
----
-
-## Video, Podcasts, and Social
-
-### Watch
-Stay informed with FT videos, including **The World in 60 Seconds** and **Editor’s Choice**.
-
-### Follow
-Connect with the FT on **Facebook**, **Twitter**, and **Instagram** for the latest news.
-
-### Listen
-Explore FT's range of podcasts, available on **iTunes**, **Stitcher**, and **ft.com/podcasts**.
-
----
+| Segment                         | Section                        | Description                                                                                                                                                                    |
+| ------------------------------- | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **News, Insight, and Analysis** | **World Economy and Politics** | Stay informed on global economic, political, and social trends with comprehensive coverage from FT’s network of correspondents.                                                |
+|                                 | **Companies and Industries**   | Track company news, industry trends, and financial results with detailed sector overviews.                                                                                     |
+|                                 | **Special Reports**            | Explore in-depth insights on trends and events impacting industries and regions.                                                                                               |
+|                                 | **Markets**                    | Get breaking stories, data, and analysis on global financial markets, including equities, commodities, and currencies.                                                         |
+| **Opinion and Comment**        | **The Lex Column**             | Access agenda-setting independent opinion and analysis on business and finance.                                                                                                |
+|                                 | **Instant Insight**            | Get rapid analysis on the day’s biggest news stories from FT’s award-winning columnists.                                                                                       |
+|                                 | **The Big Read**               | Dive into longform stories exploring key themes in world news, science, and business.                                                                                          |
+|                                 | **Columnists**                 | Read sophisticated commentary from FT’s acclaimed columnists, including Martin Wolf, Gillian Tett, and Rana Foroohar.                                                          |
+|                                 | **Work & Careers**             | Explore insights into leadership, personal productivity, and entrepreneurship. Stay updated on business education rankings and the latest trends in workplace technology.      |
+|                                 | **Life & Arts**                | Discover book reviews, travel features, and lifestyle content in the Life & Arts section. Don’t miss Lunch with the FT, a weekly interview series featuring prominent figures. |
+| **Video, Podcasts, and Social** | **Watch**                      | Stay informed with FT videos, including The World in 60 Seconds and Editor’s Choice.                                                                                           |
+|                                 | **Follow**                     | Connect with the FT on Facebook, Twitter, and Instagram for the latest news.                                                                                                   |
+|                                 | **Listen**                     | Explore FT’s range of podcasts, available on iTunes, Stitcher, and ft.com/podcasts.                                                                                            |

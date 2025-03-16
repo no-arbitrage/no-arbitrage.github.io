@@ -12,36 +12,9 @@
     <lastBuildDate>Fri, 14 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Valuation Methods</title>
-      <link>http://localhost:1313/posts/2025-03-value-methods/</link>
-      <pubDate>Fri, 14 Mar 2025 00:00:00 +0000</pubDate>
-      <author>cai-joseph@outlook.com (Joseph Cai)</author>
-      <guid>http://localhost:1313/posts/2025-03-value-methods/</guid>
-      <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
-  
-&lt;/div&gt;
-
-&lt;p&gt;In the realm of asset valuation, several primary approaches and methodologies are employed to determine an asset&amp;rsquo;s fair value. These include&lt;/p&gt;
-
-
-&lt;h2 class=&#34;relative group&#34;&gt;1. Discounted Cash Flow (DCF) Analysis 
-    &lt;div id=&#34;1-discounted-cash-flow-dcf-analysis&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
-    
-    &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#1-discounted-cash-flow-dcf-analysis&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;        
-    
-&lt;/h2&gt;
-&lt;p&gt;This approach estimates the present value of an asset based on its expected future cash flows, discounted back using a rate that reflects the asset&amp;rsquo;s risk. DCF methods can be tailored to specific valuation needs:&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/2025-03-value-methods/cover.jpg" />
-    </item>
-    
-    <item>
       <title>Reorganising Financial Statements for Valuation Analysis</title>
       <link>http://localhost:1313/posts/2025-03-value-reorganising-fs/</link>
-      <pubDate>Tue, 11 Mar 2025 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 14 Mar 2025 00:00:00 +0000</pubDate>
       <author>cai-joseph@outlook.com (Joseph Cai)</author>
       <guid>http://localhost:1313/posts/2025-03-value-reorganising-fs/</guid>
       <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
@@ -61,7 +34,79 @@
     
 &lt;/h2&gt;
 &lt;p&gt;By analysing these concepts, we will go through a process - adjusting/ reorganising the balance sheet to arrive at a &lt;strong&gt;Economic Balance Sheet&lt;/strong&gt; in corporate finance perspectives.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/2025-03-value-reorganising-fs/cover.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/2025-03-value-reorganising-fs/cover.png" />
+    </item>
+    
+    <item>
+      <title>Valuation Methods</title>
+      <link>http://localhost:1313/posts/2025-03-value-methods/</link>
+      <pubDate>Fri, 14 Mar 2025 00:00:00 +0000</pubDate>
+      <author>cai-joseph@outlook.com (Joseph Cai)</author>
+      <guid>http://localhost:1313/posts/2025-03-value-methods/</guid>
+      <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
+  The financial term &amp;lsquo;No-arbitrage&amp;rsquo; is also a pricing approach, upon which Black-Scholes-Merton (BSM) model was developed. It assumes that there are no risk-free profit opportunities in the market.
+&lt;/div&gt;
+
+&lt;p&gt;In the realm of asset valuation, several primary approaches and methodologies are employed to determine an asset&amp;rsquo;s fair value.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/2025-03-value-methods/cover.jpg" />
+    </item>
+    
+    <item>
+      <title>Awesome Entrepreneurship</title>
+      <link>http://localhost:1313/resource/entrepeneur/</link>
+      <pubDate>Thu, 13 Mar 2025 20:55:37 +0100</pubDate>
+      <author>cai-joseph@outlook.com (Joseph Cai)</author>
+      <guid>http://localhost:1313/resource/entrepeneur/</guid>
+      <description>&lt;p&gt;This page is dedicated space to share potenial valuable / useful resource that I found for entrepeneurs throughout their journey.&lt;/p&gt;
+&lt;p&gt;BVCA Model Documents: BVCA recommended standardised documents for early stage venture capital investment.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/resource/entrepeneur/cover.png" />
+    </item>
+    
+    <item>
+      <title>Awesome Reports</title>
+      <link>http://localhost:1313/resource/reports/</link>
+      <pubDate>Thu, 13 Mar 2025 20:55:37 +0100</pubDate>
+      <author>cai-joseph@outlook.com (Joseph Cai)</author>
+      <guid>http://localhost:1313/resource/reports/</guid>
+      <description>&lt;p&gt;This page is a dedicated space to share great reports that I would simply like to collect.&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;No&lt;/th&gt;
+          &lt;th&gt;Report Name&lt;/th&gt;
+          &lt;th&gt;Author/Publisher&lt;/th&gt;
+          &lt;th&gt;Category&lt;/th&gt;
+          &lt;th&gt;Tags&lt;/th&gt;
+          &lt;th&gt;Memo&lt;/th&gt;
+          &lt;th&gt;Publish Date&lt;/th&gt;
+          &lt;th&gt;URL&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;01&lt;/td&gt;
+          &lt;td&gt;Venture Capital in the UK&lt;/td&gt;
+          &lt;td&gt;BCVA&lt;/td&gt;
+          &lt;td&gt;Overview&lt;/td&gt;
+          &lt;td&gt;VC&lt;/td&gt;
+          &lt;td&gt;None&lt;/td&gt;
+          &lt;td&gt;Nov 2024&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://www.bvca.co.uk/resource/venture-capital-in-the-uk.html&#34; target=&#34;_blank&#34;&gt;https://www.bvca.co.uk/resource/venture-capital-in-the-uk.html&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;02&lt;/td&gt;
+          &lt;td&gt;Private Capital in London - BVCA Factsheet&lt;/td&gt;
+          &lt;td&gt;BVCA&lt;/td&gt;
+          &lt;td&gt;Overview&lt;/td&gt;
+          &lt;td&gt;VC, PE&lt;/td&gt;
+          &lt;td&gt;None&lt;/td&gt;
+          &lt;td&gt;Feb 2024&lt;/td&gt;
+          &lt;td&gt;[https://www.bvca.co.uk/resource/private-capital-in-london-bvca-factsheet.html&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;BVCA Model Documents: BVCA recommended standardised documents for early stage venture capital investment.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/resource/reports/cover.jpg" />
     </item>
     
     <item>
