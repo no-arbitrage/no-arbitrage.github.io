@@ -21,15 +21,5 @@
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/resource/information-sources/cover.jpg" />
     </item>
     
-    <item>
-      <title>Reading the Financial Times (UK edition)</title>
-      <link>http://localhost:1313/resource/financial-times/</link>
-      <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
-      <author>cai-joseph@outlook.com (Joseph Cai)</author>
-      <guid>http://localhost:1313/resource/financial-times/</guid>
-      <description>This is a breakdown of contents avilable on the FT.com or the FT app.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/resource/financial-times/cover.jpg" />
-    </item>
-    
   </channel>
 </rss>

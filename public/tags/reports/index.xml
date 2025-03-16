@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reports on No Arbitrage</title>
+    <link>http://localhost:1313/tags/reports/</link>
+    <description>Recent content in Reports on No Arbitrage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>cai-joseph@outlook.com (Joseph Cai)</managingEditor>
+    <webMaster>cai-joseph@outlook.com (Joseph Cai)</webMaster>
+    <copyright>&amp;copy; 2025 No Arbitrage. All rights reserved.</copyright>
+    <lastBuildDate>Thu, 13 Mar 2025 20:55:37 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/reports/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Awesome Reports</title>
+      <link>http://localhost:1313/resource/reports/</link>
+      <pubDate>Thu, 13 Mar 2025 20:55:37 +0100</pubDate>
+      <author>cai-joseph@outlook.com (Joseph Cai)</author>
+      <guid>http://localhost:1313/resource/reports/</guid>
+      <description>&lt;p&gt;This page is a dedicated space to share great reports that I would simply like to collect.&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;No&lt;/th&gt;
+          &lt;th&gt;Report Name&lt;/th&gt;
+          &lt;th&gt;Author/Publisher&lt;/th&gt;
+          &lt;th&gt;Category&lt;/th&gt;
+          &lt;th&gt;Tags&lt;/th&gt;
+          &lt;th&gt;Memo&lt;/th&gt;
+          &lt;th&gt;Publish Date&lt;/th&gt;
+          &lt;th&gt;URL&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;01&lt;/td&gt;
+          &lt;td&gt;Venture Capital in the UK&lt;/td&gt;
+          &lt;td&gt;BCVA&lt;/td&gt;
+          &lt;td&gt;Overview&lt;/td&gt;
+          &lt;td&gt;VC&lt;/td&gt;
+          &lt;td&gt;None&lt;/td&gt;
+          &lt;td&gt;Nov 2024&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://www.bvca.co.uk/resource/venture-capital-in-the-uk.html&#34; target=&#34;_blank&#34;&gt;https://www.bvca.co.uk/resource/venture-capital-in-the-uk.html&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;02&lt;/td&gt;
+          &lt;td&gt;Private Capital in London - BVCA Factsheet&lt;/td&gt;
+          &lt;td&gt;BVCA&lt;/td&gt;
+          &lt;td&gt;Overview&lt;/td&gt;
+          &lt;td&gt;VC, PE&lt;/td&gt;
+          &lt;td&gt;None&lt;/td&gt;
+          &lt;td&gt;Feb 2024&lt;/td&gt;
+          &lt;td&gt;[https://www.bvca.co.uk/resource/private-capital-in-london-bvca-factsheet.html&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;BVCA Model Documents: BVCA recommended standardised documents for early stage venture capital investment.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/resource/reports/cover.jpg" />
+    </item>
+    
+  </channel>
+</rss>

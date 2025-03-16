@@ -3,6 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
+    <loc>http://localhost:1313/posts/2025-03-value-reorganising-fs/</loc>
+    <lastmod>2025-03-14T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/posts/2025-03-value-methods/</loc>
     <lastmod>2025-03-14T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -15,8 +21,20 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/2025-03-value-reorganising-fs/</loc>
-    <lastmod>2025-03-11T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/resource/entrepeneur/</loc>
+    <lastmod>2025-03-13T20:55:37+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resource/reports/</loc>
+    <lastmod>2025-03-13T20:55:37+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resource/</loc>
+    <lastmod>2025-03-13T20:55:37+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -34,12 +52,6 @@
   </url>
   <url>
     <loc>http://localhost:1313/posts/2025-03-value-esg-value/</loc>
-    <lastmod>2025-03-10T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/resource/</loc>
     <lastmod>2025-03-10T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>

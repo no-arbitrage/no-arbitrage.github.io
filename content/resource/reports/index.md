@@ -2,7 +2,7 @@
 title: "Awesome Reports"
 date: 2025-03-13T20:55:37+01:00
 draft: false
-
+tags: ["Reports", "Archive"]
 showDate : false
 showDateUpdated : true
 showHeadingAnchors : false

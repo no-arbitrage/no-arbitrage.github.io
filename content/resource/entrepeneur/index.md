@@ -1,6 +1,7 @@
 ---
 title: "Awesome Entrepreneurship"
 date: 2025-03-13T20:55:37+01:00
+tags: ["Entrepreneurs", "Guides", "Resource"]
 draft: false
 
 showDate : true
