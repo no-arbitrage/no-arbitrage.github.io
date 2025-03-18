@@ -4,6 +4,11 @@ date: 2025-03-13T20:55:37+01:00
 tags: ["Entrepreneurs", "Guides", "Resource"]
 draft: false
 
+showAuthor : false
+showHero : true
+layoutBackgroundHeaderSpace : true
+heroStyle : "background"     #basic, big, background, thumbAndBackground
+showBreadcrumbs : true
 showDate : true
 showDateUpdated : true
 showHeadingAnchors : true

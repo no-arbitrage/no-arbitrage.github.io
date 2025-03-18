@@ -139,7 +139,7 @@ weight = 12
    name = "⇱Connect"
    url = "https://connect.no-arbitrage.com"
    weight = 15
-[[footer]]
-   name = "Interview Guide"
-   pageRef = "interview"
-   weight = 14
+# [[footer]]
+#    name = "Interview Guide"
+#    pageRef = "interview"
+#    weight = 14
