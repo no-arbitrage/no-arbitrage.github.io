@@ -80,6 +80,11 @@ pageRef = "posts"
 identifier = "posts"
 weight = 2
 
+[[main]]
+  identifier = "web"
+  pre = "link"
+  url = "https://hello.no-arbitrage.com"
+  weight = 40
 
 # [[main]]
 # name = "Featured"
