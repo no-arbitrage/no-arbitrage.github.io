@@ -140,6 +140,7 @@ weight = 12
    name = "Tags"
    pageRef = "tags"
    weight = 13
+   
 [[footer]]
    name = "⇱Connect"
    url = "https://connect.no-arbitrage.com"
