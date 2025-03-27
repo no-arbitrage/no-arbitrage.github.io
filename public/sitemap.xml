@@ -3,6 +3,30 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
+    <loc>http://localhost:1313/posts/sap-sql-reports/02-sales-analysis/</loc>
+    <lastmod>2025-03-27T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-03-27T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resource/financial-modeller/</loc>
+    <lastmod>2025-03-18T20:55:37+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resource/</loc>
+    <lastmod>2025-03-18T20:55:37+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/posts/2025-03-value-reorganising-fs/</loc>
     <lastmod>2025-03-14T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -15,12 +39,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-03-14T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/resource/entrepeneur/</loc>
     <lastmod>2025-03-13T20:55:37+01:00</lastmod>
     <changefreq>daily</changefreq>
@@ -28,12 +46,6 @@
   </url>
   <url>
     <loc>http://localhost:1313/resource/reports/</loc>
-    <lastmod>2025-03-13T20:55:37+01:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/resource/</loc>
     <lastmod>2025-03-13T20:55:37+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -159,12 +171,27 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/posts/sap-sql-reports/01-intro/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/resource/cim/01-executive-summary/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/about/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/about/about-author/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/about/about-no-arbitrage/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

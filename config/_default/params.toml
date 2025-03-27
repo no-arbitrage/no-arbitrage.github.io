@@ -28,7 +28,7 @@ defaultBackgroundImage = "/img/background.svg"
 [homepage]
   layout = "profile"
   showRecent = true
-  showRecentItems = 6
+  showRecentItems = 3
   showMoreLink = true
   showMoreLinkDest = "/posts/"
   cardView = true
@@ -52,7 +52,7 @@ defaultBackgroundImage = "/img/background.svg"
   showBreadcrumbs = true
   showDraftLabel = true
   showEdit = false
-   
+    
   showAuthorBottom = true
   editAppendPath = true
   seriesOpened = false

@@ -114,9 +114,15 @@ weight = 6
 
 [[main]]
 name = "About"
-pageRef = "about"
+pageRef = "about/about-no-arbitrage"
 identifier = "about"
 weight = 7
+
+[[main]]
+name = "Blogger"
+pageRef = "about/about-author"
+identifier = "author"
+weight = 8
 
 [[main]]
 pre = "github"

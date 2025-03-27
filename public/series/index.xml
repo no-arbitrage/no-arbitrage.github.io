@@ -9,7 +9,17 @@
     <managingEditor>cai-joseph@outlook.com (Joseph Cai)</managingEditor>
     <webMaster>cai-joseph@outlook.com (Joseph Cai)</webMaster>
     <copyright>&amp;copy; 2025 No Arbitrage. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 14 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/series/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 27 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/series/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>SQL Reports for SAP-B1</title>
+      <link>http://localhost:1313/series/sql-reports-for-sap-b1/</link>
+      <pubDate>Thu, 27 Mar 2025 00:00:00 +0000</pubDate>
+      <author>cai-joseph@outlook.com (Joseph Cai)</author>
+      <guid>http://localhost:1313/series/sql-reports-for-sap-b1/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Value Fundamentals</title>

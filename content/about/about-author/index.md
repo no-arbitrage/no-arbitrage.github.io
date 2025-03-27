@@ -1,23 +1,23 @@
 ---
-title: "Welcome to No Arbitrage"
-description: "About this blog!"
-tags: ["introduction", "admin"]
+title: "Joseph Cai"
+description: "About this me!"
 draft: false
-
 # valid options: basic, big, background, thumbAndBackground
-layoutBackgroundBlur : false
-showDate : false
-showHero : false
-showComments : false
-heroStyle : "basic"
-showDateUpdated : false
-showHeadingAnchors : false
-showPagination : false
-showReadingTime : false
-showTableOfContents : true
-showTaxonomies : false
-showWordCount : false
-showSummary : false
+layout : "profile"
+layoutBackgroundBlur: false
+showDate: false
+showAuthorBottom : false
+showHero: true
+showComments: false
+heroStyle: background  #basic, big, background, thumbAndBackground
+showDateUpdated: false
+showHeadingAnchors: false
+showPagination: false
+showReadingTime: false
+showTableOfContents: true
+showTaxonomies: false
+showWordCount: false
+showSummary: false
 sharingLinks : false
 ---
 
