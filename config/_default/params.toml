@@ -28,11 +28,11 @@ defaultBackgroundImage = "/img/background.svg"
 [homepage]
   layout = "profile"
   showRecent = true
-  showRecentItems = 3
+  showRecentItems = 6
   showMoreLink = true
   showMoreLinkDest = "/posts/"
   cardView = true
-  cardViewScreenWidth = true
+  cardViewScreenWidth = false
   layoutBackgroundBlur = true
   defaultFeaturedImage = "/img/lavalamp.svg"
   defaultBackgroundImage = "/img/background.svg"
