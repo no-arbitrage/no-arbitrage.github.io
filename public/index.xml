@@ -18,7 +18,7 @@
       <author>cai-joseph@outlook.com (Joseph Cai)</author>
       <guid>http://localhost:1313/posts/sap-sql-reports/01-intro/</guid>
       <description>featuring advanced SAP B1 SQL Reports</description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/sap-sql-reports/01-intro/cover.png" />
     </item>
     
     <item>
