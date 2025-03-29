@@ -1,6 +1,6 @@
 ---
 title: "Lexicon/Resource"
-description: "See what's possible with Blowfish."
+description: "..."
 
 showLikes: true
 showViews: true
