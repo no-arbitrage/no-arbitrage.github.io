@@ -31,10 +31,6 @@
 #  pageRef = "posts"
 #  weight = 20
 
-#[[subnavigation]]
-#  name = "An interesting topic"
-#  pageRef = "tags/interesting-topic"
-#  weight = 10
 
 #[[subnavigation]]
 #  name = "My Awesome Category"
@@ -68,90 +64,106 @@
 #   pageRef = "categories"
 #   weight = 20
 
-[[main]]
-name = "Home" #relative block icon
-pageRef = "/"
-identifier = "home"
-weight = 1
+
+# Main Menu --------------------------------------------------------------------------------
 
 [[main]]
-name = "Blog"
-pageRef = "posts"
-identifier = "posts"
-weight = 2
+   pre = "linkedin"
+   url = "https://www.linkedin.com/in/joseph-cai"
+   identifier = "hM5WWYoueF"
+   weight = 1
+
+
 
 [[main]]
-  identifier = "web"
-  pre = "link"
-  url = "https://hello.no-arbitrage.com"
-  weight = 40
+   name = "Home" #relative block icon
+   pageRef = "/"
+   identifier = "home"
+   weight = 10
+
+[[main]]
+   name = "Blog"
+   pageRef = "posts"
+   identifier = "posts"
+   weight = 20
+
 
 # [[main]]
-# name = "Featured"
-# parent = "Blog"
-# pageRef = ""
-# identifier = "feat-posts"
-# weight = 21
+#    name = "Resource"
+#    pageRef = "resource"
+#    identifier = "lexicon"
+#    weight = 30
+
+
+[[main]]
+   name = "SQL Report"
+   parent="Featured"
+   pageRef = "tags/sql"
+   weight = 40
+
+[[main]]
+   name = "Financial Modelling"
+   parent="Featured"
+   pageRef = "tags/Financial-Modelling"
+   weight = 42
 
 # [[main]]
-# name = "Latest"
-# parent = "Blog"
-# pageRef = ""
-# identifier = "latest-posts"
-# weight = 22
+#    name = "ML-AI"
+#    parent="Resource"
+#    pageRef = "tags/ml-ai"
+#    weight = 45
+[[main]]
+   name = "All Tags"
+   parent="Featured"
+   pageRef = "tags/"
+   weight = 45
+
+[[main]]
+   name = "About"
+   # parent="About"
+   pageRef = "about/about-no-arbitrage"
+   identifier = "about"
+   weight = 90
 
 # [[main]]
-# name = "Showcase"
-# pageRef = "portfolio"
-# identifier = "portfolio"
-# weight = 4
+#    name = "Author"
+#    parent="About"
+#    pageRef = "about/about-author"
+#    identifier = "author"
+#    weight = 100
 
-[[main]]
-name = "Lexicon"
-pageRef = "resource"
-identifier = "lexicon"
-weight = 6
 
-[[main]]
-name = "About"
-pageRef = "about/about-no-arbitrage"
-identifier = "about"
-weight = 7
+# Icon Group --------------------------------------------------------------------------------
 
-[[main]]
-name = "Blogger"
-pageRef = "about/about-author"
-identifier = "author"
-weight = 8
-
-[[main]]
-pre = "github"
-url = "https://github.com/no-arbitrage/no-arbitrage.github.io/"
-identifier = "cpbxL6BzBj"
-weight = 10
-
-[[main]]
-pre = "linkedin"
-url = "https://www.linkedin.com/in/joseph-cai"
-identifier = "hM5WWYoueF"
-weight = 12
 
 # [[main]]
-# pre = "codepen"
-# pageRef = "/"
-# identifier = "p2788GrnVn"
-# weight = 9
+#    identifier = "web"
+#    pre = "link"
+#    url = "https://hello.no-arbitrage.com"
+#    weight = 200
+
+
+
+
+
+#  Footer --------------------------------------------------------------------------------
+
 
 [[footer]]
    name = "Tags"
    pageRef = "tags"
-   weight = 13
-   
+   weight = 810
+
 [[footer]]
    name = "⇱Connect"
    url = "https://connect.no-arbitrage.com"
-   weight = 15
+   weight = 820
 # [[footer]]
 #    name = "Interview Guide"
 #    pageRef = "interview"
 #    weight = 14
+[[footer]]
+   pre = "github"
+   url = "https://github.com/no-arbitrage/no-arbitrage.github.io/"
+   identifier = "cpbxL6BzBj"
+   weight = 880

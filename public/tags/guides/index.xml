@@ -13,10 +13,10 @@
     
     <item>
       <title>Awesome Financial Modeller</title>
-      <link>http://localhost:1313/resource/financial-modeller/</link>
+      <link>http://localhost:1313/posts/financial-modeller/</link>
       <pubDate>Tue, 18 Mar 2025 20:55:37 +0100</pubDate>
       <author>cai-joseph@outlook.com (Joseph Cai)</author>
-      <guid>http://localhost:1313/resource/financial-modeller/</guid>
+      <guid>http://localhost:1313/posts/financial-modeller/</guid>
       <description>&lt;p&gt;This page is dedicated space to share potenial valuable / useful resource that I found for Financial Modellers.&lt;/p&gt;
 
 
@@ -36,13 +36,13 @@
     
     <item>
       <title>Awesome Entrepreneurship</title>
-      <link>http://localhost:1313/resource/entrepeneur/</link>
+      <link>http://localhost:1313/posts/entrepeneur/</link>
       <pubDate>Thu, 13 Mar 2025 20:55:37 +0100</pubDate>
       <author>cai-joseph@outlook.com (Joseph Cai)</author>
-      <guid>http://localhost:1313/resource/entrepeneur/</guid>
+      <guid>http://localhost:1313/posts/entrepeneur/</guid>
       <description>&lt;p&gt;This page is dedicated space to share potenial valuable / useful resource that I found for entrepeneurs throughout their journey.&lt;/p&gt;
 &lt;p&gt;BVCA Model Documents: BVCA recommended standardised documents for early stage venture capital investment. &lt;a href=&#34;https://www.bvca.co.uk/policy/industry-guidance-standardised-documents/model-documents-for-early-stage-investments.html&#34; target=&#34;_blank&#34;&gt;URL&lt;/a&gt;&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/resource/entrepeneur/cover.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/entrepeneur/cover.png" />
     </item>
     
   </channel>

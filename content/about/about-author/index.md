@@ -57,3 +57,39 @@ I’d love to exchange ideas—connect with me on LinkedIn! 🚀
 {{< alert >}}
 **Disclaimer!** : This site is for insights, not financial advice.
 {{< /alert >}}
+
+
+{{< timeline >}}
+
+{{< timelineItem icon="github" header="University of International Business and Economics (China)" badge="badge test" subheader="2012~16 | Beijing" >}}
+⦁	Bachelor of Economics, Major in Finance; First-class equivalent (GPA 90/100). 
+{{< /timelineItem >}}
+
+
+{{< timelineItem icon="code" header="Another Awesome Header" badge="date - present" subheader="Awesome Subheader" >}}
+With html code
+<ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>
+{{< /timelineItem >}}
+
+{{< timelineItem icon="star" header="Shortcodes" badge="AWESOME" >}}
+With other shortcodes
+{{< gallery >}}
+  <img src="gallery/01.jpg" class="grid-w33" />
+  <img src="gallery/02.jpg" class="grid-w33" />
+  <img src="gallery/03.jpg" class="grid-w33" />
+  <img src="gallery/04.jpg" class="grid-w33" />
+  <img src="gallery/05.jpg" class="grid-w33" />
+  <img src="gallery/06.jpg" class="grid-w33" />
+  <img src="gallery/07.jpg" class="grid-w33" />
+{{< /gallery >}}
+{{< /timelineItem >}}
+
+{{< timelineItem icon="code" header="Another Awesome Header">}}
+{{< github repo="nunocoracao/blowfish" >}}
+{{< /timelineItem >}}
+
+{{< /timeline >}}

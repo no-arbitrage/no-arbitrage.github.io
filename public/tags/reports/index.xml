@@ -13,10 +13,10 @@
     
     <item>
       <title>Awesome Reports</title>
-      <link>http://localhost:1313/resource/reports/</link>
+      <link>http://localhost:1313/posts/reports/</link>
       <pubDate>Thu, 13 Mar 2025 20:55:37 +0100</pubDate>
       <author>cai-joseph@outlook.com (Joseph Cai)</author>
-      <guid>http://localhost:1313/resource/reports/</guid>
+      <guid>http://localhost:1313/posts/reports/</guid>
       <description>&lt;p&gt;This page is a dedicated space to share great reports that I would simply like to collect.&lt;/p&gt;
 &lt;table&gt;
   &lt;thead&gt;
@@ -55,7 +55,7 @@
   &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;p&gt;BVCA Model Documents: BVCA recommended standardised documents for early stage venture capital investment.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/resource/reports/cover.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/reports/cover.jpg" />
     </item>
     
   </channel>

@@ -9,7 +9,17 @@
     <managingEditor>cai-joseph@outlook.com (Joseph Cai)</managingEditor>
     <webMaster>cai-joseph@outlook.com (Joseph Cai)</webMaster>
     <copyright>&amp;copy; 2025 No Arbitrage. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 27 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Calculating Safety Stock</title>
+      <link>http://localhost:1313/posts/sap-sql-reports/03-safetystock/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <author>cai-joseph@outlook.com (Joseph Cai)</author>
+      <guid>http://localhost:1313/posts/sap-sql-reports/03-safetystock/</guid>
+      <description>Safety Stock Management</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/sap-sql-reports/03-safetystock/cover.jpg" />
+    </item>
     
     <item>
       <title>Introducing SQL Reports Series</title>
@@ -33,10 +43,10 @@
     
     <item>
       <title>Awesome Financial Modeller</title>
-      <link>http://localhost:1313/resource/financial-modeller/</link>
+      <link>http://localhost:1313/posts/financial-modeller/</link>
       <pubDate>Tue, 18 Mar 2025 20:55:37 +0100</pubDate>
       <author>cai-joseph@outlook.com (Joseph Cai)</author>
-      <guid>http://localhost:1313/resource/financial-modeller/</guid>
+      <guid>http://localhost:1313/posts/financial-modeller/</guid>
       <description>&lt;p&gt;This page is dedicated space to share potenial valuable / useful resource that I found for Financial Modellers.&lt;/p&gt;
 
 
@@ -96,21 +106,21 @@
     
     <item>
       <title>Awesome Entrepreneurship</title>
-      <link>http://localhost:1313/resource/entrepeneur/</link>
+      <link>http://localhost:1313/posts/entrepeneur/</link>
       <pubDate>Thu, 13 Mar 2025 20:55:37 +0100</pubDate>
       <author>cai-joseph@outlook.com (Joseph Cai)</author>
-      <guid>http://localhost:1313/resource/entrepeneur/</guid>
+      <guid>http://localhost:1313/posts/entrepeneur/</guid>
       <description>&lt;p&gt;This page is dedicated space to share potenial valuable / useful resource that I found for entrepeneurs throughout their journey.&lt;/p&gt;
 &lt;p&gt;BVCA Model Documents: BVCA recommended standardised documents for early stage venture capital investment. &lt;a href=&#34;https://www.bvca.co.uk/policy/industry-guidance-standardised-documents/model-documents-for-early-stage-investments.html&#34; target=&#34;_blank&#34;&gt;URL&lt;/a&gt;&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/resource/entrepeneur/cover.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/entrepeneur/cover.png" />
     </item>
     
     <item>
       <title>Awesome Reports</title>
-      <link>http://localhost:1313/resource/reports/</link>
+      <link>http://localhost:1313/posts/reports/</link>
       <pubDate>Thu, 13 Mar 2025 20:55:37 +0100</pubDate>
       <author>cai-joseph@outlook.com (Joseph Cai)</author>
-      <guid>http://localhost:1313/resource/reports/</guid>
+      <guid>http://localhost:1313/posts/reports/</guid>
       <description>&lt;p&gt;This page is a dedicated space to share great reports that I would simply like to collect.&lt;/p&gt;
 &lt;table&gt;
   &lt;thead&gt;
@@ -149,7 +159,7 @@
   &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;p&gt;BVCA Model Documents: BVCA recommended standardised documents for early stage venture capital investment.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/resource/reports/cover.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/reports/cover.jpg" />
     </item>
     
     <item>
@@ -419,32 +429,32 @@
     
     <item>
       <title>Information Sources</title>
-      <link>http://localhost:1313/resource/information-sources/</link>
+      <link>http://localhost:1313/posts/information-sources/</link>
       <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
       <author>cai-joseph@outlook.com (Joseph Cai)</author>
-      <guid>http://localhost:1313/resource/information-sources/</guid>
+      <guid>http://localhost:1313/posts/information-sources/</guid>
       <description>Newspapers, megazines and more&amp;hellip;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/resource/information-sources/cover.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/information-sources/cover.jpg" />
     </item>
     
     <item>
       <title>Reading the Financial Times (UK edition)</title>
-      <link>http://localhost:1313/resource/financial-times/</link>
+      <link>http://localhost:1313/posts/financial-times/</link>
       <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
       <author>cai-joseph@outlook.com (Joseph Cai)</author>
-      <guid>http://localhost:1313/resource/financial-times/</guid>
+      <guid>http://localhost:1313/posts/financial-times/</guid>
       <description>This is a breakdown of contents avilable on the FT.com or the FT app.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/resource/financial-times/cover.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/financial-times/cover.jpg" />
     </item>
     
     <item>
       <title>Reading List for Financial Analyst</title>
-      <link>http://localhost:1313/resource/gs-analyst-reading-list/</link>
+      <link>http://localhost:1313/posts/gs-analyst-reading-list/</link>
       <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
       <author>cai-joseph@outlook.com (Joseph Cai)</author>
-      <guid>http://localhost:1313/resource/gs-analyst-reading-list/</guid>
+      <guid>http://localhost:1313/posts/gs-analyst-reading-list/</guid>
       <description>Written by Current or Former Goldman Sachs Employees. This list provides an extensive reading guide for finance professionals and enthusiasts seeking industry insights, investment strategies, and historical perspectives.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/resource/gs-analyst-reading-list/cover.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/gs-analyst-reading-list/cover.jpg" />
     </item>
     
     <item>
