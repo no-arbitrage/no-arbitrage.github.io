@@ -14,10 +14,10 @@ class="dark:text-neutral-300"
 &lt;/div>
 &lt;p>&lt;a
 class="!rounded-md bg-primary-600 px-4 py-2 !text-neutral !no-underline hover:!bg-primary-500 dark:bg-primary-800 dark:hover:!bg-primary-700"
-href="#button"
-target="content\posts\legal-ma-guide\LW-NFPP-C19-CORP-Merger-detailed-guide.pdf"
+href="https://www.no-arbitrage.com/LW-NFPP-C19-CORP-Merger-detailed-guide.pdf"
+target="_self"
 role="button"
 >
 Download Merger-Detailed-Guide (PDF)
 &lt;/a>
-&lt;br>&lt;/p></description></item></channel></rss>
+&lt;br>&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.no-arbitrage.com/posts/legal-ma-guide/cover.png"/></item></channel></rss>
