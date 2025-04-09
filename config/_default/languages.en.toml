@@ -13,11 +13,11 @@ copyright = "&copy; 2025 No Arbitrage. All rights reserved."
 
 [params.author]
 name = "Joseph Cai"
-email = "cai-joseph@outlook.com"
+email = "mailto:cai-joseph@outlook.com"
 image = "img/200x200-headshot.jpeg"
 imageQuality = 96
 headline = "CFA "
-bio = "A little bit about you"
+bio = "I am a tech-savvy corporate finance analyst who is also into technology, data and algorithm. "
 links = [
     {linkedin = "https://linkedin.com/in/joseph-cai" } ,
     {email = "caii@duck.com" },
