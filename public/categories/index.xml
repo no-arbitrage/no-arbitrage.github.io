@@ -9,7 +9,37 @@
     <managingEditor>mailto:cai-joseph@outlook.com (Joseph Cai)</managingEditor>
     <webMaster>mailto:cai-joseph@outlook.com (Joseph Cai)</webMaster>
     <copyright>&amp;copy; 2025 No Arbitrage. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 09 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Legal</title>
+      <link>http://localhost:1313/categories/legal/</link>
+      <pubDate>Wed, 09 Apr 2025 00:00:00 +0000</pubDate>
+      <author>mailto:cai-joseph@outlook.com (Joseph Cai)</author>
+      <guid>http://localhost:1313/categories/legal/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>M&amp;A</title>
+      <link>http://localhost:1313/categories/ma/</link>
+      <pubDate>Wed, 09 Apr 2025 00:00:00 +0000</pubDate>
+      <author>mailto:cai-joseph@outlook.com (Joseph Cai)</author>
+      <guid>http://localhost:1313/categories/ma/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Reading</title>
+      <link>http://localhost:1313/categories/reading/</link>
+      <pubDate>Wed, 09 Apr 2025 00:00:00 +0000</pubDate>
+      <author>mailto:cai-joseph@outlook.com (Joseph Cai)</author>
+      <guid>http://localhost:1313/categories/reading/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>StockManagement</title>
@@ -67,16 +97,6 @@
       <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
       <author>mailto:cai-joseph@outlook.com (Joseph Cai)</author>
       <guid>http://localhost:1313/categories/newspaper/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Reading</title>
-      <link>http://localhost:1313/categories/reading/</link>
-      <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
-      <author>mailto:cai-joseph@outlook.com (Joseph Cai)</author>
-      <guid>http://localhost:1313/categories/reading/</guid>
       <description></description>
       
     </item>

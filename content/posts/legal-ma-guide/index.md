@@ -11,13 +11,13 @@ draft: false
 **Warning!** This is not original content.  
 {{< /alert >}}
 
-{{< button href="#button" target="content\posts\legal-ma-guide\LW-NFPP-C19-CORP-Merger-detailed-guide.pdf" >}}
+{{< button href="/LW-NFPP-C19-CORP-Merger-detailed-guide.pdf" target="_self">}}
 Download Merger-Detailed-Guide (PDF)
 {{< /button >}}
 <br>
 
 
-{{< button href="#button" target="content\posts\legal-ma-guide\Getting-to-the-Heart-of-It-The-Anatomy-of-an-MA-Transaction.pdf" >}}
+{{< button href="/Getting-to-the-Heart-of-It-The-Anatomy-of-an-MA-Transaction.pdf"  target="_self">}}
 Download Anatomy-of-an-MA
 {{< /button >}}
 <br><br>
