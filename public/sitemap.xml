@@ -183,6 +183,11 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/posts/legal-ma-guide/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/resource/cim/01-executive-summary/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>

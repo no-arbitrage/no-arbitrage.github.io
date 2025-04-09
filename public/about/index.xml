@@ -6,8 +6,8 @@
     <description>Recent content in Abouts on No Arbitrage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>cai-joseph@outlook.com (Joseph Cai)</managingEditor>
-    <webMaster>cai-joseph@outlook.com (Joseph Cai)</webMaster>
+    <managingEditor>mailto:cai-joseph@outlook.com (Joseph Cai)</managingEditor>
+    <webMaster>mailto:cai-joseph@outlook.com (Joseph Cai)</webMaster>
     <copyright>&amp;copy; 2025 No Arbitrage. All rights reserved.</copyright>
     <atom:link href="http://localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
       <title>Joseph Cai</title>
       <link>http://localhost:1313/about/about-author/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>cai-joseph@outlook.com (Joseph Cai)</author>
+      <author>mailto:cai-joseph@outlook.com (Joseph Cai)</author>
       <guid>http://localhost:1313/about/about-author/</guid>
       <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
   &amp;ldquo;In an efficient market, prices &amp;lsquo;fully reflect&amp;rsquo; all available information.&amp;rdquo; by Eugene F. Fama.
@@ -35,7 +35,7 @@
       <title>Welcome to No Arbitrage</title>
       <link>http://localhost:1313/about/about-no-arbitrage/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>cai-joseph@outlook.com (Joseph Cai)</author>
+      <author>mailto:cai-joseph@outlook.com (Joseph Cai)</author>
       <guid>http://localhost:1313/about/about-no-arbitrage/</guid>
       <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
   &amp;ldquo;In an efficient market, prices &amp;lsquo;fully reflect&amp;rsquo; all available information.&amp;rdquo; by Eugene F. Fama.

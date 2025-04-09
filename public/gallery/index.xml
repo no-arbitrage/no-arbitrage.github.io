@@ -6,8 +6,8 @@
     <description>Recent content in My Collection on No Arbitrage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>cai-joseph@outlook.com (Joseph Cai)</managingEditor>
-    <webMaster>cai-joseph@outlook.com (Joseph Cai)</webMaster>
+    <managingEditor>mailto:cai-joseph@outlook.com (Joseph Cai)</managingEditor>
+    <webMaster>mailto:cai-joseph@outlook.com (Joseph Cai)</webMaster>
     <copyright>&amp;copy; 2025 No Arbitrage. All rights reserved.</copyright>
     <lastBuildDate>Mon, 10 Mar 2025 21:36:40 +0800</lastBuildDate><atom:link href="http://localhost:1313/gallery/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
       <title>title</title>
       <link>http://localhost:1313/gallery/test-albtm/</link>
       <pubDate>Mon, 03 Mar 2025 14:52:25 +0800</pubDate>
-      <author>cai-joseph@outlook.com (Joseph Cai)</author>
+      <author>mailto:cai-joseph@outlook.com (Joseph Cai)</author>
       <guid>http://localhost:1313/gallery/test-albtm/</guid>
       <description>&lt;figure class=&#34;big&#34;&gt;
 	&lt;img src=&#34;02.jpg&#34; loading=&#34;lazy&#34;

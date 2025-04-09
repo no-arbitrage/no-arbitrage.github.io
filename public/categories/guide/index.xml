@@ -6,8 +6,8 @@
     <description>Recent content in Guide on No Arbitrage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>cai-joseph@outlook.com (Joseph Cai)</managingEditor>
-    <webMaster>cai-joseph@outlook.com (Joseph Cai)</webMaster>
+    <managingEditor>mailto:cai-joseph@outlook.com (Joseph Cai)</managingEditor>
+    <webMaster>mailto:cai-joseph@outlook.com (Joseph Cai)</webMaster>
     <copyright>&amp;copy; 2025 No Arbitrage. All rights reserved.</copyright>
     <lastBuildDate>Wed, 26 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/guide/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
       <title>Reading the Financial Times (UK edition)</title>
       <link>http://localhost:1313/posts/financial-times/</link>
       <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
-      <author>cai-joseph@outlook.com (Joseph Cai)</author>
+      <author>mailto:cai-joseph@outlook.com (Joseph Cai)</author>
       <guid>http://localhost:1313/posts/financial-times/</guid>
       <description>This is a breakdown of contents avilable on the FT.com or the FT app.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/financial-times/cover.jpg" />
