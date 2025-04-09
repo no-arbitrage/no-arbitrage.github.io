@@ -56,7 +56,7 @@ Now let’s talk numbers.
 
 Even with a hefty tariff, the *post-tariff* cost of Chinese goods in many sectors remains **lower** than the domestic alternative. Why? Because the scale, supply chain maturity, and cost structure in China are still leagues ahead.
 
-So we end up in a strange situation: American companies keep importing because it’s still cheaper, while American consumers foot the bill. Exporting countries may suffer from lower demand—but they don’t absorb the tariff. There is a risk that the world is thrown into depression, but this is a great opportunity for global economies except US to support each other, optimising demand structure and absorbing the production capacity from each other.
+So we end up in a strange situation: American companies keep importing because it’s still cheaper, while American consumers foot the bill. Exporting countries may suffer from lower demand—but they don’t absorb the tariff. There is a risk that the world is pushed into depression, but this is a great opportunity for global economies except US to support each other, optimising demand structure and absorbing the production capacity from each other.
 
 ---
 
@@ -66,7 +66,7 @@ If the goal is to reduce dependency on foreign suppliers, then tariffs are a blu
 
 Instead, they function as a hidden tax. One that might increase government revenue—*maybe*—but at the cost of consumer welfare, global cooperation, and economic efficiency.
 
-We should be asking better questions. Not “how do we punish imports?” but “how do we invest in competitive domestic industries?” The former is politics. The latter is strategy.
+US should be asking better questions. Not “how does US punish imports?” but “how does US invest in competitive domestic industries?” The former is politics. The latter is strategy.
 
 ---
 
