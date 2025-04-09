@@ -56,7 +56,7 @@ Now let’s talk numbers.
 
 Even with a hefty tariff, the *post-tariff* cost of Chinese goods in many sectors remains **lower** than the domestic alternative. Why? Because the scale, supply chain maturity, and cost structure in China are still leagues ahead.
 
-So we end up in a strange situation: American companies keep importing because it’s still cheaper, while American consumers foot the bill. Exporting countries may suffer from lower demand—but they don’t absorb the tariff. We do.
+So we end up in a strange situation: American companies keep importing because it’s still cheaper, while American consumers foot the bill. Exporting countries may suffer from lower demand—but they don’t absorb the tariff. 
 
 ---
 
