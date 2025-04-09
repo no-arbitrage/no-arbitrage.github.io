@@ -29,3 +29,11 @@
 - https://mcshelby.github.io/hugo-theme-relearn/shortcodes/button/index.html
 
 git submodule add -b theme https://github.com/isqua/hugo-shortcodes.git themes/hugo-shortcodes
+
+
+
+Attachment shortvcode
+https://oostens.me/posts/hugo-attachment-shortcode/
+
+Local video shortcode
+https://github.com/frjo/hugo-theme-zen/tree/main?tab=readme-ov-file
