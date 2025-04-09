@@ -11,13 +11,13 @@ draft: false
 **Warning!** This is not original content.  
 {{< /alert >}}
 
-{{< button href="/LW-NFPP-C19-CORP-Merger-detailed-guide.pdf" target="_self">}}
+{{< button href="https://www.lawworks.org.uk/sites/default/files/files/LW-NFPP-C19-CORP-Merger-detailed-guide.pdf" target="_self">}}
 Download Merger-Detailed-Guide (PDF)
 {{< /button >}}
 <br>
 
 
-{{< button href="/Getting-to-the-Heart-of-It-The-Anatomy-of-an-MA-Transaction.pdf"  target="_self">}}
+{{< button href="https://www.morganlewis.com/-/media/files/publication/presentation/webinar/2024/getting-to-the-heart-of-it-the-anatomy-of-an-ma-transaction.pdf"  target="_self">}}
 Download Anatomy-of-an-MA
 {{< /button >}}
 <br><br>
