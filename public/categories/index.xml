@@ -9,7 +9,27 @@
     <managingEditor>mailto:cai-joseph@outlook.com (Joseph Cai)</managingEditor>
     <webMaster>mailto:cai-joseph@outlook.com (Joseph Cai)</webMaster>
     <copyright>&amp;copy; 2025 No Arbitrage. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 09 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 13 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>StockManagement</title>
+      <link>http://localhost:1313/categories/stockmanagement/</link>
+      <pubDate>Sun, 13 Apr 2025 00:00:00 +0000</pubDate>
+      <author>mailto:cai-joseph@outlook.com (Joseph Cai)</author>
+      <guid>http://localhost:1313/categories/stockmanagement/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Finance</title>
+      <link>http://localhost:1313/categories/finance/</link>
+      <pubDate>Wed, 09 Apr 2025 00:00:00 +0000</pubDate>
+      <author>mailto:cai-joseph@outlook.com (Joseph Cai)</author>
+      <guid>http://localhost:1313/categories/finance/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Legal</title>
@@ -42,21 +62,11 @@
     </item>
     
     <item>
-      <title>StockManagement</title>
-      <link>http://localhost:1313/categories/stockmanagement/</link>
-      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <title>Trade</title>
+      <link>http://localhost:1313/categories/trade/</link>
+      <pubDate>Wed, 09 Apr 2025 00:00:00 +0000</pubDate>
       <author>mailto:cai-joseph@outlook.com (Joseph Cai)</author>
-      <guid>http://localhost:1313/categories/stockmanagement/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Finance</title>
-      <link>http://localhost:1313/categories/finance/</link>
-      <pubDate>Thu, 27 Mar 2025 00:00:00 +0000</pubDate>
-      <author>mailto:cai-joseph@outlook.com (Joseph Cai)</author>
-      <guid>http://localhost:1313/categories/finance/</guid>
+      <guid>http://localhost:1313/categories/trade/</guid>
       <description></description>
       
     </item>

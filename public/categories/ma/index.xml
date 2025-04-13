@@ -13,10 +13,10 @@
     
     <item>
       <title>Practice Guide: M&amp;A Transactions</title>
-      <link>http://localhost:1313/resource/legal-ma-guide/</link>
+      <link>http://localhost:1313/posts/legal-ma-guide/</link>
       <pubDate>Wed, 09 Apr 2025 00:00:00 +0000</pubDate>
       <author>mailto:cai-joseph@outlook.com (Joseph Cai)</author>
-      <guid>http://localhost:1313/resource/legal-ma-guide/</guid>
+      <guid>http://localhost:1313/posts/legal-ma-guide/</guid>
       <description>&lt;div
   
     class=&#34;flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900&#34;
@@ -56,7 +56,7 @@ Download Merger-Detailed-Guide (PDF)
 &lt;/a&gt;
 
 &lt;br&gt;&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/resource/legal-ma-guide/cover.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/legal-ma-guide/cover.png" />
     </item>
     
   </channel>

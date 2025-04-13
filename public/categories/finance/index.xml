@@ -9,7 +9,17 @@
     <managingEditor>mailto:cai-joseph@outlook.com (Joseph Cai)</managingEditor>
     <webMaster>mailto:cai-joseph@outlook.com (Joseph Cai)</webMaster>
     <copyright>&amp;copy; 2025 No Arbitrage. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 27 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/finance/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 09 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/finance/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Who Pays the Price of Tariffs?</title>
+      <link>http://localhost:1313/posts/2025-04-trump-tariff-comment/</link>
+      <pubDate>Wed, 09 Apr 2025 00:00:00 +0000</pubDate>
+      <author>mailto:cai-joseph@outlook.com (Joseph Cai)</author>
+      <guid>http://localhost:1313/posts/2025-04-trump-tariff-comment/</guid>
+      <description>A View Through the Fog of Trade Wars</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/2025-04-trump-tariff-comment/cover.png" />
+    </item>
     
     <item>
       <title>Introducing SQL Reports Series</title>

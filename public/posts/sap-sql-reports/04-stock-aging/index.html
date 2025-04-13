@@ -8,14 +8,14 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta http-equiv="X-UA-Compatible" content="ie=edge" />
   
-  <title>Who Pays the Price of Tariffs? &middot; No Arbitrage</title>
-  <meta name="title" content="Who Pays the Price of Tariffs? &middot; No Arbitrage" />
+  <title>SQL Stock Aging Report for SAP B1 &middot; No Arbitrage</title>
+  <meta name="title" content="SQL Stock Aging Report for SAP B1 &middot; No Arbitrage" />
   
-  <meta name="description" content="A View Through the Fog of Trade Wars" />
-  <meta name="keywords" content="post, finance, " />
+  <meta name="description" content="Basic raw tbble view and pivot stock value view." />
+  <meta name="keywords" content="sql, reporting, sap, BI, " />
   
   
-  <link rel="canonical" href="http://localhost:1313/posts/2025-04-trump-tariff-comment/" />
+  <link rel="canonical" href="http://localhost:1313/posts/sap-sql-reports/04-stock-aging/" />
   
   
   
@@ -70,24 +70,29 @@
   
   
   
-  <meta property="og:url" content="http://localhost:1313/posts/2025-04-trump-tariff-comment/">
+  <meta property="og:url" content="http://localhost:1313/posts/sap-sql-reports/04-stock-aging/">
   <meta property="og:site_name" content="No Arbitrage">
-  <meta property="og:title" content="Who Pays the Price of Tariffs?">
-  <meta property="og:description" content="A View Through the Fog of Trade Wars">
+  <meta property="og:title" content="SQL Stock Aging Report for SAP B1">
+  <meta property="og:description" content="Basic raw tbble view and pivot stock value view.">
   <meta property="og:locale" content="en">
   <meta property="og:type" content="article">
     <meta property="article:section" content="posts">
-    <meta property="article:published_time" content="2025-04-09T00:00:00+00:00">
-    <meta property="article:modified_time" content="2025-04-09T00:00:00+00:00">
-    <meta property="article:tag" content="Post">
-    <meta property="article:tag" content="Finance">
-    <meta property="og:image" content="http://localhost:1313/posts/2025-04-trump-tariff-comment/cover.png">
+    <meta property="article:published_time" content="2025-04-13T00:00:00+00:00">
+    <meta property="article:modified_time" content="2025-04-13T00:00:00+00:00">
+    <meta property="article:tag" content="Sql">
+    <meta property="article:tag" content="Reporting">
+    <meta property="article:tag" content="Sap">
+    <meta property="article:tag" content="BI">
+    <meta property="og:image" content="http://localhost:1313/posts/sap-sql-reports/04-stock-aging/cover.jpg">
+      <meta property="og:see_also" content="http://localhost:1313/posts/sap-sql-reports/03-safetystock/">
+      <meta property="og:see_also" content="http://localhost:1313/posts/sap-sql-reports/01-intro/">
+      <meta property="og:see_also" content="http://localhost:1313/posts/sap-sql-reports/02-sales-analysis/">
 
   
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:image" content="http://localhost:1313/posts/2025-04-trump-tariff-comment/cover.png">
-  <meta name="twitter:title" content="Who Pays the Price of Tariffs?">
-  <meta name="twitter:description" content="A View Through the Fog of Trade Wars">
+  <meta name="twitter:image" content="http://localhost:1313/posts/sap-sql-reports/04-stock-aging/cover.jpg">
+  <meta name="twitter:title" content="SQL Stock Aging Report for SAP B1">
+  <meta name="twitter:description" content="Basic raw tbble view and pivot stock value view.">
 
   
   <script type="application/ld+json">
@@ -95,26 +100,26 @@
     "@context": "https://schema.org",
     "@type": "Article",
     "articleSection": "Posts",
-    "name": "Who Pays the Price of Tariffs?",
-    "headline": "Who Pays the Price of Tariffs?",
+    "name": "SQL Stock Aging Report for SAP B1",
+    "headline": "SQL Stock Aging Report for SAP B1",
     
-    "abstract": "A View Through the Fog of Trade Wars",
+    "abstract": "Basic raw tbble view and pivot stock value view.",
     "inLanguage": "en",
-    "url" : "http:\/\/localhost:1313\/posts\/2025-04-trump-tariff-comment\/",
+    "url" : "http:\/\/localhost:1313\/posts\/sap-sql-reports\/04-stock-aging\/",
     "author" : {
       "@type": "Person",
       "name": "Joseph Cai"
     },
     "copyrightYear": "2025",
-    "dateCreated": "2025-04-09T00:00:00\u002b00:00",
-    "datePublished": "2025-04-09T00:00:00\u002b00:00",
+    "dateCreated": "2025-04-13T00:00:00\u002b00:00",
+    "datePublished": "2025-04-13T00:00:00\u002b00:00",
     
-    "dateModified": "2025-04-09T00:00:00\u002b00:00",
+    "dateModified": "2025-04-13T00:00:00\u002b00:00",
     
-    "keywords": ["post","finance"],
+    "keywords": ["sql","reporting","sap","BI"],
     
     "mainEntityOfPage": "true",
-    "wordCount": "544"
+    "wordCount": "363"
   }]
   </script>
 
@@ -654,34 +659,10 @@
   
   
   
-
-
-<div id="hero" class="h-[150px] md:h-[200px]"></div>
-
-
-
+        
+            <div class="w-full h-36 md:h-56 lg:h-72 single_hero_basic nozoom" style="background-image:url(/posts/sap-sql-reports/04-stock-aging/cover_hu_b7e19e985c668173.jpg);"></div>
+        
     
-    <div class="fixed inset-x-0 top-0 h-[800px] single_hero_background nozoom"
-    style="background-image:url(/posts/2025-04-trump-tariff-comment/cover_hu_c74f77b98052e3f6.png);">
-    
-
-
-    <div class="absolute inset-0 bg-gradient-to-t from-neutral dark:from-neutral-800 to-transparent mix-blend-normal">
-    </div>
-    <div
-        class="absolute inset-0 opacity-60 bg-gradient-to-t from-neutral dark:from-neutral-800 to-neutral-100 dark:to-neutral-800 mix-blend-normal">
-    </div>
-</div>
-
-<div id="background-blur" class="fixed opacity-0 inset-x-0 top-0 h-full single_hero_background nozoom backdrop-blur-2xl"></div>
-<script>
-    window.addEventListener('scroll', function (e) {
-        var scroll = window.pageYOffset || document.documentElement.scrollTop || document.body.scrollTop || 0;
-        var background_blur = document.getElementById('background-blur');
-        background_blur.style.opacity = (scroll / 300)
-    });
-</script>
-
   
   
 
@@ -715,8 +696,8 @@
   <li class="inline hidden">
     <a
       class="hover:underline decoration-neutral-300 dark:underline-neutral-600"
-      href="/posts/2025-04-trump-tariff-comment/"
-      >Who Pays the Price of Tariffs?</a
+      href="/posts/sap-sql-reports/04-stock-aging/"
+      >SQL Stock Aging Report for SAP B1</a
     ><span class="px-1 text-primary-500">/</span>
   </li>
 
@@ -725,7 +706,7 @@
 
     
     <h1 class="mt-0 text-4xl font-extrabold text-neutral-900 dark:text-neutral">
-      Who Pays the Price of Tariffs?
+      SQL Stock Aging Report for SAP B1
     </h1>
     <div class="mt-1 mb-6 text-base text-neutral-500 dark:text-neutral-400 print:hidden">
       
@@ -776,7 +757,7 @@
 <div class="flex flex-row flex-wrap items-center">
   
   
-  <time datetime="2025-04-09T00:00:00&#43;00:00">9 April 2025</time><span class="px-2 text-primary-500">&middot;</span><span>544 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">3 mins</span><span class="px-2 text-primary-500">&middot;</span><span>
+  <time datetime="2025-04-13T00:00:00&#43;00:00">13 April 2025</time><span class="px-2 text-primary-500">&middot;</span><span>363 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">2 mins</span><span class="px-2 text-primary-500">&middot;</span><span>
   
   
     
@@ -789,7 +770,7 @@
       
     
   
-  <span id="likes_posts\2025-04-trump-tariff-comment\index.md"
+  <span id="likes_posts\Sap-sql-reports\04-stock-aging\index.md"
     class="animate-pulse inline-block text-transparent max-h-3 rounded-full mt-[-2px] align-middle bg-neutral-300 dark:bg-neutral-400"
     title="likes">loading</span>
   <span class="inline-block align-text-bottom">
@@ -861,18 +842,10 @@
   
   
   
-  <span style="margin-top:0.5rem" class="mr-2" onclick="window.open(&#34;/categories/finance/&#34;,'_self');return false;">
+  <span style="margin-top:0.5rem" class="mr-2" onclick="window.open(&#34;/categories/stockmanagement/&#34;,'_self');return false;">
     <span class="flex" style="cursor: pointer;">
   <span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-    Finance
-  </span>
-</span>
-  </span>
-  
-  <span style="margin-top:0.5rem" class="mr-2" onclick="window.open(&#34;/categories/trade/&#34;,'_self');return false;">
-    <span class="flex" style="cursor: pointer;">
-  <span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-    Trade
+    StockManagement
   </span>
 </span>
   </span>
@@ -889,18 +862,34 @@
   
   
   
-  <span style="margin-top:0.5rem" class="mr-2" onclick="window.open(&#34;/tags/post/&#34;,'_self');return false;">
+  <span style="margin-top:0.5rem" class="mr-2" onclick="window.open(&#34;/tags/sql/&#34;,'_self');return false;">
     <span class="flex" style="cursor: pointer;">
   <span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-    Post
+    Sql
   </span>
 </span>
   </span>
   
-  <span style="margin-top:0.5rem" class="mr-2" onclick="window.open(&#34;/tags/finance/&#34;,'_self');return false;">
+  <span style="margin-top:0.5rem" class="mr-2" onclick="window.open(&#34;/tags/reporting/&#34;,'_self');return false;">
     <span class="flex" style="cursor: pointer;">
   <span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-    Finance
+    Reporting
+  </span>
+</span>
+  </span>
+  
+  <span style="margin-top:0.5rem" class="mr-2" onclick="window.open(&#34;/tags/sap/&#34;,'_self');return false;">
+    <span class="flex" style="cursor: pointer;">
+  <span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+    Sap
+  </span>
+</span>
+  </span>
+  
+  <span style="margin-top:0.5rem" class="mr-2" onclick="window.open(&#34;/tags/bi/&#34;,'_self');return false;">
+    <span class="flex" style="cursor: pointer;">
+  <span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+    BI
   </span>
 </span>
   </span>
@@ -943,11 +932,12 @@
     class="min-w-[220px] py-2 border-dotted ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
     <nav id="TableOfContents">
   <ul>
-    <li><a href="#the-myth-of-domestic-substitution">The Myth of Domestic Substitution</a></li>
-    <li><a href="#tariffs-dont-build-factoriescapital-investment-does">Tariffs Don’t Build Factories—Capital Investment Does</a></li>
-    <li><a href="#chinas-cost-advantage-still-too-big-to-ignore">China’s Cost Advantage: Still Too Big to Ignore</a></li>
-    <li><a href="#whats-the-endgame">What’s the Endgame?</a></li>
-    <li><a href="#conclusion-trade-wars-arent-free">Conclusion: Trade Wars Aren’t Free</a></li>
+    <li>
+      <ul>
+        <li><a href="#basic-form-directory-querying-the-underlying-table">Basic Form directory querying the underlying table</a></li>
+        <li><a href="#advanced-form-stock-value-pivot-view">Advanced form: Stock Value Pivot view</a></li>
+      </ul>
+    </li>
   </ul>
 </nav>
   </div>
@@ -961,11 +951,12 @@
     class="py-2 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
     <nav id="TableOfContents">
   <ul>
-    <li><a href="#the-myth-of-domestic-substitution">The Myth of Domestic Substitution</a></li>
-    <li><a href="#tariffs-dont-build-factoriescapital-investment-does">Tariffs Don’t Build Factories—Capital Investment Does</a></li>
-    <li><a href="#chinas-cost-advantage-still-too-big-to-ignore">China’s Cost Advantage: Still Too Big to Ignore</a></li>
-    <li><a href="#whats-the-endgame">What’s the Endgame?</a></li>
-    <li><a href="#conclusion-trade-wars-arent-free">Conclusion: Trade Wars Aren’t Free</a></li>
+    <li>
+      <ul>
+        <li><a href="#basic-form-directory-querying-the-underlying-table">Basic Form directory querying the underlying table</a></li>
+        <li><a href="#advanced-form-stock-value-pivot-view">Advanced form: Stock Value Pivot view</a></li>
+      </ul>
+    </li>
   </ul>
 </nav>
   </div>
@@ -1006,102 +997,149 @@
       <div class="min-w-0 min-h-0 max-w-fit">
         
         
+<details style="margin-left:0px" class="mt-2 mb-5 overflow-hidden rounded-lg ltr:-ml-5 ltr:pl-5 rtl:-mr-5 rtl:pr-5" >
+    
+    <summary
+        class="py-1 text-lg font-semibold cursor-pointer bg-primary-200 text-neutral-800 ltr:-ml-5 ltr:pl-5 rtl:-mr-5 rtl:pr-5 dark:bg-primary-800 dark:text-neutral-100">
+        SQL Reports for SAP-B1 - This article is part of a series.
+    </summary>
+    
+    
+    
+    <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="http://localhost:1313/posts/sap-sql-reports/02-sales-analysis/">
+            Part 1: Ultimate Sales Analysis Report for SAP B1 (SQL)
+        </a>
+    </div>
+    
+    
+    
+    <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="http://localhost:1313/posts/sap-sql-reports/01-intro/">
+            Part 2: Introducing SQL Reports Series
+        </a>
+    </div>
+    
+    
+    
+    <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="http://localhost:1313/posts/sap-sql-reports/03-safetystock/">
+            Part 3: Calculating Safety Stock
+        </a>
+    </div>
+    
+    
+    
+    <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        Part 4: This Article
+    </div>
+    
+    
+
+
+</details>
+
 
 
         <div class="article-content max-w-prose mb-20">
-          <p>A friend forwarded me the following interesting AI generated video recently.
-<figure class="video">
-<video controls preload="metadata" width="600"   >
-<source src="/posts/2025-04-trump-tariff-comment/Post-Feed-LinkedIn.mp4" type="video/mp4">
-</video>
-</figure>
-</p>
-<p>The original post is here.</p>
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7315349201125580802?collapsed=1" height="399" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
-# 
-<p>I’m confused—and I think I’m supposed to be.</p>
-<p>Because when I look at recent trade policy rhetoric, particularly the renewed call for higher tariffs under the guise of reviving American manufacturing, I’m left wondering: who exactly are we trying to help?</p>
-<p>From a basic economic standpoint, the logic is clear: as long as <em>relative advantage</em> exists between countries, tariffs create inefficiencies. Someone always pays. And more often than not, it&rsquo;s not who politicians claim.</p>
-<p>Let’s unpack that.</p>
-<hr>
+          
 
-
-<h2 class="relative group">The Myth of Domestic Substitution 
-    <div id="the-myth-of-domestic-substitution" class="anchor"></div>
+<h3 class="relative group">Basic Form directory querying the underlying table 
+    <div id="basic-form-directory-querying-the-underlying-table" class="anchor"></div>
     
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
         <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#the-myth-of-domestic-substitution" aria-label="Anchor">#</a>
+            style="text-decoration-line: none !important;" href="#basic-form-directory-querying-the-underlying-table" aria-label="Anchor">#</a>
     </span>        
     
-</h2>
-<p>Take the case of construction materials, or other industrial inputs that the U.S. imports in massive volumes. The idea behind a tariff is that it will discourage imports, thereby encouraging domestic production.</p>
-<p>But there&rsquo;s a catch.</p>
-<p>The U.S. simply does not have the capacity to immediately ramp up production for many of these goods. Not even close. It takes years to plan, build, and scale factories—often longer than a single presidential term. So what happens in the meantime?</p>
-<p>Companies still need to import. They just pay more to do it. The tariffs become a tax—paid not by China or other exporting nations, but by U.S. businesses, and ultimately, U.S. consumers.</p>
-<hr>
+</h3>
+<p>Three tables under Inventory and Production module
+OBTN : Batch Numbers Master Data
+OBTQ : Batch No. Quantities
+OITW : Items - Warehouse</p>
+<p>Notice
+OBTN holds batch number, in/out date
+OBTQ allocate quantity to warehouses (virtual)
+OITW records cost prices by each warehouse</p>
+<p>Please note, your company might use different method for stock valuation. The company I worked with use warehouse in SAP to hold stocks of different cost prices.  Also, only batch managed stock will be captured by this query.</p>
+<pre tabindex="0"><code>SELECT 
+T0.ItemCode, 
+T0.ItemName, 
+T1.DistNumber [BatchNum], -- Batch Number 
+T3.WhsCode, 
+T1.InDate, 
+T1.ExpDate, 
+T2.WhsCode, 
+T2.Quantity, 
+T2.CommitQty, 
+T3.AvgPrice, 
+GETDATE() [LogDate] 
+FROM OITM T0 WITH (NOLOCK) 
+JOIN OBTN T1 WITH (NOLOCK) ON T0.ItemCode = T1.ItemCode 
+JOIN OBTQ T2 WITH (NOLOCK) ON 
+	T2.ItemCode = T1.ItemCode AND T2.SysNumber = T1.SysNumber AND
+	T2.Quantity != 0 
+JOIN OITW T3 WITH (NOLOCK) ON 
+	T3.ItemCode = T1.ItemCode AND T2.WhsCode = T3.WhsCode 
+WHERE
+T0.OnHand != 0 
+</code></pre>
 
-
-<h2 class="relative group">Tariffs Don’t Build Factories—Capital Investment Does 
-    <div id="tariffs-dont-build-factoriescapital-investment-does" class="anchor"></div>
+<h3 class="relative group">Advanced form: Stock Value Pivot view 
+    <div id="advanced-form-stock-value-pivot-view" class="anchor"></div>
     
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
         <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#tariffs-dont-build-factoriescapital-investment-does" aria-label="Anchor">#</a>
+            style="text-decoration-line: none !important;" href="#advanced-form-stock-value-pivot-view" aria-label="Anchor">#</a>
     </span>        
     
-</h2>
-<p>Let’s say, hypothetically, that a company does want to reshore production. Will they really pour billions into U.S. infrastructure on the <em>hope</em> that tariffs will stay in place long enough to justify the cost?</p>
-<p>That’s a tough sell. Business investments require stable, long-term incentives—not short-term political tools. Without genuine industrial policy or subsidies to support such moves, tariffs are just window dressing. Most firms will opt to pay the tax and pass it down the supply chain.</p>
-<p>In other words: it’s less “Made in America,” and more “Paid for by Americans.”</p>
-<hr>
-
-
-<h2 class="relative group">China’s Cost Advantage: Still Too Big to Ignore 
-    <div id="chinas-cost-advantage-still-too-big-to-ignore" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#chinas-cost-advantage-still-too-big-to-ignore" aria-label="Anchor">#</a>
-    </span>        
-    
-</h2>
-<p>Now let’s talk numbers.</p>
-<p>Even with a hefty tariff, the <em>post-tariff</em> cost of Chinese goods in many sectors remains <strong>lower</strong> than the domestic alternative. Why? Because the scale, supply chain maturity, and cost structure in China are still leagues ahead.</p>
-<p>So we end up in a strange situation: American companies keep importing because it’s still cheaper, while American consumers foot the bill. Exporting countries may suffer from lower demand—but they don’t absorb the tariff. There is a risk that the world is pushed into depression, but this is a great opportunity for global economies except US to support each other, optimising demand structure and absorbing the production capacity from each other.</p>
-<hr>
-
-
-<h2 class="relative group">What’s the Endgame? 
-    <div id="whats-the-endgame" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#whats-the-endgame" aria-label="Anchor">#</a>
-    </span>        
-    
-</h2>
-<p>If the goal is to reduce dependency on foreign suppliers, then tariffs are a blunt—and often ineffective—instrument. They don’t create new factories overnight. They don’t guarantee jobs. And they certainly don’t fix structural issues in U.S. industry.</p>
-<p>Instead, they function as a hidden tax. One that might increase government revenue—<em>maybe</em>—but at the cost of consumer welfare, global cooperation, and economic efficiency.</p>
-<p>US should be asking better questions. Not “how does US punish imports?” but “how does US invest in competitive domestic industries?” The former is politics. The latter is strategy.</p>
-<hr>
-
-
-<h2 class="relative group">Conclusion: Trade Wars Aren’t Free 
-    <div id="conclusion-trade-wars-arent-free" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#conclusion-trade-wars-arent-free" aria-label="Anchor">#</a>
-    </span>        
-    
-</h2>
-<p>The real confusion isn’t about who pays. It’s about why we keep pretending someone else does.</p>
+</h3>
+<pre tabindex="0"><code>SELECT 
+Pvt.ItemCode,
+Pvt.[0] [Within 1 Year],
+Pvt.[1] [Between 1-2 Years],
+Pvt.[2] [Between 2-3 Years],
+Pvt.[3] [3 Years and above],
+Pvt.[-1] [Already expired]
+FROM 
+(
+	SELECT 
+	T0.ItemCode, 
+	(
+		CASE 
+		WHEN DATEDIFF( DAY , GETDATE(), T1.ExpDate ) &gt; 365 *3
+		THEN 3
+		WHEN DATEDIFF( DAY , GETDATE(), T1.ExpDate ) &gt; 365 *2
+		THEN 2
+		WHEN DATEDIFF( DAY , GETDATE(), T1.ExpDate ) &gt; 365
+		THEN 1
+		WHEN DATEDIFF( DAY , GETDATE(), T1.ExpDate ) &gt; 0
+		THEN 0
+		ELSE -1 
+		END
+	) [ShelfLife], 
+	T2.Quantity * T3.AvgPrice [StockValue]
+	FROM OITM T0 WITH (NOLOCK) 
+	JOIN OBTN T1 WITH (NOLOCK) ON T0.ItemCode = T1.ItemCode 
+	JOIN OBTQ T2 WITH (NOLOCK) ON 
+		T2.ItemCode = T1.ItemCode AND T2.SysNumber = T1.SysNumber AND
+		T2.Quantity != 0 
+	JOIN OITW T3 WITH (NOLOCK) ON 
+		T3.ItemCode = T1.ItemCode AND T2.WhsCode = T3.WhsCode 
+	WHERE
+	T0.OnHand != 0 
+) T 
+PIVOT
+(
+	SUM( StockValue ) FOR [ShelfLife] IN ( [0],[1],[2],[3],[-1] )
+) AS Pvt
+</code></pre><p>Be careful with the results. If an item doesn&rsquo;t have batch management info, this report won&rsquo;t pick up those line. If the query begins with OITM to the furthest left and left join this query, then you will have the full stock aging report for every line item, with each item displaying in one line.</p>
 
           
           
@@ -1213,6 +1251,52 @@
         
 
         
+<details style="margin-left:0px" class="mt-2 mb-5 overflow-hidden rounded-lg ltr:-ml-5 ltr:pl-5 rtl:-mr-5 rtl:pr-5">
+    
+    <summary
+        class="py-1 text-lg font-semibold cursor-pointer bg-primary-200 text-neutral-800 ltr:-ml-5 ltr:pl-5 rtl:-mr-5 rtl:pr-5 dark:bg-primary-800 dark:text-neutral-100">
+        SQL Reports for SAP-B1 - This article is part of a series.
+    </summary>
+    
+    
+    
+    <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="http://localhost:1313/posts/sap-sql-reports/02-sales-analysis/">
+            Part 1: Ultimate Sales Analysis Report for SAP B1 (SQL)
+        </a>
+    </div>
+    
+    
+    
+    <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="http://localhost:1313/posts/sap-sql-reports/01-intro/">
+            Part 2: Introducing SQL Reports Series
+        </a>
+    </div>
+    
+    
+    
+    <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="http://localhost:1313/posts/sap-sql-reports/03-safetystock/">
+            Part 3: Calculating Safety Stock
+        </a>
+    </div>
+    
+    
+    
+    <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        Part 4: This Article
+    </div>
+    
+    
+
+
+</details>
+
         
   
   <section class="flex flex-row flex-wrap justify-center pt-4 text-xl">
@@ -1221,7 +1305,7 @@
       <a
       target="_blank"
       class="m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-      href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http://localhost:1313/posts/2025-04-trump-tariff-comment/&amp;title=Who%20Pays%20the%20Price%20of%20Tariffs?"
+      href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http://localhost:1313/posts/sap-sql-reports/04-stock-aging/&amp;title=SQL%20Stock%20Aging%20Report%20for%20SAP%20B1"
       title="Share on LinkedIn"
       aria-label="Share on LinkedIn"
       >
@@ -1240,7 +1324,7 @@
       <a
       target="_blank"
       class="m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-      href="https://twitter.com/intent/tweet/?url=http://localhost:1313/posts/2025-04-trump-tariff-comment/&amp;text=Who%20Pays%20the%20Price%20of%20Tariffs?"
+      href="https://twitter.com/intent/tweet/?url=http://localhost:1313/posts/sap-sql-reports/04-stock-aging/&amp;text=SQL%20Stock%20Aging%20Report%20for%20SAP%20B1"
       title="Tweet on Twitter"
       aria-label="Tweet on Twitter"
       >
@@ -1258,7 +1342,7 @@
       <a
       target="_blank"
       class="m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-      href="https://api.whatsapp.com/send?text=http://localhost:1313/posts/2025-04-trump-tariff-comment/&amp;resubmit=true&amp;title=Who%20Pays%20the%20Price%20of%20Tariffs?"
+      href="https://api.whatsapp.com/send?text=http://localhost:1313/posts/sap-sql-reports/04-stock-aging/&amp;resubmit=true&amp;title=SQL%20Stock%20Aging%20Report%20for%20SAP%20B1"
       title="Share via WhatsApp"
       aria-label="Share via WhatsApp"
       >
@@ -1277,7 +1361,7 @@
       <a
       target="_blank"
       class="m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-      href="https://pinterest.com/pin/create/bookmarklet/?url=http://localhost:1313/posts/2025-04-trump-tariff-comment/&amp;description=Who%20Pays%20the%20Price%20of%20Tariffs?"
+      href="https://pinterest.com/pin/create/bookmarklet/?url=http://localhost:1313/posts/sap-sql-reports/04-stock-aging/&amp;description=SQL%20Stock%20Aging%20Report%20for%20SAP%20B1"
       title="Pin on Pinterest"
       aria-label="Pin on Pinterest"
       >
@@ -1296,7 +1380,7 @@
       <a
       target="_blank"
       class="m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-      href="https://reddit.com/submit/?url=http://localhost:1313/posts/2025-04-trump-tariff-comment/&amp;resubmit=true&amp;title=Who%20Pays%20the%20Price%20of%20Tariffs?"
+      href="https://reddit.com/submit/?url=http://localhost:1313/posts/sap-sql-reports/04-stock-aging/&amp;resubmit=true&amp;title=SQL%20Stock%20Aging%20Report%20for%20SAP%20B1"
       title="Submit to Reddit"
       aria-label="Submit to Reddit"
       >
@@ -1315,7 +1399,7 @@
       <a
       target="_blank"
       class="m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-      href="https://www.facebook.com/sharer/sharer.php?u=http://localhost:1313/posts/2025-04-trump-tariff-comment/&amp;quote=Who%20Pays%20the%20Price%20of%20Tariffs?"
+      href="https://www.facebook.com/sharer/sharer.php?u=http://localhost:1313/posts/sap-sql-reports/04-stock-aging/&amp;quote=SQL%20Stock%20Aging%20Report%20for%20SAP%20B1"
       title="Share on Facebook"
       aria-label="Share on Facebook"
       >
@@ -1334,7 +1418,7 @@
       <a
       target="_blank"
       class="m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-      href="mailto:?body=http://localhost:1313/posts/2025-04-trump-tariff-comment/&amp;subject=Who%20Pays%20the%20Price%20of%20Tariffs?"
+      href="mailto:?body=http://localhost:1313/posts/sap-sql-reports/04-stock-aging/&amp;subject=SQL%20Stock%20Aging%20Report%20for%20SAP%20B1"
       title="Send via email"
       aria-label="Send via email"
       >
@@ -1363,8 +1447,8 @@
           
         
       <script>
-        var oid = "views_posts\\2025-04-trump-tariff-comment\\index.md"
-        var oid_likes = "likes_posts\\2025-04-trump-tariff-comment\\index.md"
+        var oid = "views_posts\\Sap-sql-reports\\04-stock-aging\\index.md"
+        var oid_likes = "likes_posts\\Sap-sql-reports\\04-stock-aging\\index.md"
       </script>
       
       
@@ -1405,7 +1489,7 @@
       <div class="flex justify-between pt-3">
         <span>
           
-            <a class="flex group mr-3" href="/posts/sap-sql-reports/03-safetystock/">
+            <a class="flex group mr-3" href="/posts/legal-ma-guide/">
               <span
                 class="mr-3 text-neutral-700 group-hover:text-primary-600 ltr:inline rtl:hidden dark:text-neutral dark:group-hover:text-primary-400"
                 >&larr;</span
@@ -1417,23 +1501,6 @@
               <span class="flex flex-col">
                 <span
                   class="mt-[0.1rem] leading-6 group-hover:underline group-hover:decoration-primary-500"
-                  >Calculating Safety Stock</span
-                >
-                <span class="mt-[0.1rem] text-xs text-neutral-500 dark:text-neutral-400">
-                  
-                    <time datetime="2025-04-01T00:00:00&#43;00:00">1 April 2025</time>
-                  
-                </span>
-              </span>
-            </a>
-          
-        </span>
-        <span>
-          
-            <a class="flex text-right group ml-3" href="/posts/legal-ma-guide/">
-              <span class="flex flex-col">
-                <span
-                  class="mt-[0.1rem] leading-6 group-hover:underline group-hover:decoration-primary-500"
                   >Practice Guide: M&A Transactions</span
                 >
                 <span class="mt-[0.1rem] text-xs text-neutral-500 dark:text-neutral-400">
@@ -1442,15 +1509,10 @@
                   
                 </span>
               </span>
-              <span
-                class="ml-3 text-neutral-700 group-hover:text-primary-600 ltr:inline rtl:hidden dark:text-neutral dark:group-hover:text-primary-400"
-                >&rarr;</span
-              >
-              <span
-                class="mr-3 text-neutral-700 group-hover:text-primary-600 ltr:hidden rtl:inline dark:text-neutral dark:group-hover:text-primary-400"
-                >&larr;</span
-              >
             </a>
+          
+        </span>
+        <span>
           
         </span>
       </div>
