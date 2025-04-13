@@ -11,8 +11,8 @@
 */
 
 @font-face {
-  font-family: 'Libre-Baskerville';
-  src: url('/fonts/Libre-Baskerville-Regular.ttf');
+  font-family: 'Bower-bold';
+  src: url('/fonts/Bower-Bold.ttf');
 }
 @font-face {
   font-family: 'SFProDisplay';
@@ -22,7 +22,7 @@ html {
     font-family: 'SFProDisplay';
 }
 h1 {
-  font-family: 'Libre-Baskerville';
+  font-family: 'Bower-bold';
 }
 
 p {
