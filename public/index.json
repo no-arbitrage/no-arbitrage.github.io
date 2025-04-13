@@ -138,7 +138,7 @@
             "date_modified": "2025-03-03T14:52:25+08:00",
             "id": "http://localhost:1313/gallery/test-albtm/",
             "url": "http://localhost:1313/gallery/test-albtm/",
-            "content_html": "\r\n\u003cfigure class=\"big\"\u003e\r\n\t\u003cimg src=\"02.jpg\" loading=\"lazy\"\r\n\t\t\t alt=\"alternativetext\" width=\"970\" height=\"500\"/\u003e\r\n\t\u003cfigcaption\u003e\r\n\t\t\u003cp\u003e\u003cspan class=\"image_meta\"\u003e\r\n\t\t\t\t\r\n\t\t\t\u003c/span\u003e\r\n\t\t\t\u003c/p\u003e\r\n\t\u003c/figcaption\u003e\r\n\u003c/figure\u003e\n"
+            "content_html": "\r\n\u003cfigure class=\"big\"\u003e\r\n\t\u003cimg src=\"02.jpg\" loading=\"lazy\"\r\n\t\t\t alt=\"alternativetext\" width=\"5827\" height=\"3602\"/\u003e\r\n\t\u003cfigcaption\u003e\r\n\t\t\u003cp\u003e\u003cspan class=\"image_meta\"\u003e\r\n\t\t\t\t\r\n\t\t\t\u003c/span\u003e\r\n\t\t\t\u003c/p\u003e\r\n\t\u003c/figcaption\u003e\r\n\u003c/figure\u003e\n"
         },
         {
             "title": "Information Sources",

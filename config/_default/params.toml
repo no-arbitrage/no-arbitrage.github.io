@@ -48,7 +48,7 @@ defaultBackgroundImage = "/img/background.svg"
   showAuthor = true
   showHero = true
   layoutBackgroundHeaderSpace = true
-  heroStyle = "background"   #basic, big, background, thumbAndBackground
+  heroStyle = "basic"   #basic, big, background, thumbAndBackground
   showBreadcrumbs = true
   showDraftLabel = true
   showEdit = false
@@ -70,12 +70,12 @@ defaultBackgroundImage = "/img/background.svg"
 
 [list]
   showHero = true
-  heroStyle = "background"
+  heroStyle = "background"  #basic, big, background, thumbAndBackground
   defaultBackgroundImage = "/img/background.svg"
    
   layoutBackgroundBlur = true
    
-  layoutBackgroundHeaderSpace = true
+  layoutBackgroundHeaderSpace = false
   showBreadcrumbs = true
   showSummary = false
   showViews = false
@@ -94,7 +94,7 @@ defaultBackgroundImage = "/img/background.svg"
 [taxonomy]
   showTermCount = true
   showHero = false
-  heroStyle = "background"  
+  heroStyle = "basic"   #basic, big, background, thumbAndBackground
   defaultBackgroundImage = "/img/lavalamp.svg"
   layoutBackgroundBlur = true
   layoutBackgroundHeaderSpace = true
