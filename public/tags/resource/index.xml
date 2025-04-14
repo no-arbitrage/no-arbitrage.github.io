@@ -13,10 +13,10 @@
     
     <item>
       <title>Awesome Financial Modeller</title>
-      <link>http://localhost:1313/posts/financial-modeller/</link>
+      <link>http://localhost:1313/posts/financial-modelling-resource/</link>
       <pubDate>Tue, 18 Mar 2025 20:55:37 +0100</pubDate>
       <author>mailto:cai-joseph@outlook.com (Joseph Cai)</author>
-      <guid>http://localhost:1313/posts/financial-modeller/</guid>
+      <guid>http://localhost:1313/posts/financial-modelling-resource/</guid>
       <description>&lt;p&gt;This page is dedicated space to share potenial valuable / useful resource that I found for Financial Modellers.&lt;/p&gt;
 
 
@@ -31,7 +31,7 @@
     
 &lt;/h2&gt;
 &lt;p&gt;&lt;a href=&#34;https://financialmodellingpodcast.com/blog/&#34; target=&#34;_blank&#34;&gt;The Financial Modelling Podcast&lt;/a&gt; by &lt;a href=&#34;https://www.linkedin.com/in/matthewbernath/&#34; target=&#34;_blank&#34;&gt;Matthew Bernath&lt;/a&gt; on &lt;a href=&#34;https://open.spotify.com/show/1A4JQNYReD9JjuPyt5CScm&#34; target=&#34;_blank&#34;&gt;Spotify&lt;/a&gt;, &lt;a href=&#34;https://podcasts.apple.com/us/podcast/the-financial-modelling-podcast/id1429518813&#34; target=&#34;_blank&#34;&gt;Apple Podcast&lt;/a&gt;&lt;/p&gt;</description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/financial-modelling-resource/cover.jpg" />
     </item>
     
     <item>

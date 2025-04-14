@@ -9,12 +9,10 @@ date: 2025-04-09
 draft: false
 ---
 A friend forwarded me the following interesting AI generated video recently. 
-{{< video
-  src="Post-Feed-LinkedIn.mp4"
-  width="600"
->}}
 
+{{< video src="Post-Feed-LinkedIn" width="600" >}}
 The original post is here.
+
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7315349201125580802?collapsed=1" height="399" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 # 
 
