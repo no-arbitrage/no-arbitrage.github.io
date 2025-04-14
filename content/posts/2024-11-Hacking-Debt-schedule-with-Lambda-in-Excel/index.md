@@ -2,7 +2,7 @@
 title: "Hacking Debt Schedule with a Single Lambda Function in Excel"
 summary: "One formula to quickly craft debt schedule with multiple features"
 categories: ["Finance",]
-tags: ["post","finance"]
+tags: ["finance", "Financial-Modelling"]
 #externalUrl: ""
 #showSummary: true
 space: ["Learn"]
