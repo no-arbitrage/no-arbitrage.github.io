@@ -1,7 +1,5 @@
 {{ $disableImageOptimization := .Site.Params.disableImageOptimization | default false }}
-{{ if .Get "default" }}
-  {{ template "_internal/shortcodes/figure.html" . }}
-{{ else }}
+
   {{- $url := urls.Parse (.Get "src") }}
   {{- $altText := .Get "alt" }}
   {{- $caption := .Get "caption" }}
@@ -47,4 +45,3 @@
   {{ with $caption }}<figcaption>{{ . | markdownify }}</figcaption>{{ end }}
   {{ if $href }}</a>{{ end }}
   </figure>
-{{- end -}}
