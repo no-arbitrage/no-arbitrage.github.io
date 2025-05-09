@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Legal-Documents on No Arbitrage</title>
+    <link>http://localhost:1313/tags/legal-documents/</link>
+    <description>Recent content in Legal-Documents on No Arbitrage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>mailto:cai-joseph@outlook.com (Joseph Cai)</managingEditor>
+    <webMaster>mailto:cai-joseph@outlook.com (Joseph Cai)</webMaster>
+    <copyright>&amp;copy; 2025 No Arbitrage. All rights reserved.</copyright>
+    <lastBuildDate>Thu, 13 Mar 2025 20:55:37 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/legal-documents/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Transaction (PEVC) Model Documents &amp; Guidelines</title>
+      <link>http://localhost:1313/posts/2025-5-pevc-model-docs/</link>
+      <pubDate>Thu, 13 Mar 2025 20:55:37 +0100</pubDate>
+      <author>mailto:cai-joseph@outlook.com (Joseph Cai)</author>
+      <guid>http://localhost:1313/posts/2025-5-pevc-model-docs/</guid>
+      <description>By BVCA</description>
+      
+    </item>
+    
+  </channel>
+</rss>

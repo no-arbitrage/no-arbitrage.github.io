@@ -75,6 +75,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/posts/2025-5-pevc-model-docs/</loc>
+    <lastmod>2025-03-13T20:55:37+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/gallery/</loc>
     <lastmod>2025-03-10T20:53:51+08:00</lastmod>
     <changefreq>daily</changefreq>
@@ -211,7 +217,22 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/posts/hello-world/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/2025-04-sql-customer-analytics-new-and-churn/indexmd/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/about/about-author/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/landing/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

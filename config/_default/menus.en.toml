@@ -71,7 +71,7 @@
    pre = "linkedin"
    url = "https://www.linkedin.com/in/joseph-cai"
    identifier = "hM5WWYoueF"
-   weight = 1
+   weight = 2
 
 
 
@@ -112,6 +112,14 @@
 #    parent="Resource"
 #    pageRef = "tags/ml-ai"
 #    weight = 45
+
+# [[main]]
+#    name = "Landing"
+#    # parent="About"
+#    pageRef = "/landing/"
+#    identifier = "landing"
+#    weight = 1
+
 [[main]]
    name = "All Tags"
    parent="Featured"

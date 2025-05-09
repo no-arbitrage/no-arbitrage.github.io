@@ -12,6 +12,26 @@
     <lastBuildDate>Mon, 13 Jun 2022 20:55:37 +0100</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Transaction (PEVC) Model Documents &amp; Guidelines</title>
+      <link>http://localhost:1313/posts/2025-5-pevc-model-docs/</link>
+      <pubDate>Thu, 08 May 2025 20:55:37 +0100</pubDate>
+      <author>mailto:cai-joseph@outlook.com (Joseph Cai)</author>
+      <guid>http://localhost:1313/posts/2025-5-pevc-model-docs/</guid>
+      <description>By BVCA</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/2025-5-pevc-model-docs/cover.png" />
+    </item>
+    
+    <item>
+      <title>Understanding Customer Churn and Growth with SQL</title>
+      <link>http://localhost:1313/posts/sap-sql-reports/05-new-and-churn-customers/</link>
+      <pubDate>Wed, 07 May 2025 14:52:25 +0800</pubDate>
+      <author>mailto:cai-joseph@outlook.com (Joseph Cai)</author>
+      <guid>http://localhost:1313/posts/sap-sql-reports/05-new-and-churn-customers/</guid>
+      <description>This analysis serves as the very first step in understanding the customers behaviours.</description>
+      
+    </item>
+    
+    <item>
       <title>SQL Stock Aging Report for SAP B1</title>
       <link>http://localhost:1313/posts/sap-sql-reports/04-stock-aging/</link>
       <pubDate>Sun, 13 Apr 2025 00:00:00 +0000</pubDate>

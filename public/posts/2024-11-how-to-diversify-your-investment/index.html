@@ -248,7 +248,7 @@
             
   <a href="/"  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
     
-    <p class="text-base font-medium" title="Welcome to No_Arbitrage test!">
+    <p class="text-base font-medium" title="Welcome to No Arbitrage!">
         Home
     </p>
 </a>
@@ -502,7 +502,7 @@
   <li class="mt-1">
     <a href="/"  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
         
-        <p class="text-bg font-bg" title="Welcome to No_Arbitrage test!">
+        <p class="text-bg font-bg" title="Welcome to No Arbitrage!">
             Home
         </p>
     </a>
@@ -674,7 +674,7 @@
     <a
       class="hover:underline decoration-neutral-300 dark:underline-neutral-600"
       href="/"
-      >Welcome to No_Arbitrage test!</a
+      >Welcome to No Arbitrage!</a
     ><span class="px-1 text-primary-500">/</span>
   </li>
 
@@ -1086,7 +1086,6 @@ Download Excel Workbook
     
 </h2>
 <p>I believe the following screenshot should explain how it works probably better than me.
-
 <figure>
         <img
           class="my-0 rounded-md"
@@ -1115,7 +1114,8 @@ Download Excel Workbook
         />
   
   
-  </figure></p>
+  </figure>
+</p>
 
 
 <h3 class="relative group">Step #0: List your assets. 
@@ -1148,7 +1148,6 @@ Download Excel Workbook
 <p>In order collect the adjusted price data, you will need to either manually download the data directly from Yahoo Finance or your custom sources. Alternatively, you can use the python scripts below. All you need to do is to replace the line 4</p>
 <p><code>tickers = [&quot;^GSPC&quot;, &quot;^NDX&quot;, &quot;AAPL&quot;, &quot;MSFT&quot;, &quot;VT&quot;, &quot;GLD&quot;, &quot;TSLA&quot;]</code></p>
 <p>in the square brackets, replace these tickers with your own and make sure each is wrapped in either double or single quotation. And then throw this code into runtime,
-
 <figure>
         <img
           class="my-0 rounded-md"
@@ -1162,7 +1161,8 @@ Download Excel Workbook
         />
   
   
-  </figure></p>
+  </figure>
+</p>
 <p>python code is here</p>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="line"><span class="cl"><span class="kn">import</span> <span class="nn">yfinance</span> <span class="k">as</span> <span class="nn">yf</span>
 </span></span><span class="line"><span class="cl"><span class="kn">import</span> <span class="nn">pandas</span> <span class="k">as</span> <span class="nn">pd</span>
@@ -1199,7 +1199,6 @@ Download Excel Workbook
     </span>        
     
 </h3>
-
 <figure>
         <img
           class="my-0 rounded-md"
@@ -1214,6 +1213,7 @@ Download Excel Workbook
   
   
   </figure>
+
 <p>It is worth to mention that when I downloaded the data into the csv file, the data somehow was formatted as text therefore causing problems in subsequent calculation, it may not happen to you. But to show you how I work around it. I save the data from the download csv directly to the worksheet ‘yfinance-downloads’, and I used power query to help me reformat the data.</p>
 <p>If you would like to use my method, you can copy past the csv data to replace the existing data in the ‘yfinance-downloads’ page, and then, go to Data tab and click Refresh All bottom under Queries and connection section.</p>
 <p>PowerQuery code is here ( in case you are interested).  I’ve wrote my own code to make this query dynamic, able to process your custom data, most likely with different table headings (asset tickers) from mine.</p>
@@ -1244,7 +1244,6 @@ Download Excel Workbook
     </span>        
     
 </h3>
-
 <figure>
         <img
           class="my-0 rounded-md"
@@ -1259,6 +1258,7 @@ Download Excel Workbook
   
   
   </figure>
+
 <p>Please find instructions in Part 3.</p>
 <p>Part 2 can be more interesting to read for people with certain level of financial knowledge or people come from a mathematical, computer science or engineering background, it is perfectly okay if you want to skip these. It mainly explains the certain choices of approach in the worksheet, such one specific return calculation is used instead of another.</p>
 
@@ -1490,27 +1490,27 @@ Covariance between two random variables x and y (or columns of a matrix) is defi
 </h2>
 <p>This is very simple,</p>
 <p><em>1. Switching on Solver feature in Excel if it is not on yet.</em>
-
 <figure>
       <img class="my-0 rounded-md" src="solver-screenshot-1.jpeg" alt="" />
   
   
-  </figure></p>
+  </figure>
+</p>
 <p><em>2. Once enabled, you can find them here</em>
-
 <figure>
       <img class="my-0 rounded-md" src="solver-screenshot-2.jpeg" alt="" />
   
   
-  </figure></p>
+  </figure>
+</p>
 <p>Then, go straight to the point!</p>
 <p><em>3. Configurations Guide</em>
-
 <figure>
       <img class="my-0 rounded-md" src="solver-screenshot-3.jpeg" alt="" />
   
   
-  </figure></p>
+  </figure>
+</p>
 <ul>
 <li>Objective: Set this to be the shape ratio, set max as a goal.</li>
 <li>Changing variables: Select the portfolio weighting array</li>

@@ -1,0 +1,14 @@
+Following structure is copied from Yofolio module under assset
+
+____asset
+|____js
+|    |___app.js 
+|____css
+     | _base.scss
+     _fonts.scss
+     _layout.scss
+     _reset.scss
+     _vars_scss
+     404.scss
+     app.scss
+     critical.scss

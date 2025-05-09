@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Geeky on No Arbitrage</title>
-    <link>http://localhost:54574/tags/geeky/</link>
+    <link>http://localhost:1313/tags/geeky/</link>
     <description>Recent content in Geeky on No Arbitrage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>cai-joseph@outlook.com (Joseph Cai)</managingEditor>
-    <webMaster>cai-joseph@outlook.com (Joseph Cai)</webMaster>
+    <managingEditor>mailto:cai-joseph@outlook.com (Joseph Cai)</managingEditor>
+    <webMaster>mailto:cai-joseph@outlook.com (Joseph Cai)</webMaster>
     <copyright>&amp;copy; 2025 No Arbitrage. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 10 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:54574/tags/geeky/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 10 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/geeky/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Open Source Projects to Checkout</title>
-      <link>http://localhost:54574/resource/opensource-packages/</link>
+      <link>http://localhost:1313/posts/opensource-packages/</link>
       <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
-      <author>cai-joseph@outlook.com (Joseph Cai)</author>
-      <guid>http://localhost:54574/resource/opensource-packages/</guid>
+      <author>mailto:cai-joseph@outlook.com (Joseph Cai)</author>
+      <guid>http://localhost:1313/posts/opensource-packages/</guid>
       <description>Mac/Win/WSL/Linux/iOS</description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/opensource-packages/cover.jpg" />
     </item>
     
   </channel>

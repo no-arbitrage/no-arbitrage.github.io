@@ -1,0 +1,5 @@
+npx @tinacms/cli dev
+hugo server
+
+
+npx tinacms dev -c "hugo server -D -p 1313"

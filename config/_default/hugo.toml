@@ -2,7 +2,7 @@
 # Refer to the theme docs for more details about each of these parameters.
 # https://blowfish.page/docs/getting-started/
 
-theme = ["blowfish"] # ,"hugo-video", "zen"
+theme = ["blowfish", "yourfolio"] # ,"hugo-video", "zen"
 baseURL = "https://www.no-arbitrage.com/"
 defaultContentLanguage = "en"
 title = "No Arbitrage"
