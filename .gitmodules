@@ -8,3 +8,12 @@
 [submodule "themes/hugo-video"]
 	path = themes/hugo-video
 	url = https://github.com/martignoni/hugo-video.git
+[submodule "not-much"]
+	path = not-much
+	url = https://github.com/imgios/not-much
+[submodule "themes/notmuch"]
+	path = themes/notmuch
+	url = https://github.com/imgios/not-much
+[submodule "themes/yourfolio"]
+	path = themes/yourfolio
+	url = https://github.com/no-arbitrage/yourfolio
