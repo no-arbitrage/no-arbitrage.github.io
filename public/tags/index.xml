@@ -9,12 +9,82 @@
     <managingEditor>mailto:cai-joseph@outlook.com (Joseph Cai)</managingEditor>
     <webMaster>mailto:cai-joseph@outlook.com (Joseph Cai)</webMaster>
     <copyright>&amp;copy; 2025 No Arbitrage. All rights reserved.</copyright>
-    <lastBuildDate>Sun, 13 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 21 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Data Skills</title>
+      <link>http://localhost:1313/tags/data-skills/</link>
+      <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
+      <author>mailto:cai-joseph@outlook.com (Joseph Cai)</author>
+      <guid>http://localhost:1313/tags/data-skills/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Excel</title>
+      <link>http://localhost:1313/tags/excel/</link>
+      <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
+      <author>mailto:cai-joseph@outlook.com (Joseph Cai)</author>
+      <guid>http://localhost:1313/tags/excel/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Power Query</title>
+      <link>http://localhost:1313/tags/power-query/</link>
+      <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
+      <author>mailto:cai-joseph@outlook.com (Joseph Cai)</author>
+      <guid>http://localhost:1313/tags/power-query/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Entrepreneurs</title>
+      <link>http://localhost:1313/tags/entrepreneurs/</link>
+      <pubDate>Thu, 08 May 2025 20:55:37 +0100</pubDate>
+      <author>mailto:cai-joseph@outlook.com (Joseph Cai)</author>
+      <guid>http://localhost:1313/tags/entrepreneurs/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Guides</title>
+      <link>http://localhost:1313/tags/guides/</link>
+      <pubDate>Thu, 08 May 2025 20:55:37 +0100</pubDate>
+      <author>mailto:cai-joseph@outlook.com (Joseph Cai)</author>
+      <guid>http://localhost:1313/tags/guides/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Legal-Documents</title>
+      <link>http://localhost:1313/tags/legal-documents/</link>
+      <pubDate>Thu, 08 May 2025 20:55:37 +0100</pubDate>
+      <author>mailto:cai-joseph@outlook.com (Joseph Cai)</author>
+      <guid>http://localhost:1313/tags/legal-documents/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Resource</title>
+      <link>http://localhost:1313/tags/resource/</link>
+      <pubDate>Thu, 08 May 2025 20:55:37 +0100</pubDate>
+      <author>mailto:cai-joseph@outlook.com (Joseph Cai)</author>
+      <guid>http://localhost:1313/tags/resource/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>BI</title>
       <link>http://localhost:1313/tags/bi/</link>
-      <pubDate>Sun, 13 Apr 2025 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 07 May 2025 14:52:25 +0800</pubDate>
       <author>mailto:cai-joseph@outlook.com (Joseph Cai)</author>
       <guid>http://localhost:1313/tags/bi/</guid>
       <description></description>
@@ -24,7 +94,7 @@
     <item>
       <title>Reporting</title>
       <link>http://localhost:1313/tags/reporting/</link>
-      <pubDate>Sun, 13 Apr 2025 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 07 May 2025 14:52:25 +0800</pubDate>
       <author>mailto:cai-joseph@outlook.com (Joseph Cai)</author>
       <guid>http://localhost:1313/tags/reporting/</guid>
       <description></description>
@@ -34,7 +104,7 @@
     <item>
       <title>Sap</title>
       <link>http://localhost:1313/tags/sap/</link>
-      <pubDate>Sun, 13 Apr 2025 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 07 May 2025 14:52:25 +0800</pubDate>
       <author>mailto:cai-joseph@outlook.com (Joseph Cai)</author>
       <guid>http://localhost:1313/tags/sap/</guid>
       <description></description>
@@ -44,7 +114,7 @@
     <item>
       <title>Sql</title>
       <link>http://localhost:1313/tags/sql/</link>
-      <pubDate>Sun, 13 Apr 2025 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 07 May 2025 14:52:25 +0800</pubDate>
       <author>mailto:cai-joseph@outlook.com (Joseph Cai)</author>
       <guid>http://localhost:1313/tags/sql/</guid>
       <description></description>
@@ -112,26 +182,6 @@
     </item>
     
     <item>
-      <title>Guides</title>
-      <link>http://localhost:1313/tags/guides/</link>
-      <pubDate>Tue, 18 Mar 2025 20:55:37 +0100</pubDate>
-      <author>mailto:cai-joseph@outlook.com (Joseph Cai)</author>
-      <guid>http://localhost:1313/tags/guides/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Resource</title>
-      <link>http://localhost:1313/tags/resource/</link>
-      <pubDate>Tue, 18 Mar 2025 20:55:37 +0100</pubDate>
-      <author>mailto:cai-joseph@outlook.com (Joseph Cai)</author>
-      <guid>http://localhost:1313/tags/resource/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>M&amp;A</title>
       <link>http://localhost:1313/tags/ma/</link>
       <pubDate>Fri, 14 Mar 2025 00:00:00 +0000</pubDate>
@@ -157,26 +207,6 @@
       <pubDate>Thu, 13 Mar 2025 20:55:37 +0100</pubDate>
       <author>mailto:cai-joseph@outlook.com (Joseph Cai)</author>
       <guid>http://localhost:1313/tags/archive/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Entrepreneurs</title>
-      <link>http://localhost:1313/tags/entrepreneurs/</link>
-      <pubDate>Thu, 13 Mar 2025 20:55:37 +0100</pubDate>
-      <author>mailto:cai-joseph@outlook.com (Joseph Cai)</author>
-      <guid>http://localhost:1313/tags/entrepreneurs/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Legal-Documents</title>
-      <link>http://localhost:1313/tags/legal-documents/</link>
-      <pubDate>Thu, 13 Mar 2025 20:55:37 +0100</pubDate>
-      <author>mailto:cai-joseph@outlook.com (Joseph Cai)</author>
-      <guid>http://localhost:1313/tags/legal-documents/</guid>
       <description></description>
       
     </item>
@@ -227,16 +257,6 @@
       <pubDate>Mon, 04 Nov 2024 00:00:00 +0000</pubDate>
       <author>mailto:cai-joseph@outlook.com (Joseph Cai)</author>
       <guid>http://localhost:1313/tags/diversification/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Excel</title>
-      <link>http://localhost:1313/tags/excel/</link>
-      <pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate>
-      <author>mailto:cai-joseph@outlook.com (Joseph Cai)</author>
-      <guid>http://localhost:1313/tags/excel/</guid>
       <description></description>
       
     </item>

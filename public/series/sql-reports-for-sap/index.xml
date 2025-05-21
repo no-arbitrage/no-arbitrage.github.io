@@ -18,7 +18,7 @@
       <author>mailto:cai-joseph@outlook.com (Joseph Cai)</author>
       <guid>http://localhost:1313/posts/sap-sql-reports/05-new-and-churn-customers/</guid>
       <description>This analysis serves as the very first step in understanding the customers behaviours.</description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/sap-sql-reports/05-new-and-churn-customers/cover.jpg" />
     </item>
     
   </channel>

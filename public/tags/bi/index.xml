@@ -9,7 +9,17 @@
     <managingEditor>mailto:cai-joseph@outlook.com (Joseph Cai)</managingEditor>
     <webMaster>mailto:cai-joseph@outlook.com (Joseph Cai)</webMaster>
     <copyright>&amp;copy; 2025 No Arbitrage. All rights reserved.</copyright>
-    <lastBuildDate>Sun, 13 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/bi/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 07 May 2025 14:52:25 +0800</lastBuildDate><atom:link href="http://localhost:1313/tags/bi/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Understanding Customer Churn and Growth with SQL</title>
+      <link>http://localhost:1313/posts/sap-sql-reports/05-new-and-churn-customers/</link>
+      <pubDate>Wed, 07 May 2025 14:52:25 +0800</pubDate>
+      <author>mailto:cai-joseph@outlook.com (Joseph Cai)</author>
+      <guid>http://localhost:1313/posts/sap-sql-reports/05-new-and-churn-customers/</guid>
+      <description>This analysis serves as the very first step in understanding the customers behaviours.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/sap-sql-reports/05-new-and-churn-customers/cover.jpg" />
+    </item>
     
     <item>
       <title>SQL Stock Aging Report for SAP B1</title>
