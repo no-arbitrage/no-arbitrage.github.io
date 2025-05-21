@@ -1,5 +1,5 @@
 ---
-title: Power Query Cheat Scripts II - Lists
+title: Power Query Cheat Scripts I - Lists
 summary: 
 categories: ["Excel","Power Query", "Data Skills"]
 series: ["Excel Tutorials"]
